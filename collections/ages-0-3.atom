@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/ages-0-3.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/ages-0-3.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-13T19:05:20+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8574788632729</id>
+    <id>/products/8574788632729</id>
     <published>2025-11-13T19:05:20+04:00</published>
     <updated>2025-11-13T19:05:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mad-hatters-tea-party"/>
+    <link rel="alternate" type="text/html" href="/products/mad-hatters-tea-party"/>
     <title>Mad Hatter&apos;s Tea Party</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -50,7 +50,7 @@ Pages: 24</p></td>
     <s:tag>Picture Books</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574788632729</id>
+      <id>/products/8574788632729</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781928514138</s:sku>
@@ -58,10 +58,10 @@ Pages: 24</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554912809113</id>
+    <id>/products/8554912809113</id>
     <published>2025-10-23T19:46:52+04:00</published>
     <updated>2025-10-23T19:46:52+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-good-habit"/>
+    <link rel="alternate" type="text/html" href="/products/1st-activity-book-good-habit"/>
     <title>1st Activity Book - Good Habit</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -97,7 +97,7 @@ Pages: 68</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554912809113</id>
+      <id>/products/8554912809113</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59788184513660</s:sku>
@@ -105,10 +105,10 @@ Pages: 68</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554912743577</id>
+    <id>/products/8554912743577</id>
     <published>2025-10-23T19:46:50+04:00</published>
     <updated>2025-10-23T19:46:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-environment"/>
+    <link rel="alternate" type="text/html" href="/products/1st-activity-book-environment"/>
     <title>1st Activity Book - Environment</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -144,7 +144,7 @@ Pages: 68</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554912743577</id>
+      <id>/products/8554912743577</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59788184513653</s:sku>
@@ -152,10 +152,10 @@ Pages: 68</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8549457952921</id>
+    <id>/products/8549457952921</id>
     <published>2025-10-18T21:09:32+04:00</published>
     <updated>2025-10-18T21:09:32+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/three-read-with-me-stories-early-readers-large-print-reading-scheme"/>
+    <link rel="alternate" type="text/html" href="/products/three-read-with-me-stories-early-readers-large-print-reading-scheme"/>
     <title>Three Read With Me Stories Early Readers Large Print Reading Scheme</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -188,7 +188,7 @@ Pages:</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8549457952921</id>
+      <id>/products/8549457952921</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RA-59780709724384</s:sku>
@@ -196,10 +196,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8528700178585</id>
+    <id>/products/8528700178585</id>
     <published>2025-09-22T21:57:29+04:00</published>
     <updated>2025-09-22T21:57:29+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/i-am-peter-peter-rabbit-animation"/>
+    <link rel="alternate" type="text/html" href="/products/i-am-peter-peter-rabbit-animation"/>
     <title>I Am Peter (Peter Rabbit Animation)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -236,7 +236,7 @@ Pages: 32</p></td>
     <s:tag>Picture Books</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8528700178585</id>
+      <id>/products/8528700178585</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>15RE-59780141350042</s:sku>
@@ -244,10 +244,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8528699097241</id>
+    <id>/products/8528699097241</id>
     <published>2025-09-22T21:56:29+04:00</published>
     <updated>2025-09-22T21:56:29+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/abacus-year-4-textbook-2"/>
+    <link rel="alternate" type="text/html" href="/products/abacus-year-4-textbook-2"/>
     <title>Abacus. Year 4 Textbook 2</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -284,7 +284,7 @@ Pages: 96</p></td>
     <s:tag>Textbook</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8528699097241</id>
+      <id>/products/8528699097241</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>15RE-59781408278512</s:sku>
@@ -292,10 +292,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8512933331097</id>
+    <id>/products/8512933331097</id>
     <published>2025-08-30T22:20:37+04:00</published>
     <updated>2025-08-30T22:20:37+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lighthouse-keepers-breakfast"/>
+    <link rel="alternate" type="text/html" href="/products/the-lighthouse-keepers-breakfast"/>
     <title>The Lighthouse Keeper&apos;s Breakfast</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -332,7 +332,7 @@ Pages: 32</p></td>
     <s:tag>Picture Books</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8512933331097</id>
+      <id>/products/8512933331097</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>BLK-1-9780439979344</s:sku>
@@ -340,10 +340,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8499595346073</id>
+    <id>/products/8499595346073</id>
     <published>2025-08-06T16:56:58+04:00</published>
     <updated>2025-08-06T16:56:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/baby-s-first-book"/>
+    <link rel="alternate" type="text/html" href="/products/baby-s-first-book"/>
     <title>Baby’s First Book</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -374,7 +374,7 @@ Pages: 32</p></td>
     <s:tag>Age 0-3</s:tag>
     <s:tag>kids</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8499595346073</id>
+      <id>/products/8499595346073</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>1RG9098765</s:sku>
@@ -382,10 +382,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8486409470105</id>
+    <id>/products/8486409470105</id>
     <published>2025-07-14T21:16:14+04:00</published>
     <updated>2025-07-14T21:16:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/rainbow-dash-and-the-daring-do-double-dare"/>
+    <link rel="alternate" type="text/html" href="/products/rainbow-dash-and-the-daring-do-double-dare"/>
     <title>Rainbow Dash and the daring do double dare</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -423,7 +423,7 @@ Pages:</p></td>
     <s:tag>Media Tie-In</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8486409470105</id>
+      <id>/products/8486409470105</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>16RA-49781408347843</s:sku>
@@ -431,10 +431,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8486409339033</id>
+    <id>/products/8486409339033</id>
     <published>2025-07-14T21:16:01+04:00</published>
     <updated>2025-07-14T21:16:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/my-little-pony-early-reader-rainbow-dashs-big-race-book-3"/>
+    <link rel="alternate" type="text/html" href="/products/my-little-pony-early-reader-rainbow-dashs-big-race-book-3"/>
     <title>My Little Pony Early Reader: Rainbow Dash&apos;s Big Race!: Book 3</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -473,7 +473,7 @@ Pages: 64</p></td>
     <s:tag>Media Tie-In</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8486409339033</id>
+      <id>/products/8486409339033</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>16RA-49781408344620</s:sku>
@@ -481,10 +481,10 @@ Pages: 64</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8448614989977</id>
+    <id>/products/8448614989977</id>
     <published>2025-06-16T20:06:31+04:00</published>
     <updated>2025-06-16T20:06:31+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pb3-and-the-vegetables-cd"/>
+    <link rel="alternate" type="text/html" href="/products/pb3-and-the-vegetables-cd"/>
     <title>PB3 and the Vegetables + CD</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -521,7 +521,7 @@ Pages: 32</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Words</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8448614989977</id>
+      <id>/products/8448614989977</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>7RC9788853604231</s:sku>

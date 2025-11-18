@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/mystery.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/mystery.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:21:58+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110371481</id>
+    <id>/products/8579110371481</id>
     <published>2025-11-17T20:21:58+04:00</published>
     <updated>2025-11-17T20:21:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-slippery-slope-a-series-of-unfortunate-events-book-10-a-series-of-unfortunate-events-10"/>
+    <link rel="alternate" type="text/html" href="/products/the-slippery-slope-a-series-of-unfortunate-events-book-10-a-series-of-unfortunate-events-10"/>
     <title>The Slippery Slope (A Series of Unfortunate Events, Book 10) (A Series of Unfortunate Events, 10)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -50,7 +50,7 @@ Pages: 352</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110371481</id>
+      <id>/products/8579110371481</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780064410137</s:sku>
@@ -58,10 +58,10 @@ Pages: 352</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110207641</id>
+    <id>/products/8579110207641</id>
     <published>2025-11-17T20:21:50+04:00</published>
     <updated>2025-11-17T20:21:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-drowning"/>
+    <link rel="alternate" type="text/html" href="/products/the-drowning"/>
     <title>The Drowning</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -96,7 +96,7 @@ Pages: 489</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110207641</id>
+      <id>/products/8579110207641</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007460847</s:sku>
@@ -104,10 +104,10 @@ Pages: 489</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110076569</id>
+    <id>/products/8579110076569</id>
     <published>2025-11-17T20:21:42+04:00</published>
     <updated>2025-11-17T20:21:42+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-carnivorous-carnival"/>
+    <link rel="alternate" type="text/html" href="/products/the-carnivorous-carnival"/>
     <title>The Carnivorous Carnival</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -144,7 +144,7 @@ Pages: 272</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110076569</id>
+      <id>/products/8579110076569</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781405208727</s:sku>
@@ -152,10 +152,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101753497</id>
+    <id>/products/8579101753497</id>
     <published>2025-11-17T20:06:43+04:00</published>
     <updated>2025-11-17T20:06:43+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-penultimate-peril"/>
+    <link rel="alternate" type="text/html" href="/products/the-penultimate-peril"/>
     <title>The Penultimate Peril</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -192,7 +192,7 @@ Pages: 353</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101753497</id>
+      <id>/products/8579101753497</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781405266178</s:sku>
@@ -200,10 +200,10 @@ Pages: 353</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101491353</id>
+    <id>/products/8579101491353</id>
     <published>2025-11-17T20:06:34+04:00</published>
     <updated>2025-11-17T20:06:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-grim-grotto"/>
+    <link rel="alternate" type="text/html" href="/products/the-grim-grotto"/>
     <title>The Grim Grotto</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -240,7 +240,7 @@ Pages: 323</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101491353</id>
+      <id>/products/8579101491353</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781405266161</s:sku>
@@ -248,10 +248,10 @@ Pages: 323</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101229209</id>
+    <id>/products/8579101229209</id>
     <published>2025-11-17T20:06:27+04:00</published>
     <updated>2025-11-17T20:06:27+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/schools-cancelled-anisha-the-accidental-detective-2-anisha-accidental-detective"/>
+    <link rel="alternate" type="text/html" href="/products/schools-cancelled-anisha-the-accidental-detective-2-anisha-accidental-detective"/>
     <title>School&apos;s Cancelled (Anisha the Accidental Detective #2) (Anisha, Accidental Detective)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -289,7 +289,7 @@ Pages: 238</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101229209</id>
+      <id>/products/8579101229209</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781474959537</s:sku>
@@ -297,10 +297,10 @@ Pages: 238</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100967065</id>
+    <id>/products/8579100967065</id>
     <published>2025-11-17T20:06:15+04:00</published>
     <updated>2025-11-17T20:06:15+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/nothing-but-grass"/>
+    <link rel="alternate" type="text/html" href="/products/nothing-but-grass"/>
     <title>Nothing But Grass</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -335,7 +335,7 @@ Pages: 256</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100967065</id>
+      <id>/products/8579100967065</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780099578666</s:sku>
@@ -343,10 +343,10 @@ Pages: 256</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100704921</id>
+    <id>/products/8579100704921</id>
     <published>2025-11-17T20:06:05+04:00</published>
     <updated>2025-11-17T20:06:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/i-will-find-you"/>
+    <link rel="alternate" type="text/html" href="/products/i-will-find-you"/>
     <title>I Will Find You</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -382,7 +382,7 @@ Pages: 407</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100704921</id>
+      <id>/products/8579100704921</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781529160550</s:sku>
@@ -390,10 +390,10 @@ Pages: 407</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100147865</id>
+    <id>/products/8579100147865</id>
     <published>2025-11-17T20:05:50+04:00</published>
     <updated>2025-11-17T20:05:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/all-that-lives-the-gripping-new-thriller-from-the-sunday-times-bestselling-author"/>
+    <link rel="alternate" type="text/html" href="/products/all-that-lives-the-gripping-new-thriller-from-the-sunday-times-bestselling-author"/>
     <title>All That Lives The Gripping New Thriller from the Sunday Times Bestselling Author</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -429,7 +429,7 @@ Pages: 432</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100147865</id>
+      <id>/products/8579100147865</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781472276254</s:sku>
@@ -437,10 +437,10 @@ Pages: 432</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099492505</id>
+    <id>/products/8579099492505</id>
     <published>2025-11-17T20:04:59+04:00</published>
     <updated>2025-11-17T20:04:59+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-romanov-conspiracy-a-thriller"/>
+    <link rel="alternate" type="text/html" href="/products/the-romanov-conspiracy-a-thriller"/>
     <title>The Romanov Conspiracy: A Thriller</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -476,7 +476,7 @@ Pages: 543</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099492505</id>
+      <id>/products/8579099492505</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781451669459</s:sku>
@@ -484,10 +484,10 @@ Pages: 543</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099328665</id>
+    <id>/products/8579099328665</id>
     <published>2025-11-17T20:04:50+04:00</published>
     <updated>2025-11-17T20:04:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lost-letters-of-william-woolf"/>
+    <link rel="alternate" type="text/html" href="/products/the-lost-letters-of-william-woolf"/>
     <title>The Lost Letters of William Woolf</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -523,7 +523,7 @@ Pages: 327</p></td>
     <s:tag>Romance</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099328665</id>
+      <id>/products/8579099328665</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780718189143</s:sku>
@@ -531,10 +531,10 @@ Pages: 327</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099295897</id>
+    <id>/products/8579099295897</id>
     <published>2025-11-17T20:04:47+04:00</published>
     <updated>2025-11-17T20:04:47+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-local"/>
+    <link rel="alternate" type="text/html" href="/products/the-local"/>
     <title>The Local</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -570,7 +570,7 @@ Pages: 320</p></td>
     <s:tag>Suspense</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099295897</id>
+      <id>/products/8579099295897</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781782277743</s:sku>
@@ -578,10 +578,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098738841</id>
+    <id>/products/8579098738841</id>
     <published>2025-11-17T20:04:19+04:00</published>
     <updated>2025-11-17T20:04:19+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dont-get-caught"/>
+    <link rel="alternate" type="text/html" href="/products/dont-get-caught"/>
     <title>Don&apos;t Get Caught</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -619,7 +619,7 @@ Pages: 336</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098738841</id>
+      <id>/products/8579098738841</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781492630142</s:sku>
@@ -627,10 +627,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098640537</id>
+    <id>/products/8579098640537</id>
     <published>2025-11-17T20:04:15+04:00</published>
     <updated>2025-11-17T20:04:15+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dead-girls-society"/>
+    <link rel="alternate" type="text/html" href="/products/dead-girls-society"/>
     <title>Dead Girls Society</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -668,7 +668,7 @@ Pages: 292</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098640537</id>
+      <id>/products/8579098640537</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780553508024</s:sku>
@@ -676,10 +676,10 @@ Pages: 292</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094413465</id>
+    <id>/products/8579094413465</id>
     <published>2025-11-17T19:55:36+04:00</published>
     <updated>2025-11-17T19:55:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/before-she-dies"/>
+    <link rel="alternate" type="text/html" href="/products/before-she-dies"/>
     <title>Before She Dies</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -715,7 +715,7 @@ Pages: 432</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094413465</id>
+      <id>/products/8579094413465</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RB9780241953976</s:sku>
@@ -723,10 +723,10 @@ Pages: 432</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094249625</id>
+    <id>/products/8579094249625</id>
     <published>2025-11-17T19:54:10+04:00</published>
     <updated>2025-11-17T19:54:10+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/trouble-with-goats-sheep"/>
+    <link rel="alternate" type="text/html" href="/products/trouble-with-goats-sheep"/>
     <title>Trouble With Goats &amp; Sheep</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -762,7 +762,7 @@ Pages: 464</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094249625</id>
+      <id>/products/8579094249625</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RC9780008132170</s:sku>
@@ -770,10 +770,10 @@ Pages: 464</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094118553</id>
+    <id>/products/8579094118553</id>
     <published>2025-11-17T19:53:59+04:00</published>
     <updated>2025-11-17T19:53:59+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-nameless-ones"/>
+    <link rel="alternate" type="text/html" href="/products/the-nameless-ones"/>
     <title>The Nameless Ones</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -810,7 +810,7 @@ Pages: 400</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094118553</id>
+      <id>/products/8579094118553</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RC9781529398366</s:sku>
@@ -818,10 +818,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094085785</id>
+    <id>/products/8579094085785</id>
     <published>2025-11-17T19:53:57+04:00</published>
     <updated>2025-11-17T19:53:57+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-house-of-a-hundred-whispers"/>
+    <link rel="alternate" type="text/html" href="/products/the-house-of-a-hundred-whispers"/>
     <title>The House of a Hundred Whispers</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -857,7 +857,7 @@ Pages: 400</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094085785</id>
+      <id>/products/8579094085785</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RC9781789544268</s:sku>
@@ -865,10 +865,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831357081</id>
+    <id>/products/8576831357081</id>
     <published>2025-11-15T20:13:17+04:00</published>
     <updated>2025-11-15T20:13:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-midnight-mystery-book-3-dotty-detective"/>
+    <link rel="alternate" type="text/html" href="/products/the-midnight-mystery-book-3-dotty-detective"/>
     <title>The Midnight Mystery: Book 3 (Dotty Detective)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -905,7 +905,7 @@ Pages:</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831357081</id>
+      <id>/products/8576831357081</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008132422</s:sku>
@@ -913,10 +913,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830111897</id>
+    <id>/products/8576830111897</id>
     <published>2025-11-15T20:12:04+04:00</published>
     <updated>2025-11-15T20:12:04+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-super-secret-agent"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-super-secret-agent"/>
     <title>Dotty Detective - Super Secret Agent</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -952,7 +952,7 @@ Pages: 176</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830111897</id>
+      <id>/products/8576830111897</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008132491</s:sku>
@@ -960,10 +960,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830079129</id>
+    <id>/products/8576830079129</id>
     <published>2025-11-15T20:12:02+04:00</published>
     <updated>2025-11-15T20:12:02+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-6-the-holiday-mystery"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-6-the-holiday-mystery"/>
     <title>Dotty Detective (6) The Holiday Mystery</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1000,7 +1000,7 @@ Pages: 176</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830079129</id>
+      <id>/products/8576830079129</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008248451</s:sku>
@@ -1008,10 +1008,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830046361</id>
+    <id>/products/8576830046361</id>
     <published>2025-11-15T20:12:00+04:00</published>
     <updated>2025-11-15T20:12:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-4-the-lost-puppy"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-4-the-lost-puppy"/>
     <title>Dotty Detective (4) The Lost Puppy</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1048,7 +1048,7 @@ Pages: 144</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830046361</id>
+      <id>/products/8576830046361</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008248376</s:sku>
@@ -1056,10 +1056,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576641007769</id>
+    <id>/products/8576641007769</id>
     <published>2025-11-15T14:31:36+04:00</published>
     <updated>2025-11-15T14:31:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/twisted-pretty-little-liars-book-9"/>
+    <link rel="alternate" type="text/html" href="/products/twisted-pretty-little-liars-book-9"/>
     <title>Twisted (Pretty Little Liars, Book 9)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1097,7 +1097,7 @@ Pages: 305</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576641007769</id>
+      <id>/products/8576641007769</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780062081018</s:sku>
@@ -1105,10 +1105,10 @@ Pages: 305</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640975001</id>
+    <id>/products/8576640975001</id>
     <published>2025-11-15T14:31:34+04:00</published>
     <updated>2025-11-15T14:31:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/trimalchios-feast-and-other-mini-mysteries-the-roman-mysteries"/>
+    <link rel="alternate" type="text/html" href="/products/trimalchios-feast-and-other-mini-mysteries-the-roman-mysteries"/>
     <title>Trimalchio&apos;s Feast and other mini-mysteries (The Roman Mysteries)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1145,7 +1145,7 @@ Pages: 144</p></td>
     <s:tag>Short Stories</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640975001</id>
+      <id>/products/8576640975001</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9781842555934</s:sku>
@@ -1153,10 +1153,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640024729</id>
+    <id>/products/8576640024729</id>
     <published>2025-11-15T14:30:40+04:00</published>
     <updated>2025-11-15T14:30:40+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/framed"/>
+    <link rel="alternate" type="text/html" href="/products/framed"/>
     <title>Framed</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1193,7 +1193,7 @@ Pages: 374</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640024729</id>
+      <id>/products/8576640024729</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9781447265573</s:sku>

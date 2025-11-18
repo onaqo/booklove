@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/adventure.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/adventure.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:22:03+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110502553</id>
+    <id>/products/8579110502553</id>
     <published>2025-11-17T20:22:03+04:00</published>
     <updated>2025-11-17T20:22:03+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/white-fang"/>
+    <link rel="alternate" type="text/html" href="/products/white-fang"/>
     <title>White Fang</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -48,7 +48,7 @@ Pages: 272</p></td>
     <s:tag>Historical</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110502553</id>
+      <id>/products/8579110502553</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007558124</s:sku>
@@ -56,10 +56,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110273177</id>
+    <id>/products/8579110273177</id>
     <published>2025-11-17T20:21:54+04:00</published>
     <updated>2025-11-17T20:21:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-moneypenny-diaries"/>
+    <link rel="alternate" type="text/html" href="/products/the-moneypenny-diaries"/>
     <title>The Moneypenny Diaries</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -95,7 +95,7 @@ Pages: 312</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110273177</id>
+      <id>/products/8579110273177</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780719567773</s:sku>
@@ -103,10 +103,10 @@ Pages: 312</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101851801</id>
+    <id>/products/8579101851801</id>
     <published>2025-11-17T20:06:45+04:00</published>
     <updated>2025-11-17T20:06:45+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/warning-aliens-are-invading-the-school"/>
+    <link rel="alternate" type="text/html" href="/products/warning-aliens-are-invading-the-school"/>
     <title>Warning! Aliens are Invading the School!</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -143,7 +143,7 @@ Pages: 240</p></td>
     <s:tag>Science Fiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101851801</id>
+      <id>/products/8579101851801</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781407117669</s:sku>
@@ -151,10 +151,10 @@ Pages: 240</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101098137</id>
+    <id>/products/8579101098137</id>
     <published>2025-11-17T20:06:22+04:00</published>
     <updated>2025-11-17T20:06:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/project-hail-mary"/>
+    <link rel="alternate" type="text/html" href="/products/project-hail-mary"/>
     <title>Project Hail Mary</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -189,7 +189,7 @@ Pages: 448</p></td>
     <s:tag>Space Opera</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101098137</id>
+      <id>/products/8579101098137</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781529157468</s:sku>
@@ -197,10 +197,10 @@ Pages: 448</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094053017</id>
+    <id>/products/8579094053017</id>
     <published>2025-11-17T19:53:54+04:00</published>
     <updated>2025-11-17T19:53:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-edge-chronicles-13-the-descenders-third-book-of-cade"/>
+    <link rel="alternate" type="text/html" href="/products/the-edge-chronicles-13-the-descenders-third-book-of-cade"/>
     <title>The Edge Chronicles 13: the Descenders Third Book of Cade</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -238,7 +238,7 @@ Pages: 528</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094053017</id>
+      <id>/products/8579094053017</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>11RC9780857535306</s:sku>
@@ -246,10 +246,10 @@ Pages: 528</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831586457</id>
+    <id>/products/8576831586457</id>
     <published>2025-11-15T20:13:29+04:00</published>
     <updated>2025-11-15T20:13:29+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/vacation-under-the-volcano"/>
+    <link rel="alternate" type="text/html" href="/products/vacation-under-the-volcano"/>
     <title>Vacation Under The Volcano</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -287,7 +287,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831586457</id>
+      <id>/products/8576831586457</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780679890508</s:sku>
@@ -295,10 +295,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830832793</id>
+    <id>/products/8576830832793</id>
     <published>2025-11-15T20:12:55+04:00</published>
     <updated>2025-11-15T20:12:55+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/polar-bears-past-bedtime-magic-tree-house-no-12"/>
+    <link rel="alternate" type="text/html" href="/products/polar-bears-past-bedtime-magic-tree-house-no-12"/>
     <title>Polar Bears Past Bedtime (Magic Tree House, No. 12)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -336,7 +336,7 @@ Pages: 96</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830832793</id>
+      <id>/products/8576830832793</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780679883418</s:sku>
@@ -344,10 +344,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830668953</id>
+    <id>/products/8576830668953</id>
     <published>2025-11-15T20:12:42+04:00</published>
     <updated>2025-11-15T20:12:42+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/night-of-the-new-magicians"/>
+    <link rel="alternate" type="text/html" href="/products/night-of-the-new-magicians"/>
     <title>Night of the New Magicians</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -384,7 +384,7 @@ Pages: 144</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830668953</id>
+      <id>/products/8576830668953</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780375830365</s:sku>
@@ -392,10 +392,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830636185</id>
+    <id>/products/8576830636185</id>
     <published>2025-11-15T20:12:39+04:00</published>
     <updated>2025-11-15T20:12:39+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/magic-tree-house-6-dinosaurs-before-dark"/>
+    <link rel="alternate" type="text/html" href="/products/magic-tree-house-6-dinosaurs-before-dark"/>
     <title>Magic Tree House # 6 : Dinosaurs Before Dark</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -432,7 +432,7 @@ Pages: 80</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830636185</id>
+      <id>/products/8576830636185</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780679824114</s:sku>
@@ -440,10 +440,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830570649</id>
+    <id>/products/8576830570649</id>
     <published>2025-11-15T20:12:36+04:00</published>
     <updated>2025-11-15T20:12:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/lions-at-lunchtime-magic-tree-house-no-11"/>
+    <link rel="alternate" type="text/html" href="/products/lions-at-lunchtime-magic-tree-house-no-11"/>
     <title>Lions at Lunchtime (Magic Tree House, No. 11)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -481,7 +481,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830570649</id>
+      <id>/products/8576830570649</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780679883401</s:sku>
@@ -489,10 +489,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576641073305</id>
+    <id>/products/8576641073305</id>
     <published>2025-11-15T14:31:39+04:00</published>
     <updated>2025-11-15T14:31:39+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/viking-ships-at-sunrise"/>
+    <link rel="alternate" type="text/html" href="/products/viking-ships-at-sunrise"/>
     <title>Viking Ships at Sunrise</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -529,7 +529,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576641073305</id>
+      <id>/products/8576641073305</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679890614</s:sku>
@@ -537,10 +537,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640811161</id>
+    <id>/products/8576640811161</id>
     <published>2025-11-15T14:31:24+04:00</published>
     <updated>2025-11-15T14:31:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lost-heir-wings-of-fire-2-2"/>
+    <link rel="alternate" type="text/html" href="/products/the-lost-heir-wings-of-fire-2-2"/>
     <title>The Lost Heir (Wings of Fire #2) (2)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -577,7 +577,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640811161</id>
+      <id>/products/8576640811161</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9780545349246</s:sku>
@@ -585,10 +585,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640778393</id>
+    <id>/products/8576640778393</id>
     <published>2025-11-15T14:31:23+04:00</published>
     <updated>2025-11-15T14:31:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-littles-go-exploring"/>
+    <link rel="alternate" type="text/html" href="/products/the-littles-go-exploring"/>
     <title>The Littles Go Exploring</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -626,7 +626,7 @@ Pages: 94</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640778393</id>
+      <id>/products/8576640778393</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780590465960</s:sku>
@@ -634,10 +634,10 @@ Pages: 94</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640712857</id>
+    <id>/products/8576640712857</id>
     <published>2025-11-15T14:31:19+04:00</published>
     <updated>2025-11-15T14:31:19+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-hidden-kingdom-wings-of-fire-3-3"/>
+    <link rel="alternate" type="text/html" href="/products/the-hidden-kingdom-wings-of-fire-3-3"/>
     <title>The Hidden Kingdom (Wings of Fire #3) (3)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -674,7 +674,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640712857</id>
+      <id>/products/8576640712857</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9780545349253</s:sku>
@@ -682,10 +682,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640680089</id>
+    <id>/products/8576640680089</id>
     <published>2025-11-15T14:31:17+04:00</published>
     <updated>2025-11-15T14:31:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-flames-of-hope-wings-of-fire-15"/>
+    <link rel="alternate" type="text/html" href="/products/the-flames-of-hope-wings-of-fire-15"/>
     <title>The Flames of Hope (Wings of Fire #15)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -717,7 +717,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640680089</id>
+      <id>/products/8576640680089</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9781761203442</s:sku>
@@ -725,10 +725,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640647321</id>
+    <id>/products/8576640647321</id>
     <published>2025-11-15T14:31:15+04:00</published>
     <updated>2025-11-15T14:31:15+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/thanksgiving-on-thursday-magic-tree-house-27"/>
+    <link rel="alternate" type="text/html" href="/products/thanksgiving-on-thursday-magic-tree-house-27"/>
     <title>Thanksgiving on Thursday (Magic Tree House #27)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -765,7 +765,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640647321</id>
+      <id>/products/8576640647321</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780375806155</s:sku>
@@ -773,10 +773,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640614553</id>
+    <id>/products/8576640614553</id>
     <published>2025-11-15T14:31:14+04:00</published>
     <updated>2025-11-15T14:31:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/stage-fright-on-a-summer-night"/>
+    <link rel="alternate" type="text/html" href="/products/stage-fright-on-a-summer-night"/>
     <title>Stage Fright on a Summer Night</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -813,7 +813,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640614553</id>
+      <id>/products/8576640614553</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780375806117</s:sku>
@@ -821,10 +821,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640549017</id>
+    <id>/products/8576640549017</id>
     <published>2025-11-15T14:31:10+04:00</published>
     <updated>2025-11-15T14:31:10+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pirates-past-noon-magic-tree-house-no-4"/>
+    <link rel="alternate" type="text/html" href="/products/pirates-past-noon-magic-tree-house-no-4"/>
     <title>Pirates Past Noon (Magic Tree House, No. 4)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -860,7 +860,7 @@ Pages: 80</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640549017</id>
+      <id>/products/8576640549017</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679824251</s:sku>
@@ -868,10 +868,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640417945</id>
+    <id>/products/8576640417945</id>
     <published>2025-11-15T14:31:02+04:00</published>
     <updated>2025-11-15T14:31:02+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/night-of-the-ninjas-magic-tree-house-no-5"/>
+    <link rel="alternate" type="text/html" href="/products/night-of-the-ninjas-magic-tree-house-no-5"/>
     <title>Night of the Ninjas (Magic Tree House, No. 5)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -908,7 +908,7 @@ Pages: 80</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640417945</id>
+      <id>/products/8576640417945</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679863717</s:sku>
@@ -916,10 +916,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640385177</id>
+    <id>/products/8576640385177</id>
     <published>2025-11-15T14:31:00+04:00</published>
     <updated>2025-11-15T14:31:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mummies-in-the-morning-magic-tree-house-no-3"/>
+    <link rel="alternate" type="text/html" href="/products/mummies-in-the-morning-magic-tree-house-no-3"/>
     <title>Mummies in the Morning (Magic Tree House, No. 3)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -956,7 +956,7 @@ Pages: 80</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640385177</id>
+      <id>/products/8576640385177</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679824244</s:sku>
@@ -964,10 +964,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640352409</id>
+    <id>/products/8576640352409</id>
     <published>2025-11-15T14:30:58+04:00</published>
     <updated>2025-11-15T14:30:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/midnight-on-the-moon-magic-tree-house-no-8"/>
+    <link rel="alternate" type="text/html" href="/products/midnight-on-the-moon-magic-tree-house-no-8"/>
     <title>Midnight on the Moon (Magic Tree House, No. 8)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1004,7 +1004,7 @@ Pages: 80</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640352409</id>
+      <id>/products/8576640352409</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679863748</s:sku>
@@ -1012,10 +1012,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640221337</id>
+    <id>/products/8576640221337</id>
     <published>2025-11-15T14:30:51+04:00</published>
     <updated>2025-11-15T14:30:51+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/high-tide-in-hawaii"/>
+    <link rel="alternate" type="text/html" href="/products/high-tide-in-hawaii"/>
     <title>High Tide in Hawaii</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1052,7 +1052,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640221337</id>
+      <id>/products/8576640221337</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780375806162</s:sku>
@@ -1060,10 +1060,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640123033</id>
+    <id>/products/8576640123033</id>
     <published>2025-11-15T14:30:46+04:00</published>
     <updated>2025-11-15T14:30:46+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/haunted-castle-on-hallows-eve-a-magic-tree-house-merlin-missions-book"/>
+    <link rel="alternate" type="text/html" href="/products/haunted-castle-on-hallows-eve-a-magic-tree-house-merlin-missions-book"/>
     <title>Haunted Castle on Hallows Eve A Magic Tree House Merlin Missions Book</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1100,7 +1100,7 @@ Pages: 144</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640123033</id>
+      <id>/products/8576640123033</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780375860904</s:sku>
@@ -1108,10 +1108,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640090265</id>
+    <id>/products/8576640090265</id>
     <published>2025-11-15T14:30:44+04:00</published>
     <updated>2025-11-15T14:30:44+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/good-morning-gorillas-magic-tree-house-26"/>
+    <link rel="alternate" type="text/html" href="/products/good-morning-gorillas-magic-tree-house-26"/>
     <title>Good Morning, Gorillas (Magic Tree House #26)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1148,7 +1148,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640090265</id>
+      <id>/products/8576640090265</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780375806148</s:sku>
@@ -1156,10 +1156,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576639828121</id>
+    <id>/products/8576639828121</id>
     <published>2025-11-15T14:30:31+04:00</published>
     <updated>2025-11-15T14:30:31+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dolphins-at-daybreak-magic-tree-house-no-9"/>
+    <link rel="alternate" type="text/html" href="/products/dolphins-at-daybreak-magic-tree-house-no-9"/>
     <title>Dolphins at Daybreak (Magic Tree House, No. 9)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1195,7 +1195,7 @@ Pages: 67</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576639828121</id>
+      <id>/products/8576639828121</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780679883388</s:sku>

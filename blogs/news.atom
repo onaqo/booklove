@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/blogs/news.atom"/>
+  <id>/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="/blogs/news.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero - News</title>
   <updated>2024-11-06T18:34:21+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/blogs/news/creative-journaling-event</id>
+    <id>/blogs/news/creative-journaling-event</id>
     <published>2024-11-06T18:34:21+04:00</published>
     <updated>2024-11-06T19:01:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/creative-journaling-event"/>
+    <link rel="alternate" type="text/html" href="/blogs/news/creative-journaling-event"/>
     <title>creative-journaling-event</title>
     <author>
       <name>PageFly</name>
     </author>
   </entry>
   <entry>
-    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-da</id>
+    <id>/blogs/news/happy-world-bicycle-da</id>
     <published>2024-06-07T16:51:22+04:00</published>
     <updated>2024-06-07T16:51:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-da"/>
+    <link rel="alternate" type="text/html" href="/blogs/news/happy-world-bicycle-da"/>
     <title>Happy World Bicycle Day</title>
     <author>
       <name>Shopify API</name>
     </author>
   </entry>
   <entry>
-    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-day-2</id>
+    <id>/blogs/news/happy-world-bicycle-day-2</id>
     <published>2024-06-07T10:49:11+04:00</published>
     <updated>2024-06-07T10:50:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-day-2"/>
+    <link rel="alternate" type="text/html" href="/blogs/news/happy-world-bicycle-day-2"/>
     <title>Happy World Bicycle Day 2</title>
     <author>
       <name>Maria Brito</name>
@@ -55,10 +55,10 @@
     </content>
   </entry>
   <entry>
-    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-day</id>
+    <id>/blogs/news/happy-world-bicycle-day</id>
     <published>2024-06-07T10:45:48+04:00</published>
     <updated>2024-06-07T10:45:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-day"/>
+    <link rel="alternate" type="text/html" href="/blogs/news/happy-world-bicycle-day"/>
     <title>Happy World Bicycle Day</title>
     <author>
       <name>Maria Brito</name>
@@ -76,10 +76,10 @@
     </content>
   </entry>
   <entry>
-    <id>https://bookhero.ae/blogs/news/world-bicycle-day</id>
+    <id>/blogs/news/world-bicycle-day</id>
     <published>2024-06-03T19:30:00+04:00</published>
     <updated>2024-06-07T10:44:19+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/world-bicycle-day"/>
+    <link rel="alternate" type="text/html" href="/blogs/news/world-bicycle-day"/>
     <title>HAPPY WORLD BICYCLE DAY!</title>
     <author>
       <name>Maria Brito</name>

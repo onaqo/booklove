@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/business.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/business.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:06:24+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579101163673</id>
+    <id>/products/8579101163673</id>
     <published>2025-11-17T20:06:24+04:00</published>
     <updated>2025-11-17T20:06:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/rita-mulcahys-risk-management-tricks-of-the-trade-for-project-managers-and-pmi-rmp-exam-prep-guide-a-course-in-a-book"/>
+    <link rel="alternate" type="text/html" href="/products/rita-mulcahys-risk-management-tricks-of-the-trade-for-project-managers-and-pmi-rmp-exam-prep-guide-a-course-in-a-book"/>
     <title>Rita Mulcahy&apos;s Risk Management Tricks of the Trade for Project Managers And PMI-RMP Exam Prep Guide : a Course in a Book</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -47,7 +47,7 @@ Pages: 453</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101163673</id>
+      <id>/products/8579101163673</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9781932735321</s:sku>
@@ -55,10 +55,10 @@ Pages: 453</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099590809</id>
+    <id>/products/8579099590809</id>
     <published>2025-11-17T20:05:01+04:00</published>
     <updated>2025-11-17T20:05:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-score-takes-care-of-itself-my-philosophy-of-leadership"/>
+    <link rel="alternate" type="text/html" href="/products/the-score-takes-care-of-itself-my-philosophy-of-leadership"/>
     <title>The Score Takes Care of Itself: My Philosophy of Leadership</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -93,7 +93,7 @@ Pages: 288</p></td>
     <s:tag>Sports</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099590809</id>
+      <id>/products/8579099590809</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9781591843474</s:sku>
@@ -101,10 +101,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094773913</id>
+    <id>/products/8579094773913</id>
     <published>2025-11-17T19:56:00+04:00</published>
     <updated>2025-11-17T19:56:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-extreme-future-the-top-trends-that-will-reshape-the-world-in-the-next-20-years"/>
+    <link rel="alternate" type="text/html" href="/products/the-extreme-future-the-top-trends-that-will-reshape-the-world-in-the-next-20-years"/>
     <title>The Extreme Future: The Top Trends That Will Reshape the World in the Next 20 Years</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -140,7 +140,7 @@ Pages: 384</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094773913</id>
+      <id>/products/8579094773913</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RB9780452288669</s:sku>
@@ -148,10 +148,10 @@ Pages: 384</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094741145</id>
+    <id>/products/8579094741145</id>
     <published>2025-11-17T19:55:58+04:00</published>
     <updated>2025-11-17T19:55:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/taming-tigers-do-things-you-never-thought-you-could"/>
+    <link rel="alternate" type="text/html" href="/products/taming-tigers-do-things-you-never-thought-you-could"/>
     <title>Taming Tigers Do Things You Never Thought You Could</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -187,7 +187,7 @@ Pages: 304</p></td>
     <s:tag>self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094741145</id>
+      <id>/products/8579094741145</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RB9780753539910</s:sku>
@@ -195,10 +195,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094380697</id>
+    <id>/products/8579094380697</id>
     <published>2025-11-17T19:55:34+04:00</published>
     <updated>2025-11-17T19:55:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/a-whole-new-mind-moving-from-the-information-age-to-the-conceptual-age"/>
+    <link rel="alternate" type="text/html" href="/products/a-whole-new-mind-moving-from-the-information-age-to-the-conceptual-age"/>
     <title>A Whole New Mind: Moving from the Information Age to the Conceptual Age</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -234,7 +234,7 @@ Pages: 260</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094380697</id>
+      <id>/products/8579094380697</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RB9781573223089</s:sku>
@@ -242,10 +242,10 @@ Pages: 260</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094020249</id>
+    <id>/products/8579094020249</id>
     <published>2025-11-17T19:53:52+04:00</published>
     <updated>2025-11-17T19:53:52+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-curriculum-everything-you-need-to-know-to-be-a-master-of-business-arts"/>
+    <link rel="alternate" type="text/html" href="/products/the-curriculum-everything-you-need-to-know-to-be-a-master-of-business-arts"/>
     <title>The Curriculum: Everything You Need to Know to Be a Master of Business Arts</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -281,7 +281,7 @@ Pages: 384</p></td>
     <s:tag>Satire</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094020249</id>
+      <id>/products/8579094020249</id>
       <title>Default Title</title>
       <s:price currency="AED">40.00</s:price>
       <s:sku>11RC9780061998539</s:sku>
@@ -289,10 +289,10 @@ Pages: 384</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579093725337</id>
+    <id>/products/8579093725337</id>
     <published>2025-11-17T19:53:35+04:00</published>
     <updated>2025-11-17T19:53:35+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/good-strategy-bad-strategy-the-difference-and-why-it-matters"/>
+    <link rel="alternate" type="text/html" href="/products/good-strategy-bad-strategy-the-difference-and-why-it-matters"/>
     <title>Good Strategy, Bad Strategy The Difference and why it Matters</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -328,7 +328,7 @@ Pages: 322</p></td>
     <s:tag>Strategy</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579093725337</id>
+      <id>/products/8579093725337</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RC9781781256176</s:sku>
@@ -336,10 +336,10 @@ Pages: 322</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579093692569</id>
+    <id>/products/8579093692569</id>
     <published>2025-11-17T19:53:32+04:00</published>
     <updated>2025-11-17T19:53:32+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything"/>
+    <link rel="alternate" type="text/html" href="/products/freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything"/>
     <title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -375,7 +375,7 @@ Pages: 336</p></td>
     <s:tag>Sociology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579093692569</id>
+      <id>/products/8579093692569</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RC9780141019017</s:sku>
@@ -383,10 +383,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831553689</id>
+    <id>/products/8576831553689</id>
     <published>2025-11-15T20:13:27+04:00</published>
     <updated>2025-11-15T20:13:27+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/thinking-for-a-change-11-ways-highly-successful-people-approach-life-andwork"/>
+    <link rel="alternate" type="text/html" href="/products/thinking-for-a-change-11-ways-highly-successful-people-approach-life-andwork"/>
     <title>Thinking for a Change: 11 Ways Highly Successful People Approach Life andWork</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -422,7 +422,7 @@ Pages: 288</p></td>
     <s:tag>Self-Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831553689</id>
+      <id>/products/8576831553689</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780446692885</s:sku>
@@ -430,10 +430,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831455385</id>
+    <id>/products/8576831455385</id>
     <published>2025-11-15T20:13:22+04:00</published>
     <updated>2025-11-15T20:13:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-value-of-nothing"/>
+    <link rel="alternate" type="text/html" href="/products/the-value-of-nothing"/>
     <title>The Value Of Nothing</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -470,7 +470,7 @@ Pages: 256</p></td>
     <s:tag>Social Justice</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831455385</id>
+      <id>/products/8576831455385</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49781554686223</s:sku>
@@ -478,10 +478,10 @@ Pages: 256</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831389849</id>
+    <id>/products/8576831389849</id>
     <published>2025-11-15T20:13:20+04:00</published>
     <updated>2025-11-15T20:13:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-transformational-cio-leadership-and-innovation-strategies-for-it-executives-in-a-rapidly-changing-world"/>
+    <link rel="alternate" type="text/html" href="/products/the-transformational-cio-leadership-and-innovation-strategies-for-it-executives-in-a-rapidly-changing-world"/>
     <title>The Transformational CIO: Leadership and Innovation Strategies for IT Executives in a Rapidly Changing World</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -517,7 +517,7 @@ Pages: 272</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831389849</id>
+      <id>/products/8576831389849</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>17RE-49780470647554</s:sku>
@@ -525,10 +525,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831324313</id>
+    <id>/products/8576831324313</id>
     <published>2025-11-15T20:13:14+04:00</published>
     <updated>2025-11-15T20:13:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses"/>
+    <link rel="alternate" type="text/html" href="/products/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses"/>
     <title>The Lean Startup: How Today&apos;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -564,7 +564,7 @@ Pages: 320</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831324313</id>
+      <id>/products/8576831324313</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>17RE-49780670921607</s:sku>
@@ -572,10 +572,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576829849753</id>
+    <id>/products/8576829849753</id>
     <published>2025-11-15T20:11:48+04:00</published>
     <updated>2025-11-15T20:11:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/business-without-the-bullsh-t-48-secrets-and-shortcuts-you-need-to-know"/>
+    <link rel="alternate" type="text/html" href="/products/business-without-the-bullsh-t-48-secrets-and-shortcuts-you-need-to-know"/>
     <title>Business Without the Bullsh*t 48 Secrets and Shortcuts You Need to Know</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -610,7 +610,7 @@ Pages: 265</p></td>
     <s:tag>Productivity</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576829849753</id>
+      <id>/products/8576829849753</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49781455583966</s:sku>
@@ -618,10 +618,10 @@ Pages: 265</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8575990071449</id>
+    <id>/products/8575990071449</id>
     <published>2025-11-14T18:49:54+04:00</published>
     <updated>2025-11-14T18:49:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/delivering-happiness-a-path-to-profits-passion-and-purpose"/>
+    <link rel="alternate" type="text/html" href="/products/delivering-happiness-a-path-to-profits-passion-and-purpose"/>
     <title>Delivering Happiness: A Path to Profits, Passion and Purpose</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -659,7 +659,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8575990071449</id>
+      <id>/products/8575990071449</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RD-4-9780446585323</s:sku>
@@ -667,10 +667,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8575989514393</id>
+    <id>/products/8575989514393</id>
     <published>2025-11-14T18:49:44+04:00</published>
     <updated>2025-11-14T18:49:44+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/alwaleed-businessman-billionaire-prince"/>
+    <link rel="alternate" type="text/html" href="/products/alwaleed-businessman-billionaire-prince"/>
     <title>Alwaleed Businessman, Billionaire, Prince</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -704,7 +704,7 @@ Pages: 416</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8575989514393</id>
+      <id>/products/8575989514393</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RD-4-9780007215133</s:sku>
@@ -712,10 +712,10 @@ Pages: 416</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574794989721</id>
+    <id>/products/8574794989721</id>
     <published>2025-11-13T19:15:08+04:00</published>
     <updated>2025-11-13T19:15:08+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-ultimate-sales-machine-turbocharge-your-business-with-relentless-focus-on-12-key-strategies"/>
+    <link rel="alternate" type="text/html" href="/products/the-ultimate-sales-machine-turbocharge-your-business-with-relentless-focus-on-12-key-strategies"/>
     <title>The Ultimate Sales Machine: Turbocharge Your Business with Relentless Focus on 12 Key Strategies</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -751,7 +751,7 @@ Pages: 336</p></td>
     <s:tag>Sales</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574794989721</id>
+      <id>/products/8574794989721</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781591842156</s:sku>
@@ -759,10 +759,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574794694809</id>
+    <id>/products/8574794694809</id>
     <published>2025-11-13T19:14:53+04:00</published>
     <updated>2025-11-13T19:14:53+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/secrets-of-a-freelance-writer"/>
+    <link rel="alternate" type="text/html" href="/products/secrets-of-a-freelance-writer"/>
     <title>Secrets of a Freelance Writer</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -798,7 +798,7 @@ Pages: 416</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Writing</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574794694809</id>
+      <id>/products/8574794694809</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9780805078039</s:sku>
@@ -806,10 +806,10 @@ Pages: 416</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574794563737</id>
+    <id>/products/8574794563737</id>
     <published>2025-11-13T19:14:48+04:00</published>
     <updated>2025-11-13T19:14:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/samsara-enter-the-valley-of-the-gods"/>
+    <link rel="alternate" type="text/html" href="/products/samsara-enter-the-valley-of-the-gods"/>
     <title>Samsara: Enter the Valley of the Gods</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -844,7 +844,7 @@ Pages: 298</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Writing</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574794563737</id>
+      <id>/products/8574794563737</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9780143458289</s:sku>
@@ -852,10 +852,10 @@ Pages: 298</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574793810073</id>
+    <id>/products/8574793810073</id>
     <published>2025-11-13T19:14:12+04:00</published>
     <updated>2025-11-13T19:14:12+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/from-startup-to-exit"/>
+    <link rel="alternate" type="text/html" href="/products/from-startup-to-exit"/>
     <title>FROM STARTUP TO EXIT</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -891,7 +891,7 @@ Pages:</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574793810073</id>
+      <id>/products/8574793810073</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781404116962</s:sku>
@@ -899,10 +899,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574788141209</id>
+    <id>/products/8574788141209</id>
     <published>2025-11-13T19:05:09+04:00</published>
     <updated>2025-11-13T19:05:09+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/inspirational-leadership-henry-v-and-the-muse-of-fire-timeless-insights-from-shakespeares-greatest-leader"/>
+    <link rel="alternate" type="text/html" href="/products/inspirational-leadership-henry-v-and-the-muse-of-fire-timeless-insights-from-shakespeares-greatest-leader"/>
     <title>Inspirational Leadership Henry V and the Muse of Fire: Timeless Insights from Shakespeare&apos;s Greatest Leader</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -939,7 +939,7 @@ Pages: 256</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574788141209</id>
+      <id>/products/8574788141209</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781905879007</s:sku>
@@ -947,10 +947,10 @@ Pages: 256</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574787977369</id>
+    <id>/products/8574787977369</id>
     <published>2025-11-13T19:05:05+04:00</published>
     <updated>2025-11-13T19:05:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/im-afraid-debbie-from-marketing-has-left-for-the-day-how-to-use-behavioral-design-to-create-change-in-the-real-world"/>
+    <link rel="alternate" type="text/html" href="/products/im-afraid-debbie-from-marketing-has-left-for-the-day-how-to-use-behavioral-design-to-create-change-in-the-real-world"/>
     <title>I&apos;m Afraid Debbie from Marketing Has Left for the Day How to Use Behavioral Design to Create Change in the Real World</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -988,7 +988,7 @@ Pages: 304</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574787977369</id>
+      <id>/products/8574787977369</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781786278951</s:sku>
@@ -996,10 +996,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574787584153</id>
+    <id>/products/8574787584153</id>
     <published>2025-11-13T19:04:58+04:00</published>
     <updated>2025-11-13T19:04:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/effortless-make-it-easier-to-do-what-matters-most"/>
+    <link rel="alternate" type="text/html" href="/products/effortless-make-it-easier-to-do-what-matters-most"/>
     <title>Effortless Make It Easier to Do What Matters Most</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1037,7 +1037,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574787584153</id>
+      <id>/products/8574787584153</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>14RC9780593135648</s:sku>
@@ -1045,10 +1045,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574775591065</id>
+    <id>/products/8574775591065</id>
     <published>2025-11-13T18:43:42+04:00</published>
     <updated>2025-11-13T18:43:42+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/a-wake-up-call-for-idea-champions-the-transformation-of-a-proven-business-strategy-paradigm-shifts-in-suggestion-systems"/>
+    <link rel="alternate" type="text/html" href="/products/a-wake-up-call-for-idea-champions-the-transformation-of-a-proven-business-strategy-paradigm-shifts-in-suggestion-systems"/>
     <title>A Wake-Up Call for Idea Champions The Transformation of a Proven Business Strategy: Paradigm Shifts in Suggestion Systems</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1084,7 +1084,7 @@ Pages: 212</p></td>
     <s:tag>Strategy</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574775591065</id>
+      <id>/products/8574775591065</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RD9780969874904</s:sku>
@@ -1092,10 +1092,10 @@ Pages: 212</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574265098393</id>
+    <id>/products/8574265098393</id>
     <published>2025-11-12T20:58:21+04:00</published>
     <updated>2025-11-12T20:58:21+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/radical-candor-how-to-get-what-you-want-by-saying-what-you-mean"/>
+    <link rel="alternate" type="text/html" href="/products/radical-candor-how-to-get-what-you-want-by-saying-what-you-mean"/>
     <title>Radical Candor How to Get What You Want by Saying What You Mean</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1132,7 +1132,7 @@ Pages: 336</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574265098393</id>
+      <id>/products/8574265098393</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>13RD9781529038347</s:sku>
@@ -1140,10 +1140,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574261199001</id>
+    <id>/products/8574261199001</id>
     <published>2025-11-12T20:48:24+04:00</published>
     <updated>2025-11-12T20:48:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-womans-new-selling-game-how-to-sell-yourself-and-anything-else"/>
+    <link rel="alternate" type="text/html" href="/products/the-womans-new-selling-game-how-to-sell-yourself-and-anything-else"/>
     <title>The Woman&apos;s New Selling Game: How to Sell Yourself-And Anything Else</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1178,7 +1178,7 @@ Pages: 212</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574261199001</id>
+      <id>/products/8574261199001</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>13RF9780070318281</s:sku>

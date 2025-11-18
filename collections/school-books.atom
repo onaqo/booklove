@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/school-books.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/school-books.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:21:30+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579109879961</id>
+    <id>/products/8579109879961</id>
     <published>2025-11-17T20:21:30+04:00</published>
     <updated>2025-11-17T20:21:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mastering-english-literature"/>
+    <link rel="alternate" type="text/html" href="/products/mastering-english-literature"/>
     <title>Mastering English Literature</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -47,7 +47,7 @@ Pages: 560</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109879961</id>
+      <id>/products/8579109879961</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RD9781403944887</s:sku>
@@ -55,10 +55,10 @@ Pages: 560</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100835993</id>
+    <id>/products/8579100835993</id>
     <published>2025-11-17T20:06:11+04:00</published>
     <updated>2025-11-17T20:06:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mastering-psychology-macmillan-master-series-5"/>
+    <link rel="alternate" type="text/html" href="/products/mastering-psychology-macmillan-master-series-5"/>
     <title>Mastering Psychology (Macmillan Master Series, 5)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -93,7 +93,7 @@ Pages: 400</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100835993</id>
+      <id>/products/8579100835993</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780333620502</s:sku>
@@ -101,10 +101,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8575992070297</id>
+    <id>/products/8575992070297</id>
     <published>2025-11-14T18:50:31+04:00</published>
     <updated>2025-11-14T18:50:31+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/yoga-games-for-children-fun-and-fitness-with-postures-movements-and-breath-smartfun-activity-books"/>
+    <link rel="alternate" type="text/html" href="/products/yoga-games-for-children-fun-and-fitness-with-postures-movements-and-breath-smartfun-activity-books"/>
     <title>Yoga Games for Children: Fun and Fitness with Postures, Movements and Breath (SmartFun Activity Books)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -139,7 +139,7 @@ Pages: 160</p></td>
     <s:tag>Parenting</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8575992070297</id>
+      <id>/products/8575992070297</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RD-4-9780897933896</s:sku>
@@ -147,10 +147,10 @@ Pages: 160</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574788796569</id>
+    <id>/products/8574788796569</id>
     <published>2025-11-13T19:05:24+04:00</published>
     <updated>2025-11-13T19:05:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/minecraft-guide-to-creative"/>
+    <link rel="alternate" type="text/html" href="/products/minecraft-guide-to-creative"/>
     <title>Minecraft Guide to Creative</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -186,7 +186,7 @@ Pages: 96</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574788796569</id>
+      <id>/products/8574788796569</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781405285988</s:sku>
@@ -194,10 +194,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574786994329</id>
+    <id>/products/8574786994329</id>
     <published>2025-11-13T19:04:45+04:00</published>
     <updated>2025-11-13T19:04:45+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/all-new-official-minecraft-creative-handbook-the-latest-updated-revised-essential-2022-guide-book-for-the-best-selling-video-game-of-all-time"/>
+    <link rel="alternate" type="text/html" href="/products/all-new-official-minecraft-creative-handbook-the-latest-updated-revised-essential-2022-guide-book-for-the-best-selling-video-game-of-all-time"/>
     <title>All New Official Minecraft Creative Handbook: The Latest Updated &amp; Revised Essential 2022 Guide Book for the Best Selling Video Game of All Time</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -234,7 +234,7 @@ Pages: 96</p></td>
     <s:tag>Nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574786994329</id>
+      <id>/products/8574786994329</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9780755500413</s:sku>
@@ -242,10 +242,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8568925421721</id>
+    <id>/products/8568925421721</id>
     <published>2025-11-07T15:28:24+04:00</published>
     <updated>2025-11-07T15:28:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/willkommen-1-third-edition-german-beginner-s-course"/>
+    <link rel="alternate" type="text/html" href="/products/willkommen-1-third-edition-german-beginner-s-course"/>
     <title>Willkommen! 1 (Third edition) German Beginner s course</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -280,7 +280,7 @@ Pages: 276</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8568925421721</id>
+      <id>/products/8568925421721</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>17RC-3-9781473672659</s:sku>
@@ -288,10 +288,10 @@ Pages: 276</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8568924930201</id>
+    <id>/products/8568924930201</id>
     <published>2025-11-07T15:27:56+04:00</published>
     <updated>2025-11-07T15:27:56+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/french-grammar-practice-collins-easy-learning"/>
+    <link rel="alternate" type="text/html" href="/products/french-grammar-practice-collins-easy-learning"/>
     <title>French Grammar &amp; Practice (Collins Easy Learning)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -326,7 +326,7 @@ Pages: 320</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8568924930201</id>
+      <id>/products/8568924930201</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-3-9780008141639</s:sku>
@@ -334,10 +334,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8568847270041</id>
+    <id>/products/8568847270041</id>
     <published>2025-11-07T13:28:02+04:00</published>
     <updated>2025-11-07T13:28:02+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/learn-french-the-fast-and-fun-way"/>
+    <link rel="alternate" type="text/html" href="/products/learn-french-the-fast-and-fun-way"/>
     <title>Learn French the Fast and Fun Way</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -374,7 +374,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8568847270041</id>
+      <id>/products/8568847270041</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-1-9780764125591</s:sku>
@@ -382,10 +382,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8567460495513</id>
+    <id>/products/8567460495513</id>
     <published>2025-11-05T22:14:25+04:00</published>
     <updated>2025-11-05T22:14:25+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/why-why-why-do-tornadoes-twist"/>
+    <link rel="alternate" type="text/html" href="/products/why-why-why-do-tornadoes-twist"/>
     <title>Why why why do tornadoes twist?</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -423,7 +423,7 @@ Pages: 32</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Weather</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8567460495513</id>
+      <id>/products/8567460495513</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-1-9781842367452</s:sku>
@@ -431,10 +431,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8567460397209</id>
+    <id>/products/8567460397209</id>
     <published>2025-11-05T22:14:23+04:00</published>
     <updated>2025-11-05T22:14:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/theres-a-hole-in-the-sky-i-wonder-why-and-other-questions-about-the-environment"/>
+    <link rel="alternate" type="text/html" href="/products/theres-a-hole-in-the-sky-i-wonder-why-and-other-questions-about-the-environment"/>
     <title>There&apos;s a Hole in the Sky (I Wonder Why): And Other Questions About the Environment</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -472,7 +472,7 @@ Pages: 32</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8567460397209</id>
+      <id>/products/8567460397209</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-1-9780753417041</s:sku>
@@ -480,10 +480,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8567457317017</id>
+    <id>/products/8567457317017</id>
     <published>2025-11-05T22:13:40+04:00</published>
     <updated>2025-11-05T22:13:40+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/i-wonder-why-the-sea-is-salty-and-other-questions-about-the-oceans"/>
+    <link rel="alternate" type="text/html" href="/products/i-wonder-why-the-sea-is-salty-and-other-questions-about-the-oceans"/>
     <title>I Wonder Why the Sea Is Salty : And Other Questions About the Oceans</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -522,7 +522,7 @@ Pages: 32</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8567457317017</id>
+      <id>/products/8567457317017</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-1-9781856973137</s:sku>
@@ -530,10 +530,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8567456727193</id>
+    <id>/products/8567456727193</id>
     <published>2025-11-05T22:13:30+04:00</published>
     <updated>2025-11-05T22:13:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/everything-you-need-to-know-about-math-homework"/>
+    <link rel="alternate" type="text/html" href="/products/everything-you-need-to-know-about-math-homework"/>
     <title>Everything You Need to Know about Math Homework</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -568,7 +568,7 @@ Pages: 152</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8567456727193</id>
+      <id>/products/8567456727193</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-1-9780545374736</s:sku>
@@ -576,10 +576,10 @@ Pages: 152</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8567456628889</id>
+    <id>/products/8567456628889</id>
     <published>2025-11-05T22:13:28+04:00</published>
     <updated>2025-11-05T22:13:28+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/do-magnets-push-and-pull"/>
+    <link rel="alternate" type="text/html" href="/products/do-magnets-push-and-pull"/>
     <title>Do Magnets Push and Pull?</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -616,7 +616,7 @@ Pages: 32</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8567456628889</id>
+      <id>/products/8567456628889</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-1-9781842367377</s:sku>
@@ -624,10 +624,10 @@ Pages: 32</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8558618640537</id>
+    <id>/products/8558618640537</id>
     <published>2025-10-27T22:04:59+04:00</published>
     <updated>2025-10-27T22:04:59+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/montessori-from-the-start-the-child-at-home-from-birth-to-age-three"/>
+    <link rel="alternate" type="text/html" href="/products/montessori-from-the-start-the-child-at-home-from-birth-to-age-three"/>
     <title>Montessori from the Start: The Child at Home, from Birth to Age Three</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -663,7 +663,7 @@ Pages: 304</p></td>
     <s:tag>Parenting</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8558618640537</id>
+      <id>/products/8558618640537</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RD-39780805211122</s:sku>
@@ -671,10 +671,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554913005721</id>
+    <id>/products/8554913005721</id>
     <published>2025-10-23T19:47:01+04:00</published>
     <updated>2025-10-23T19:47:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/365-toddler-activities-that-inspire-creativity-games-projects-and-pastimes-that-encourage-a-childs-learning-and-imagination"/>
+    <link rel="alternate" type="text/html" href="/products/365-toddler-activities-that-inspire-creativity-games-projects-and-pastimes-that-encourage-a-childs-learning-and-imagination"/>
     <title>365 Toddler Activities That Inspire Creativity: Games, Projects, and Pastimes That Encourage a Child&apos;s Learning and Imagination</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -710,7 +710,7 @@ Pages: 272</p></td>
     <s:tag>Parenting</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554913005721</id>
+      <id>/products/8554913005721</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59781440550744</s:sku>
@@ -718,10 +718,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554912841881</id>
+    <id>/products/8554912841881</id>
     <published>2025-10-23T19:46:55+04:00</published>
     <updated>2025-10-23T19:46:55+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-maths"/>
+    <link rel="alternate" type="text/html" href="/products/1st-activity-book-maths"/>
     <title>1st Activity Book - Maths</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -756,7 +756,7 @@ Pages: 68</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554912841881</id>
+      <id>/products/8554912841881</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59788184513684</s:sku>
@@ -764,10 +764,10 @@ Pages: 68</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554912809113</id>
+    <id>/products/8554912809113</id>
     <published>2025-10-23T19:46:52+04:00</published>
     <updated>2025-10-23T19:46:52+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-good-habit"/>
+    <link rel="alternate" type="text/html" href="/products/1st-activity-book-good-habit"/>
     <title>1st Activity Book - Good Habit</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -803,7 +803,7 @@ Pages: 68</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554912809113</id>
+      <id>/products/8554912809113</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59788184513660</s:sku>
@@ -811,10 +811,10 @@ Pages: 68</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554912743577</id>
+    <id>/products/8554912743577</id>
     <published>2025-10-23T19:46:50+04:00</published>
     <updated>2025-10-23T19:46:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-environment"/>
+    <link rel="alternate" type="text/html" href="/products/1st-activity-book-environment"/>
     <title>1st Activity Book - Environment</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -850,7 +850,7 @@ Pages: 68</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554912743577</id>
+      <id>/products/8554912743577</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RC-59788184513653</s:sku>
@@ -858,10 +858,10 @@ Pages: 68</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551210746009</id>
+    <id>/products/8551210746009</id>
     <published>2025-10-20T19:02:21+04:00</published>
     <updated>2025-10-20T19:02:21+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/peaceful-parent-happy-siblings-how-to-stop-the-fighting-and-raise-friends-for-life-the-peaceful-parent-series"/>
+    <link rel="alternate" type="text/html" href="/products/peaceful-parent-happy-siblings-how-to-stop-the-fighting-and-raise-friends-for-life-the-peaceful-parent-series"/>
     <title>Peaceful Parent, Happy Siblings: How to Stop the Fighting and Raise Friends for Life (The Peaceful Parent Series)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -898,7 +898,7 @@ Pages: 352</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551210746009</id>
+      <id>/products/8551210746009</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RB-4-9780399168451</s:sku>
@@ -906,10 +906,10 @@ Pages: 352</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551210385561</id>
+    <id>/products/8551210385561</id>
     <published>2025-10-20T19:01:57+04:00</published>
     <updated>2025-10-20T19:01:57+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/free-the-children"/>
+    <link rel="alternate" type="text/html" href="/products/free-the-children"/>
     <title>Free the Children</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -946,7 +946,7 @@ Pages: 262</p></td>
     <s:tag>Social Issues</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551210385561</id>
+      <id>/products/8551210385561</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RB-4-9780978437503</s:sku>
@@ -954,10 +954,10 @@ Pages: 262</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551207469209</id>
+    <id>/products/8551207469209</id>
     <published>2025-10-20T18:55:20+04:00</published>
     <updated>2025-10-20T18:55:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/whatever-happened-to-penny-candy-a-fast-clear-and-fun-explanation-of-the-economics-you-need-for-success-in-your-career-business-and-investments-an-uncle-eric-book"/>
+    <link rel="alternate" type="text/html" href="/products/whatever-happened-to-penny-candy-a-fast-clear-and-fun-explanation-of-the-economics-you-need-for-success-in-your-career-business-and-investments-an-uncle-eric-book"/>
     <title>Whatever Happened to Penny Candy? A Fast, Clear, and Fun Explanation of the Economics You Need For Success in Your Career, Business, and Investments (An Uncle Eric Book)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -994,7 +994,7 @@ Pages: 168</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551207469209</id>
+      <id>/products/8551207469209</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RB-29780942617641</s:sku>
@@ -1002,10 +1002,10 @@ Pages: 168</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551204913305</id>
+    <id>/products/8551204913305</id>
     <published>2025-10-20T18:49:30+04:00</published>
     <updated>2025-10-20T18:49:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/essential-arabic-english-and-arabic-edition"/>
+    <link rel="alternate" type="text/html" href="/products/essential-arabic-english-and-arabic-edition"/>
     <title>Essential Arabic (English and Arabic Edition)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1041,7 +1041,7 @@ Pages: 192</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551204913305</id>
+      <id>/products/8551204913305</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RB-19788185063263</s:sku>
@@ -1049,10 +1049,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551204683929</id>
+    <id>/products/8551204683929</id>
     <published>2025-10-20T18:49:17+04:00</published>
     <updated>2025-10-20T18:49:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/101-drama-games-for-children-fun-and-learning-with-acting-and-make-believe-smartfun-activity-books"/>
+    <link rel="alternate" type="text/html" href="/products/101-drama-games-for-children-fun-and-learning-with-acting-and-make-believe-smartfun-activity-books"/>
     <title>101 Drama Games for Children: Fun and Learning with Acting and Make-Believe (SmartFun Activity Books)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1088,7 +1088,7 @@ Pages: 160</p></td>
     <s:tag>Performing Arts</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551204683929</id>
+      <id>/products/8551204683929</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RB-19780897932110</s:sku>
@@ -1096,10 +1096,10 @@ Pages: 160</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8549463031961</id>
+    <id>/products/8549463031961</id>
     <published>2025-10-18T21:29:08+04:00</published>
     <updated>2025-10-18T21:29:08+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/help-your-child-with-a-foreign-language"/>
+    <link rel="alternate" type="text/html" href="/products/help-your-child-with-a-foreign-language"/>
     <title>Help Your Child With a Foreign Language</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1135,7 +1135,7 @@ Pages: 215</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8549463031961</id>
+      <id>/products/8549463031961</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>15RB-4-9782831568065</s:sku>
@@ -1143,10 +1143,10 @@ Pages: 215</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8549461754009</id>
+    <id>/products/8549461754009</id>
     <published>2025-10-18T21:23:51+04:00</published>
     <updated>2025-10-18T21:23:51+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-enchanted-hour-the-miraculous-power-of-reading-aloud-in-the-age-of-distraction"/>
+    <link rel="alternate" type="text/html" href="/products/the-enchanted-hour-the-miraculous-power-of-reading-aloud-in-the-age-of-distraction"/>
     <title>The Enchanted Hour: The Miraculous Power of Reading Aloud in the Age of Distraction</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1183,7 +1183,7 @@ Pages: 288</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8549461754009</id>
+      <id>/products/8549461754009</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>15RB-3-9780349422961</s:sku>

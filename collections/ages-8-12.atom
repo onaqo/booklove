@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/ages-8-12.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/ages-8-12.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:21:58+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110371481</id>
+    <id>/products/8579110371481</id>
     <published>2025-11-17T20:21:58+04:00</published>
     <updated>2025-11-17T20:21:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-slippery-slope-a-series-of-unfortunate-events-book-10-a-series-of-unfortunate-events-10"/>
+    <link rel="alternate" type="text/html" href="/products/the-slippery-slope-a-series-of-unfortunate-events-book-10-a-series-of-unfortunate-events-10"/>
     <title>The Slippery Slope (A Series of Unfortunate Events, Book 10) (A Series of Unfortunate Events, 10)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -50,7 +50,7 @@ Pages: 352</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110371481</id>
+      <id>/products/8579110371481</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780064410137</s:sku>
@@ -58,10 +58,10 @@ Pages: 352</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110076569</id>
+    <id>/products/8579110076569</id>
     <published>2025-11-17T20:21:42+04:00</published>
     <updated>2025-11-17T20:21:42+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-carnivorous-carnival"/>
+    <link rel="alternate" type="text/html" href="/products/the-carnivorous-carnival"/>
     <title>The Carnivorous Carnival</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -98,7 +98,7 @@ Pages: 272</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110076569</id>
+      <id>/products/8579110076569</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781405208727</s:sku>
@@ -106,10 +106,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101851801</id>
+    <id>/products/8579101851801</id>
     <published>2025-11-17T20:06:45+04:00</published>
     <updated>2025-11-17T20:06:45+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/warning-aliens-are-invading-the-school"/>
+    <link rel="alternate" type="text/html" href="/products/warning-aliens-are-invading-the-school"/>
     <title>Warning! Aliens are Invading the School!</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -146,7 +146,7 @@ Pages: 240</p></td>
     <s:tag>Science Fiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101851801</id>
+      <id>/products/8579101851801</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781407117669</s:sku>
@@ -154,10 +154,10 @@ Pages: 240</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101753497</id>
+    <id>/products/8579101753497</id>
     <published>2025-11-17T20:06:43+04:00</published>
     <updated>2025-11-17T20:06:43+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-penultimate-peril"/>
+    <link rel="alternate" type="text/html" href="/products/the-penultimate-peril"/>
     <title>The Penultimate Peril</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -194,7 +194,7 @@ Pages: 353</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101753497</id>
+      <id>/products/8579101753497</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781405266178</s:sku>
@@ -202,10 +202,10 @@ Pages: 353</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101491353</id>
+    <id>/products/8579101491353</id>
     <published>2025-11-17T20:06:34+04:00</published>
     <updated>2025-11-17T20:06:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-grim-grotto"/>
+    <link rel="alternate" type="text/html" href="/products/the-grim-grotto"/>
     <title>The Grim Grotto</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -242,7 +242,7 @@ Pages: 323</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101491353</id>
+      <id>/products/8579101491353</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781405266161</s:sku>
@@ -250,10 +250,10 @@ Pages: 323</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101229209</id>
+    <id>/products/8579101229209</id>
     <published>2025-11-17T20:06:27+04:00</published>
     <updated>2025-11-17T20:06:27+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/schools-cancelled-anisha-the-accidental-detective-2-anisha-accidental-detective"/>
+    <link rel="alternate" type="text/html" href="/products/schools-cancelled-anisha-the-accidental-detective-2-anisha-accidental-detective"/>
     <title>School&apos;s Cancelled (Anisha the Accidental Detective #2) (Anisha, Accidental Detective)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -291,7 +291,7 @@ Pages: 238</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101229209</id>
+      <id>/products/8579101229209</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781474959537</s:sku>
@@ -299,10 +299,10 @@ Pages: 238</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094053017</id>
+    <id>/products/8579094053017</id>
     <published>2025-11-17T19:53:54+04:00</published>
     <updated>2025-11-17T19:53:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-edge-chronicles-13-the-descenders-third-book-of-cade"/>
+    <link rel="alternate" type="text/html" href="/products/the-edge-chronicles-13-the-descenders-third-book-of-cade"/>
     <title>The Edge Chronicles 13: the Descenders Third Book of Cade</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -340,7 +340,7 @@ Pages: 528</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094053017</id>
+      <id>/products/8579094053017</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>11RC9780857535306</s:sku>
@@ -348,10 +348,10 @@ Pages: 528</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830570649</id>
+    <id>/products/8576830570649</id>
     <published>2025-11-15T20:12:36+04:00</published>
     <updated>2025-11-15T20:12:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/lions-at-lunchtime-magic-tree-house-no-11"/>
+    <link rel="alternate" type="text/html" href="/products/lions-at-lunchtime-magic-tree-house-no-11"/>
     <title>Lions at Lunchtime (Magic Tree House, No. 11)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -389,7 +389,7 @@ Pages: 96</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830570649</id>
+      <id>/products/8576830570649</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780679883401</s:sku>
@@ -397,10 +397,10 @@ Pages: 96</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830505113</id>
+    <id>/products/8576830505113</id>
     <published>2025-11-15T20:12:30+04:00</published>
     <updated>2025-11-15T20:12:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/isadora-moon-goes-to-the-fair"/>
+    <link rel="alternate" type="text/html" href="/products/isadora-moon-goes-to-the-fair"/>
     <title>Isadora Moon Goes to the Fair</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -438,7 +438,7 @@ Pages: 128</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Vampires</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830505113</id>
+      <id>/products/8576830505113</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780192767103</s:sku>
@@ -446,10 +446,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830472345</id>
+    <id>/products/8576830472345</id>
     <published>2025-11-15T20:12:28+04:00</published>
     <updated>2025-11-15T20:12:28+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/isadora-moon-goes-on-holiday"/>
+    <link rel="alternate" type="text/html" href="/products/isadora-moon-goes-on-holiday"/>
     <title>Isadora Moon Goes on Holiday</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -487,7 +487,7 @@ Pages: 128</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Vampires</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830472345</id>
+      <id>/products/8576830472345</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780192771643</s:sku>
@@ -495,10 +495,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830374041</id>
+    <id>/products/8576830374041</id>
     <published>2025-11-15T20:12:21+04:00</published>
     <updated>2025-11-15T20:12:21+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/isadora-moon-gets-in-trouble"/>
+    <link rel="alternate" type="text/html" href="/products/isadora-moon-gets-in-trouble"/>
     <title>Isadora Moon Gets In Trouble</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -536,7 +536,7 @@ Pages: 128</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Vampires</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830374041</id>
+      <id>/products/8576830374041</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780192758514</s:sku>
@@ -544,10 +544,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830341273</id>
+    <id>/products/8576830341273</id>
     <published>2025-11-15T20:12:18+04:00</published>
     <updated>2025-11-15T20:12:18+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/isadora-moon-and-the-new-girl"/>
+    <link rel="alternate" type="text/html" href="/products/isadora-moon-and-the-new-girl"/>
     <title>Isadora Moon and the New Girl</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -584,7 +584,7 @@ Pages: 128</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Vampires</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830341273</id>
+      <id>/products/8576830341273</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780192778086</s:sku>
@@ -592,10 +592,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830111897</id>
+    <id>/products/8576830111897</id>
     <published>2025-11-15T20:12:04+04:00</published>
     <updated>2025-11-15T20:12:04+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-super-secret-agent"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-super-secret-agent"/>
     <title>Dotty Detective - Super Secret Agent</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -631,7 +631,7 @@ Pages: 176</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830111897</id>
+      <id>/products/8576830111897</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008132491</s:sku>
@@ -639,10 +639,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830079129</id>
+    <id>/products/8576830079129</id>
     <published>2025-11-15T20:12:02+04:00</published>
     <updated>2025-11-15T20:12:02+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-6-the-holiday-mystery"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-6-the-holiday-mystery"/>
     <title>Dotty Detective (6) The Holiday Mystery</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -679,7 +679,7 @@ Pages: 176</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830079129</id>
+      <id>/products/8576830079129</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008248451</s:sku>
@@ -687,10 +687,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830046361</id>
+    <id>/products/8576830046361</id>
     <published>2025-11-15T20:12:00+04:00</published>
     <updated>2025-11-15T20:12:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dotty-detective-4-the-lost-puppy"/>
+    <link rel="alternate" type="text/html" href="/products/dotty-detective-4-the-lost-puppy"/>
     <title>Dotty Detective (4) The Lost Puppy</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -727,7 +727,7 @@ Pages: 144</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830046361</id>
+      <id>/products/8576830046361</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-49780008248376</s:sku>
@@ -735,10 +735,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576829751449</id>
+    <id>/products/8576829751449</id>
     <published>2025-11-15T20:11:41+04:00</published>
     <updated>2025-11-15T20:11:41+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/basher-science-rocks-and-minerals-a-gem-of-a-book"/>
+    <link rel="alternate" type="text/html" href="/products/basher-science-rocks-and-minerals-a-gem-of-a-book"/>
     <title>Basher Science: Rocks and Minerals A Gem of a Book</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -775,7 +775,7 @@ Pages: 128</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576829751449</id>
+      <id>/products/8576829751449</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780753463147</s:sku>
@@ -783,10 +783,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576829718681</id>
+    <id>/products/8576829718681</id>
     <published>2025-11-15T20:11:38+04:00</published>
     <updated>2025-11-15T20:11:38+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/basher-science-astronomy-out-of-this-world"/>
+    <link rel="alternate" type="text/html" href="/products/basher-science-astronomy-out-of-this-world"/>
     <title>Basher Science: Astronomy: Out of this World!</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -823,7 +823,7 @@ Pages: 128</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576829718681</id>
+      <id>/products/8576829718681</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780753466179</s:sku>
@@ -831,10 +831,10 @@ Pages: 128</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640975001</id>
+    <id>/products/8576640975001</id>
     <published>2025-11-15T14:31:34+04:00</published>
     <updated>2025-11-15T14:31:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/trimalchios-feast-and-other-mini-mysteries-the-roman-mysteries"/>
+    <link rel="alternate" type="text/html" href="/products/trimalchios-feast-and-other-mini-mysteries-the-roman-mysteries"/>
     <title>Trimalchio&apos;s Feast and other mini-mysteries (The Roman Mysteries)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -871,7 +871,7 @@ Pages: 144</p></td>
     <s:tag>Short Stories</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640975001</id>
+      <id>/products/8576640975001</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9781842555934</s:sku>
@@ -879,10 +879,10 @@ Pages: 144</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640843929</id>
+    <id>/products/8576640843929</id>
     <published>2025-11-15T14:31:26+04:00</published>
     <updated>2025-11-15T14:31:26+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-naughtiest-girl"/>
+    <link rel="alternate" type="text/html" href="/products/the-naughtiest-girl"/>
     <title>The Naughtiest Girl</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -919,7 +919,7 @@ Pages: 256</p></td>
     <s:tag>School Stories</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640843929</id>
+      <id>/products/8576640843929</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9781444958614</s:sku>
@@ -927,10 +927,10 @@ Pages: 256</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640811161</id>
+    <id>/products/8576640811161</id>
     <published>2025-11-15T14:31:24+04:00</published>
     <updated>2025-11-15T14:31:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lost-heir-wings-of-fire-2-2"/>
+    <link rel="alternate" type="text/html" href="/products/the-lost-heir-wings-of-fire-2-2"/>
     <title>The Lost Heir (Wings of Fire #2) (2)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -967,7 +967,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640811161</id>
+      <id>/products/8576640811161</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9780545349246</s:sku>
@@ -975,10 +975,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640778393</id>
+    <id>/products/8576640778393</id>
     <published>2025-11-15T14:31:23+04:00</published>
     <updated>2025-11-15T14:31:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-littles-go-exploring"/>
+    <link rel="alternate" type="text/html" href="/products/the-littles-go-exploring"/>
     <title>The Littles Go Exploring</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1016,7 +1016,7 @@ Pages: 94</p></td>
     <s:tag>kids</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640778393</id>
+      <id>/products/8576640778393</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780590465960</s:sku>
@@ -1024,10 +1024,10 @@ Pages: 94</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640745625</id>
+    <id>/products/8576640745625</id>
     <published>2025-11-15T14:31:21+04:00</published>
     <updated>2025-11-15T14:31:21+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-littles"/>
+    <link rel="alternate" type="text/html" href="/products/the-littles"/>
     <title>The Littles</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1065,7 +1065,7 @@ Pages: 80</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640745625</id>
+      <id>/products/8576640745625</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780590462259</s:sku>
@@ -1073,10 +1073,10 @@ Pages: 80</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640712857</id>
+    <id>/products/8576640712857</id>
     <published>2025-11-15T14:31:19+04:00</published>
     <updated>2025-11-15T14:31:19+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-hidden-kingdom-wings-of-fire-3-3"/>
+    <link rel="alternate" type="text/html" href="/products/the-hidden-kingdom-wings-of-fire-3-3"/>
     <title>The Hidden Kingdom (Wings of Fire #3) (3)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1113,7 +1113,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640712857</id>
+      <id>/products/8576640712857</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9780545349253</s:sku>
@@ -1121,10 +1121,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640680089</id>
+    <id>/products/8576640680089</id>
     <published>2025-11-15T14:31:17+04:00</published>
     <updated>2025-11-15T14:31:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-flames-of-hope-wings-of-fire-15"/>
+    <link rel="alternate" type="text/html" href="/products/the-flames-of-hope-wings-of-fire-15"/>
     <title>The Flames of Hope (Wings of Fire #15)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1156,7 +1156,7 @@ Pages: 336</p></td>
     <s:tag>Middle Grade</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640680089</id>
+      <id>/products/8576640680089</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-2-9781761203442</s:sku>
@@ -1164,10 +1164,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576640581785</id>
+    <id>/products/8576640581785</id>
     <published>2025-11-15T14:31:12+04:00</published>
     <updated>2025-11-15T14:31:12+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/showing-off-upside-down-magic"/>
+    <link rel="alternate" type="text/html" href="/products/showing-off-upside-down-magic"/>
     <title>Showing Off (Upside Down Magic)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1204,7 +1204,7 @@ Pages: 208</p></td>
     <s:tag>Magic</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576640581785</id>
+      <id>/products/8576640581785</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9781407168043</s:sku>

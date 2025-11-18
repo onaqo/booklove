@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/series.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/series.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-10T20:05:11+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8570850967705</id>
+    <id>/products/8570850967705</id>
     <published>2025-11-10T20:05:11+04:00</published>
     <updated>2025-11-10T20:05:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-promised-neverland-manga-volumes-1-to-11"/>
+    <link rel="alternate" type="text/html" href="/products/the-promised-neverland-manga-volumes-1-to-11"/>
     <title>The Promised Neverland Manga – Volumes 1 to 11</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -45,7 +45,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8570850967705</id>
+      <id>/products/8570850967705</id>
       <title>Default Title</title>
       <s:price currency="AED">220.00</s:price>
       <s:sku>11RA313132</s:sku>
@@ -53,10 +53,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559360540825</id>
+    <id>/products/8559360540825</id>
     <published>2025-10-28T20:10:14+04:00</published>
     <updated>2025-10-28T20:10:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/fallen-trilogy-3-book-set-by-lauren-kate"/>
+    <link rel="alternate" type="text/html" href="/products/fallen-trilogy-3-book-set-by-lauren-kate"/>
     <title>Fallen Trilogy (3 Book Set) by Lauren Kate</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -86,7 +86,7 @@
     </summary>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559360540825</id>
+      <id>/products/8559360540825</id>
       <title>Default Title</title>
       <s:price currency="AED">60.00</s:price>
       <s:sku>12RA32323</s:sku>
@@ -94,10 +94,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8554821451929</id>
+    <id>/products/8554821451929</id>
     <published>2025-10-23T18:44:02+04:00</published>
     <updated>2025-10-23T18:44:02+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/ripley-s-twists-set-of-5-books"/>
+    <link rel="alternate" type="text/html" href="/products/ripley-s-twists-set-of-5-books"/>
     <title>Ripley’s Twists (Set of 5 Books)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -130,7 +130,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8554821451929</id>
+      <id>/products/8554821451929</id>
       <title>Default Title</title>
       <s:price currency="AED">50.00</s:price>
       <s:sku>14RA34324</s:sku>
@@ -138,10 +138,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551699218585</id>
+    <id>/products/8551699218585</id>
     <published>2025-10-21T19:20:03+04:00</published>
     <updated>2025-10-21T19:20:03+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/total-development-program-skills-series-volumes-1-17"/>
+    <link rel="alternate" type="text/html" href="/products/total-development-program-skills-series-volumes-1-17"/>
     <title>Total Development Program – Skills Series (Volumes 1–17)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -173,7 +173,7 @@
     </summary>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551699218585</id>
+      <id>/products/8551699218585</id>
       <title>Default Title</title>
       <s:price currency="AED">300.00</s:price>
       <s:sku>3RA235</s:sku>
@@ -181,10 +181,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551697481881</id>
+    <id>/products/8551697481881</id>
     <published>2025-10-21T19:12:20+04:00</published>
     <updated>2025-10-21T19:12:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/total-development-program-knowledge-series-volumes-1-24"/>
+    <link rel="alternate" type="text/html" href="/products/total-development-program-knowledge-series-volumes-1-24"/>
     <title>Total Development Program – Knowledge Series (Volumes 1–24)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -231,7 +231,7 @@
     </summary>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551697481881</id>
+      <id>/products/8551697481881</id>
       <title>Default Title</title>
       <s:price currency="AED">450.00</s:price>
       <s:sku>9RA98765</s:sku>
@@ -239,10 +239,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551692402841</id>
+    <id>/products/8551692402841</id>
     <published>2025-10-21T18:54:42+04:00</published>
     <updated>2025-10-21T18:54:42+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/english-time-level-1-10-total-development-program-skills"/>
+    <link rel="alternate" type="text/html" href="/products/english-time-level-1-10-total-development-program-skills"/>
     <title>English Time Level 1–10 – Total Development Program (Skills)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -276,7 +276,7 @@
     <s:tag>kids</s:tag>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551692402841</id>
+      <id>/products/8551692402841</id>
       <title>Default Title</title>
       <s:price currency="AED">200.00</s:price>
       <s:sku>3RA398762</s:sku>
@@ -284,10 +284,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551691223193</id>
+    <id>/products/8551691223193</id>
     <published>2025-10-21T18:46:13+04:00</published>
     <updated>2025-10-21T18:46:13+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/learning-math-with-albert-levels-1-to-10"/>
+    <link rel="alternate" type="text/html" href="/products/learning-math-with-albert-levels-1-to-10"/>
     <title>Learning Math with Albert – Levels 1 to 10</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -322,7 +322,7 @@
     <s:tag>kids</s:tag>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551691223193</id>
+      <id>/products/8551691223193</id>
       <title>Default Title</title>
       <s:price currency="AED">200.00</s:price>
       <s:sku>3RA456</s:sku>
@@ -330,10 +330,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8551689420953</id>
+    <id>/products/8551689420953</id>
     <published>2025-10-21T18:28:07+04:00</published>
     <updated>2025-10-21T18:28:07+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/a-child-s-first-library-of-values-volumes-1-to-15-total-development-program"/>
+    <link rel="alternate" type="text/html" href="/products/a-child-s-first-library-of-values-volumes-1-to-15-total-development-program"/>
     <title>A Child’s First Library of Values – Volumes 1 to 15 (Total Development Program)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -380,7 +380,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8551689420953</id>
+      <id>/products/8551689420953</id>
       <title>Default Title</title>
       <s:price currency="AED">300.00</s:price>
       <s:sku>3RA324568</s:sku>
@@ -388,10 +388,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8549468143769</id>
+    <id>/products/8549468143769</id>
     <published>2025-10-18T21:52:20+04:00</published>
     <updated>2025-10-18T21:52:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/harry-and-the-bucketful-of-dinosaurs-9-books"/>
+    <link rel="alternate" type="text/html" href="/products/harry-and-the-bucketful-of-dinosaurs-9-books"/>
     <title>Harry and the Bucketful of Dinosaurs 9 Books</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -456,7 +456,7 @@
     <s:tag>kids</s:tag>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8549468143769</id>
+      <id>/products/8549468143769</id>
       <title>Default Title</title>
       <s:price currency="AED">180.00</s:price>
       <s:sku>13RA8765432</s:sku>
@@ -464,10 +464,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8548992057497</id>
+    <id>/products/8548992057497</id>
     <published>2025-10-17T19:06:20+04:00</published>
     <updated>2025-10-17T19:06:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/peppa-pig-the-amazing-collection-1-50"/>
+    <link rel="alternate" type="text/html" href="/products/peppa-pig-the-amazing-collection-1-50"/>
     <title>Peppa Pig: The Amazing Collection 1–50</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -495,7 +495,7 @@
     <s:tag>kids</s:tag>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8548992057497</id>
+      <id>/products/8548992057497</id>
       <title>Default Title</title>
       <s:price currency="AED">150.00</s:price>
       <s:sku>10RA09876543</s:sku>
@@ -503,10 +503,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8546078818457</id>
+    <id>/products/8546078818457</id>
     <published>2025-10-14T18:06:00+04:00</published>
     <updated>2025-10-14T18:06:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/read-it-yourself-with-ladybird-level-2-collection-copy"/>
+    <link rel="alternate" type="text/html" href="/products/read-it-yourself-with-ladybird-level-2-collection-copy"/>
     <title>Read It Yourself with Ladybird – Level 4 Collection(7 Books)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -562,7 +562,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8546078818457</id>
+      <id>/products/8546078818457</id>
       <title>Default Title</title>
       <s:price currency="AED">70.00</s:price>
       <s:sku>11RA230987423</s:sku>
@@ -570,10 +570,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8546065842329</id>
+    <id>/products/8546065842329</id>
     <published>2025-10-14T17:51:54+04:00</published>
     <updated>2025-10-14T17:51:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/read-it-yourself-with-ladybird-level-3-collection-copy"/>
+    <link rel="alternate" type="text/html" href="/products/read-it-yourself-with-ladybird-level-3-collection-copy"/>
     <title>Read It Yourself with Ladybird – Level 2 Collection(16 Books)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -655,7 +655,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8546065842329</id>
+      <id>/products/8546065842329</id>
       <title>Default Title</title>
       <s:price currency="AED">160.00</s:price>
       <s:sku>11RA230987423</s:sku>
@@ -663,10 +663,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8546057617561</id>
+    <id>/products/8546057617561</id>
     <published>2025-10-14T17:45:41+04:00</published>
     <updated>2025-10-14T17:45:41+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/read-it-yourself-with-ladybird-level-2-collection"/>
+    <link rel="alternate" type="text/html" href="/products/read-it-yourself-with-ladybird-level-2-collection"/>
     <title>Read It Yourself with Ladybird – Level 3 Collection(8 Books)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -726,7 +726,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8546057617561</id>
+      <id>/products/8546057617561</id>
       <title>Default Title</title>
       <s:price currency="AED">80.00</s:price>
       <s:sku>11RA230987423E3</s:sku>
@@ -734,10 +734,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8546045001881</id>
+    <id>/products/8546045001881</id>
     <published>2025-10-14T17:36:14+04:00</published>
     <updated>2025-10-14T17:36:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/read-it-yourself-with-ladybird-level-1-collection"/>
+    <link rel="alternate" type="text/html" href="/products/read-it-yourself-with-ladybird-level-1-collection"/>
     <title>Read It Yourself with Ladybird – Level 1 Collection(15 Books)</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -819,7 +819,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8546045001881</id>
+      <id>/products/8546045001881</id>
       <title>Default Title</title>
       <s:price currency="AED">150.00</s:price>
       <s:sku>11RA98765756</s:sku>
@@ -827,10 +827,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8525655081113</id>
+    <id>/products/8525655081113</id>
     <published>2025-09-19T12:44:55+04:00</published>
     <updated>2025-09-19T12:44:55+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/rich-dad-classics-boxed-set-by-robert-t-kiyosaki"/>
+    <link rel="alternate" type="text/html" href="/products/rich-dad-classics-boxed-set-by-robert-t-kiyosaki"/>
     <title>Rich Dad Classics Boxed Set by Robert T. Kiyosaki</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -860,7 +860,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8525655081113</id>
+      <id>/products/8525655081113</id>
       <title>Default Title</title>
       <s:price currency="AED">60.00</s:price>
       <s:sku>4RA9781612680156</s:sku>
@@ -868,10 +868,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8506533413017</id>
+    <id>/products/8506533413017</id>
     <published>2025-08-19T20:46:01+04:00</published>
     <updated>2025-08-19T20:46:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mr-men-40th-anniversary-box-set"/>
+    <link rel="alternate" type="text/html" href="/products/mr-men-40th-anniversary-box-set"/>
     <title>Mr. Men 40th Anniversary Box Set</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -937,7 +937,7 @@
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8506533413017</id>
+      <id>/products/8506533413017</id>
       <title>Default Title</title>
       <s:price currency="AED">80.00</s:price>
       <s:sku>14RA9780843198355</s:sku>
@@ -945,10 +945,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8443474182297</id>
+    <id>/products/8443474182297</id>
     <published>2025-06-05T19:40:47+04:00</published>
     <updated>2025-06-05T19:40:47+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/ruthless-boys-of-the-zodiac-series-bookish-box-exclusive-luxe-edition-set"/>
+    <link rel="alternate" type="text/html" href="/products/ruthless-boys-of-the-zodiac-series-bookish-box-exclusive-luxe-edition-set"/>
     <title>Ruthless Boys of the Zodiac Series – Bookish Box Exclusive Luxe Edition Set</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -975,7 +975,7 @@
     </summary>
     <s:tag>series</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8443474182297</id>
+      <id>/products/8443474182297</id>
       <title>Default Title</title>
       <s:price currency="AED">800.00</s:price>
       <s:sku>6RA34647</s:sku>
@@ -983,10 +983,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8402572148889</id>
+    <id>/products/8402572148889</id>
     <published>2025-04-16T13:57:52+04:00</published>
     <updated>2025-04-16T13:57:52+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/ben-10-easy-readers-10-books-and-then-there-were-10-tourist-trap-kevin-11-the-alliance-a-small-problem-secrets-truth-framed-the-galactic-enforcers-ultimate-weapon-ben-10"/>
+    <link rel="alternate" type="text/html" href="/products/ben-10-easy-readers-10-books-and-then-there-were-10-tourist-trap-kevin-11-the-alliance-a-small-problem-secrets-truth-framed-the-galactic-enforcers-ultimate-weapon-ben-10"/>
     <title>Ben 10 Easy Readers, 10 Books,(And Then There Were 10, Tourist/Trap, Kevin 11, The Alliance, A Small Problem, Secrets, Truth, Framed, The Galactic Enforcers, Ultimate Weapon) (Ben 10)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1024,7 +1024,7 @@ Pages: 640</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>young adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8402572148889</id>
+      <id>/products/8402572148889</id>
       <title>Default Title</title>
       <s:price currency="AED">100.00</s:price>
       <s:sku>5RB9780603564703</s:sku>
@@ -1032,10 +1032,10 @@ Pages: 640</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8380500541593</id>
+    <id>/products/8380500541593</id>
     <published>2025-03-22T20:51:00+04:00</published>
     <updated>2025-03-22T20:51:00+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/harry-potter-and-the-goblet-of-fire-harry-potter-book-4-4"/>
+    <link rel="alternate" type="text/html" href="/products/harry-potter-and-the-goblet-of-fire-harry-potter-book-4-4"/>
     <title>Harry Potter and the Goblet of Fire (Harry Potter, Book 4)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1066,7 +1066,7 @@ Pages: 640</p></td>
     <s:tag>Series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8380500541593</id>
+      <id>/products/8380500541593</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>8RC9781338299175</s:sku>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/comics-manga.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/comics-manga.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-13T19:14:36+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8574794301593</id>
+    <id>/products/8574794301593</id>
     <published>2025-11-13T19:14:36+04:00</published>
     <updated>2025-11-13T19:14:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/manga-an-anthology-of-global-and-cultural-perspectives"/>
+    <link rel="alternate" type="text/html" href="/products/manga-an-anthology-of-global-and-cultural-perspectives"/>
     <title>Manga: An Anthology of Global and Cultural Perspectives</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -49,7 +49,7 @@ Pages: 368</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574794301593</id>
+      <id>/products/8574794301593</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9780826429384</s:sku>
@@ -57,10 +57,10 @@ Pages: 368</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8570850967705</id>
+    <id>/products/8570850967705</id>
     <published>2025-11-10T20:05:11+04:00</published>
     <updated>2025-11-10T20:05:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-promised-neverland-manga-volumes-1-to-11"/>
+    <link rel="alternate" type="text/html" href="/products/the-promised-neverland-manga-volumes-1-to-11"/>
     <title>The Promised Neverland Manga – Volumes 1 to 11</title>
     <s:type></s:type>
     <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
@@ -93,7 +93,7 @@ Pages: 368</p></td>
     <s:tag>series</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8570850967705</id>
+      <id>/products/8570850967705</id>
       <title>Default Title</title>
       <s:price currency="AED">220.00</s:price>
       <s:sku>11RA313132</s:sku>
@@ -101,10 +101,10 @@ Pages: 368</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8569917374617</id>
+    <id>/products/8569917374617</id>
     <published>2025-11-08T19:07:11+04:00</published>
     <updated>2025-11-08T19:07:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/naruto-sakuras-story-love-riding-on-the-spring-breeze-naruto-novels"/>
+    <link rel="alternate" type="text/html" href="/products/naruto-sakuras-story-love-riding-on-the-spring-breeze-naruto-novels"/>
     <title>Naruto: Sakura&apos;s Story--Love Riding on the Spring Breeze (Naruto Novels)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -140,7 +140,7 @@ Pages: 160</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Young Adult</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8569917374617</id>
+      <id>/products/8569917374617</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>13RA9781421584423</s:sku>
@@ -148,10 +148,10 @@ Pages: 160</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942238361</id>
+    <id>/products/8559942238361</id>
     <published>2025-10-29T21:37:58+04:00</published>
     <updated>2025-10-29T21:37:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/yu-gi-oh-zexal-vol-6-6"/>
+    <link rel="alternate" type="text/html" href="/products/yu-gi-oh-zexal-vol-6-6"/>
     <title>Yu-Gi-Oh! Zexal, Vol. 6 (6)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -183,7 +183,7 @@ Pages: 200</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942238361</id>
+      <id>/products/8559942238361</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421576923</s:sku>
@@ -191,10 +191,10 @@ Pages: 200</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942205593</id>
+    <id>/products/8559942205593</id>
     <published>2025-10-29T21:37:55+04:00</published>
     <updated>2025-10-29T21:37:55+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/yu-gi-oh-duelist-vol-8"/>
+    <link rel="alternate" type="text/html" href="/products/yu-gi-oh-duelist-vol-8"/>
     <title>Yu-Gi-Oh! Duelist, Vol. 8</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -226,7 +226,7 @@ Pages: 224</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942205593</id>
+      <id>/products/8559942205593</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781591169987</s:sku>
@@ -234,10 +234,10 @@ Pages: 224</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942172825</id>
+    <id>/products/8559942172825</id>
     <published>2025-10-29T21:37:53+04:00</published>
     <updated>2025-10-29T21:37:53+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/tunnels-of-blood-story-darren-shan-manga-takahiro-arai"/>
+    <link rel="alternate" type="text/html" href="/products/tunnels-of-blood-story-darren-shan-manga-takahiro-arai"/>
     <title>Tunnels of Blood. Story, Darren Shan Manga, Takahiro Arai</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -269,7 +269,7 @@ Pages: 190</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942172825</id>
+      <id>/products/8559942172825</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39780007320899</s:sku>
@@ -277,10 +277,10 @@ Pages: 190</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942107289</id>
+    <id>/products/8559942107289</id>
     <published>2025-10-29T21:37:50+04:00</published>
     <updated>2025-10-29T21:37:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/toriko-vol-16-16"/>
+    <link rel="alternate" type="text/html" href="/products/toriko-vol-16-16"/>
     <title>Toriko, Vol. 16 (16)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -312,7 +312,7 @@ Pages: 200</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942107289</id>
+      <id>/products/8559942107289</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421551494</s:sku>
@@ -320,10 +320,10 @@ Pages: 200</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942074521</id>
+    <id>/products/8559942074521</id>
     <published>2025-10-29T21:37:48+04:00</published>
     <updated>2025-10-29T21:37:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/tokyo-ghoul-re-vol-12-12"/>
+    <link rel="alternate" type="text/html" href="/products/tokyo-ghoul-re-vol-12-12"/>
     <title>Tokyo Ghoul: re, Vol. 12 (12)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -355,7 +355,7 @@ Pages: 210</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942074521</id>
+      <id>/products/8559942074521</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781974700370</s:sku>
@@ -363,10 +363,10 @@ Pages: 210</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942041753</id>
+    <id>/products/8559942041753</id>
     <published>2025-10-29T21:37:46+04:00</published>
     <updated>2025-10-29T21:37:46+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/tokyo-ghoul-vol-9-9"/>
+    <link rel="alternate" type="text/html" href="/products/tokyo-ghoul-vol-9-9"/>
     <title>Tokyo Ghoul, Vol. 9 (9)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -398,7 +398,7 @@ Pages: 200</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942041753</id>
+      <id>/products/8559942041753</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421580449</s:sku>
@@ -406,10 +406,10 @@ Pages: 200</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559942008985</id>
+    <id>/products/8559942008985</id>
     <published>2025-10-29T21:37:44+04:00</published>
     <updated>2025-10-29T21:37:44+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/tokyo-ghoul-vol-13-13"/>
+    <link rel="alternate" type="text/html" href="/products/tokyo-ghoul-vol-13-13"/>
     <title>Tokyo Ghoul, Vol. 13 (13)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -441,7 +441,7 @@ Pages: 216</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559942008985</id>
+      <id>/products/8559942008985</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421590424</s:sku>
@@ -449,10 +449,10 @@ Pages: 216</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941943449</id>
+    <id>/products/8559941943449</id>
     <published>2025-10-29T21:37:41+04:00</published>
     <updated>2025-10-29T21:37:41+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/to-your-eternity-9"/>
+    <link rel="alternate" type="text/html" href="/products/to-your-eternity-9"/>
     <title>To Your Eternity 9</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -484,7 +484,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941943449</id>
+      <id>/products/8559941943449</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632367341</s:sku>
@@ -492,10 +492,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941910681</id>
+    <id>/products/8559941910681</id>
     <published>2025-10-29T21:37:39+04:00</published>
     <updated>2025-10-29T21:37:39+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/to-your-eternity-8"/>
+    <link rel="alternate" type="text/html" href="/products/to-your-eternity-8"/>
     <title>To Your Eternity 8</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -527,7 +527,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941910681</id>
+      <id>/products/8559941910681</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632366849</s:sku>
@@ -535,10 +535,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941877913</id>
+    <id>/products/8559941877913</id>
     <published>2025-10-29T21:37:37+04:00</published>
     <updated>2025-10-29T21:37:37+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/to-your-eternity-2"/>
+    <link rel="alternate" type="text/html" href="/products/to-your-eternity-2"/>
     <title>To Your Eternity 2</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -570,7 +570,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941877913</id>
+      <id>/products/8559941877913</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632365729</s:sku>
@@ -578,10 +578,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941812377</id>
+    <id>/products/8559941812377</id>
     <published>2025-10-29T21:37:35+04:00</published>
     <updated>2025-10-29T21:37:35+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-saga-of-darren-shan-volume-2-the-vampires-assistant"/>
+    <link rel="alternate" type="text/html" href="/products/the-saga-of-darren-shan-volume-2-the-vampires-assistant"/>
     <title>The Saga of Darren Shan, Volume 2: The Vampire&apos;s Assistant</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -613,7 +613,7 @@ Pages: 191</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941812377</id>
+      <id>/products/8559941812377</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39780007320882</s:sku>
@@ -621,10 +621,10 @@ Pages: 191</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941779609</id>
+    <id>/products/8559941779609</id>
     <published>2025-10-29T21:37:32+04:00</published>
     <updated>2025-10-29T21:37:32+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-promised-neverland-vol-1-1"/>
+    <link rel="alternate" type="text/html" href="/products/the-promised-neverland-vol-1-1"/>
     <title>The Promised Neverland, Vol. 1 (1)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -656,7 +656,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941779609</id>
+      <id>/products/8559941779609</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421597126</s:sku>
@@ -664,10 +664,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941746841</id>
+    <id>/products/8559941746841</id>
     <published>2025-10-29T21:37:30+04:00</published>
     <updated>2025-10-29T21:37:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/somethings-wrong-with-us-6"/>
+    <link rel="alternate" type="text/html" href="/products/somethings-wrong-with-us-6"/>
     <title>Something&apos;s Wrong With Us 6</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -699,7 +699,7 @@ Pages: 160</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941746841</id>
+      <id>/products/8559941746841</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781646510696</s:sku>
@@ -707,10 +707,10 @@ Pages: 160</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941681305</id>
+    <id>/products/8559941681305</id>
     <published>2025-10-29T21:37:28+04:00</published>
     <updated>2025-10-29T21:37:28+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/sakura-hime-the-legend-of-princess-sakura-vol-10-10"/>
+    <link rel="alternate" type="text/html" href="/products/sakura-hime-the-legend-of-princess-sakura-vol-10-10"/>
     <title>Sakura Hime: The Legend of Princess Sakura, Vol. 10 (10)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -742,7 +742,7 @@ Pages: 184</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941681305</id>
+      <id>/products/8559941681305</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781421551371</s:sku>
@@ -750,10 +750,10 @@ Pages: 184</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941615769</id>
+    <id>/products/8559941615769</id>
     <published>2025-10-29T21:37:24+04:00</published>
     <updated>2025-10-29T21:37:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/ldk-9"/>
+    <link rel="alternate" type="text/html" href="/products/ldk-9"/>
     <title>LDK 9</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -785,7 +785,7 @@ Pages: 176</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941615769</id>
+      <id>/products/8559941615769</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632361622</s:sku>
@@ -793,10 +793,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941550233</id>
+    <id>/products/8559941550233</id>
     <published>2025-10-29T21:37:22+04:00</published>
     <updated>2025-10-29T21:37:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/ldk-10"/>
+    <link rel="alternate" type="text/html" href="/products/ldk-10"/>
     <title>LDK 10</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -828,7 +828,7 @@ Pages: 176</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941550233</id>
+      <id>/products/8559941550233</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632361639</s:sku>
@@ -836,10 +836,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941517465</id>
+    <id>/products/8559941517465</id>
     <published>2025-10-29T21:37:20+04:00</published>
     <updated>2025-10-29T21:37:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/hetalia-axis-powers"/>
+    <link rel="alternate" type="text/html" href="/products/hetalia-axis-powers"/>
     <title>Hetalia Axis Powers</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -871,7 +871,7 @@ Pages: 152</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941517465</id>
+      <id>/products/8559941517465</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781427818768</s:sku>
@@ -879,10 +879,10 @@ Pages: 152</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941451929</id>
+    <id>/products/8559941451929</id>
     <published>2025-10-29T21:37:17+04:00</published>
     <updated>2025-10-29T21:37:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/fruits-basket-collectors-edition-vol-2"/>
+    <link rel="alternate" type="text/html" href="/products/fruits-basket-collectors-edition-vol-2"/>
     <title>Fruits Basket Collector&apos;s Edition, Vol. 2</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -914,7 +914,7 @@ Pages: 376</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941451929</id>
+      <id>/products/8559941451929</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39780316360180</s:sku>
@@ -922,10 +922,10 @@ Pages: 376</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941419161</id>
+    <id>/products/8559941419161</id>
     <published>2025-10-29T21:37:15+04:00</published>
     <updated>2025-10-29T21:37:15+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/forget-me-not-5"/>
+    <link rel="alternate" type="text/html" href="/products/forget-me-not-5"/>
     <title>Forget Me Not 5</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -957,7 +957,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941419161</id>
+      <id>/products/8559941419161</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632363152</s:sku>
@@ -965,10 +965,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941386393</id>
+    <id>/products/8559941386393</id>
     <published>2025-10-29T21:37:13+04:00</published>
     <updated>2025-10-29T21:37:13+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/forget-me-not-4"/>
+    <link rel="alternate" type="text/html" href="/products/forget-me-not-4"/>
     <title>Forget Me Not 4</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1000,7 +1000,7 @@ Pages: 176</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941386393</id>
+      <id>/products/8559941386393</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632363145</s:sku>
@@ -1008,10 +1008,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941320857</id>
+    <id>/products/8559941320857</id>
     <published>2025-10-29T21:37:11+04:00</published>
     <updated>2025-10-29T21:37:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/forget-me-not-3"/>
+    <link rel="alternate" type="text/html" href="/products/forget-me-not-3"/>
     <title>Forget Me Not 3</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1043,7 +1043,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941320857</id>
+      <id>/products/8559941320857</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632363138</s:sku>
@@ -1051,10 +1051,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8559941288089</id>
+    <id>/products/8559941288089</id>
     <published>2025-10-29T21:37:09+04:00</published>
     <updated>2025-10-29T21:37:09+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/forget-me-not-2"/>
+    <link rel="alternate" type="text/html" href="/products/forget-me-not-2"/>
     <title>Forget Me Not 2</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1086,7 +1086,7 @@ Pages: 192</p></td>
     <s:tag>manga</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8559941288089</id>
+      <id>/products/8559941288089</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>Manga-A-39781632362810</s:sku>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/thrillers.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/thrillers.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2024-10-03T19:49:17+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8237923631257</id>
+    <id>/products/8237923631257</id>
     <published>2024-10-03T19:49:17+04:00</published>
     <updated>2024-10-03T19:49:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/only-time-will-tell"/>
+    <link rel="alternate" type="text/html" href="/products/only-time-will-tell"/>
     <title>Only Time Will Tell</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -49,7 +49,7 @@
     <s:tag>Thrillers</s:tag>
     <s:tag>Thrillers (Fiction)</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8237923631257</id>
+      <id>/products/8237923631257</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>13RB9780330535670</s:sku>
@@ -57,10 +57,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8221822156953</id>
+    <id>/products/8221822156953</id>
     <published>2024-09-17T12:00:44+04:00</published>
     <updated>2024-09-17T12:00:44+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/youll-be-the-death-of-me"/>
+    <link rel="alternate" type="text/html" href="/products/youll-be-the-death-of-me"/>
     <title>You&apos;ll Be the Death of Me</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -100,7 +100,7 @@
     <s:tag>Thrillers</s:tag>
     <s:tag>used books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8221822156953</id>
+      <id>/products/8221822156953</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>16RB-1-9780241473665</s:sku>
@@ -108,10 +108,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8122436059289</id>
+    <id>/products/8122436059289</id>
     <published>2024-07-06T18:16:51+04:00</published>
     <updated>2024-07-06T18:16:51+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/past-perfect"/>
+    <link rel="alternate" type="text/html" href="/products/past-perfect"/>
     <title>Past Perfect</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -148,7 +148,7 @@
     <s:tag>thrillers</s:tag>
     <s:tag>women sleuths</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8122436059289</id>
+      <id>/products/8122436059289</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RA9781416590057</s:sku>
@@ -156,10 +156,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8055493656729</id>
+    <id>/products/8055493656729</id>
     <published>2024-05-23T13:11:23+04:00</published>
     <updated>2024-05-23T13:11:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lion"/>
+    <link rel="alternate" type="text/html" href="/products/the-lion"/>
     <title>The Lion</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -191,7 +191,7 @@
     <s:tag>Fiction</s:tag>
     <s:tag>Thrillers</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8055493656729</id>
+      <id>/products/8055493656729</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>15RE-4-9781847441447</s:sku>
@@ -199,10 +199,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8020060504217</id>
+    <id>/products/8020060504217</id>
     <published>2024-05-06T21:05:14+04:00</published>
     <updated>2024-05-06T21:05:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/fever-city"/>
+    <link rel="alternate" type="text/html" href="/products/fever-city"/>
     <title>Fever City</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -239,7 +239,7 @@
     <s:tag>thrillers</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8020060504217</id>
+      <id>/products/8020060504217</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>16RB39780571323876</s:sku>
@@ -247,10 +247,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/7751758119065</id>
+    <id>/products/7751758119065</id>
     <published>2023-10-23T12:21:14+04:00</published>
     <updated>2023-10-23T12:21:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pirate"/>
+    <link rel="alternate" type="text/html" href="/products/pirate"/>
     <title>Pirate</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -286,7 +286,7 @@
     <s:tag>Thrillers</s:tag>
     <s:tag>War &amp; Military</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/7751758119065</id>
+      <id>/products/7751758119065</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RG9781847444127</s:sku>

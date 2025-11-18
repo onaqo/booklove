@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/non-fiction.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/non-fiction.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:22:05+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110535321</id>
+    <id>/products/8579110535321</id>
     <published>2025-11-17T20:22:05+04:00</published>
     <updated>2025-11-17T20:22:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/younger-skin-starts-in-the-gut-4-week-program-to-identify-and-eliminate-your-skin-aging-triggers-gluten-wine-dairy-and-sugar"/>
+    <link rel="alternate" type="text/html" href="/products/younger-skin-starts-in-the-gut-4-week-program-to-identify-and-eliminate-your-skin-aging-triggers-gluten-wine-dairy-and-sugar"/>
     <title>Younger Skin Starts in the Gut 4-Week Program to Identify and Eliminate Your Skin-Aging Triggers - Gluten, Wine, Dairy, and Sugar</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -47,7 +47,7 @@ Pages: 304</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110535321</id>
+      <id>/products/8579110535321</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RD9781612435602</s:sku>
@@ -55,10 +55,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110437017</id>
+    <id>/products/8579110437017</id>
     <published>2025-11-17T20:22:01+04:00</published>
     <updated>2025-11-17T20:22:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/what-s-your-era-the-ultimate-gift-book-for-any-taylor-swift-fan-in-anticipation-of-the-sold-out-2024-eras-tour-and-her-new-album-the-tortured-poet-s-department"/>
+    <link rel="alternate" type="text/html" href="/products/what-s-your-era-the-ultimate-gift-book-for-any-taylor-swift-fan-in-anticipation-of-the-sold-out-2024-eras-tour-and-her-new-album-the-tortured-poet-s-department"/>
     <title>What’s Your Era?: The ultimate gift book for any Taylor Swift fan in anticipation of the sold out 2024 Eras Tour and her new album, The Tortured Poet’s Department</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -93,7 +93,7 @@ Pages: 176</p></td>
     <s:tag>Pop Culture</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110437017</id>
+      <id>/products/8579110437017</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780008686260</s:sku>
@@ -101,10 +101,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110338713</id>
+    <id>/products/8579110338713</id>
     <published>2025-11-17T20:21:56+04:00</published>
     <updated>2025-11-17T20:21:56+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-ph-miracle-balance-your-diet-reclaim-your-health"/>
+    <link rel="alternate" type="text/html" href="/products/the-ph-miracle-balance-your-diet-reclaim-your-health"/>
     <title>The pH Miracle: Balance Your Diet, Reclaim Your Health</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -139,7 +139,7 @@ Pages: 432</p></td>
     <s:tag>Nutrition</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110338713</id>
+      <id>/products/8579110338713</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780446556187</s:sku>
@@ -147,10 +147,10 @@ Pages: 432</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110011033</id>
+    <id>/products/8579110011033</id>
     <published>2025-11-17T20:21:39+04:00</published>
     <updated>2025-11-17T20:21:39+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/see-spot-run-100-ways-to-work-out-with-your-dog"/>
+    <link rel="alternate" type="text/html" href="/products/see-spot-run-100-ways-to-work-out-with-your-dog"/>
     <title>See Spot Run 100 Ways to Work Out with Your Dog</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -183,7 +183,7 @@ Pages: 176</p></td>
     <s:tag>Pets</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110011033</id>
+      <id>/products/8579110011033</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9789812751935</s:sku>
@@ -191,10 +191,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109978265</id>
+    <id>/products/8579109978265</id>
     <published>2025-11-17T20:21:36+04:00</published>
     <updated>2025-11-17T20:21:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pleasure-zone-why-we-resist-good-feeling"/>
+    <link rel="alternate" type="text/html" href="/products/pleasure-zone-why-we-resist-good-feeling"/>
     <title>Pleasure Zone Why We Resist Good Feeling</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -228,7 +228,7 @@ Pages:</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109978265</id>
+      <id>/products/8579109978265</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780965674003</s:sku>
@@ -236,10 +236,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109912729</id>
+    <id>/products/8579109912729</id>
     <published>2025-11-17T20:21:32+04:00</published>
     <updated>2025-11-17T20:21:32+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/meta-messages-from-your-body-discover-the-cause-of-disease-and-why-your-body-doesnt-make-mistakes"/>
+    <link rel="alternate" type="text/html" href="/products/meta-messages-from-your-body-discover-the-cause-of-disease-and-why-your-body-doesnt-make-mistakes"/>
     <title>Meta Messages From Your Body Discover the Cause of Disease and Why Your Body Doesn&apos;t Make Mistakes</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -275,7 +275,7 @@ Pages: 292</p></td>
     <s:tag>Spirituality</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109912729</id>
+      <id>/products/8579109912729</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781911022022</s:sku>
@@ -283,10 +283,10 @@ Pages: 292</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109879961</id>
+    <id>/products/8579109879961</id>
     <published>2025-11-17T20:21:30+04:00</published>
     <updated>2025-11-17T20:21:30+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mastering-english-literature"/>
+    <link rel="alternate" type="text/html" href="/products/mastering-english-literature"/>
     <title>Mastering English Literature</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -321,7 +321,7 @@ Pages: 560</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109879961</id>
+      <id>/products/8579109879961</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RD9781403944887</s:sku>
@@ -329,10 +329,10 @@ Pages: 560</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109585049</id>
+    <id>/products/8579109585049</id>
     <published>2025-11-17T20:21:19+04:00</published>
     <updated>2025-11-17T20:21:19+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/heartbreak-is-the-national-anthem-how-taylor-swift-reinvented-pop-music"/>
+    <link rel="alternate" type="text/html" href="/products/heartbreak-is-the-national-anthem-how-taylor-swift-reinvented-pop-music"/>
     <title>Heartbreak is the National Anthem How Taylor Swift Reinvented Pop Music</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -367,7 +367,7 @@ Pages: 208</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109585049</id>
+      <id>/products/8579109585049</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RD9780008652715</s:sku>
@@ -375,10 +375,10 @@ Pages: 208</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109552281</id>
+    <id>/products/8579109552281</id>
     <published>2025-11-17T20:21:16+04:00</published>
     <updated>2025-11-17T20:21:16+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/hamlyn-all-colour-cookbook"/>
+    <link rel="alternate" type="text/html" href="/products/hamlyn-all-colour-cookbook"/>
     <title>Hamlyn All Colour Cookbook</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -412,7 +412,7 @@ Pages: 240</p></td>
     <s:tag>nonfiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109552281</id>
+      <id>/products/8579109552281</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780600610205</s:sku>
@@ -420,10 +420,10 @@ Pages: 240</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109519513</id>
+    <id>/products/8579109519513</id>
     <published>2025-11-17T20:21:14+04:00</published>
     <updated>2025-11-17T20:21:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/food-doctor-everyday-diet-eat-well-for-permanent-weight-loss-get-off-the-diet-treadmill-forever"/>
+    <link rel="alternate" type="text/html" href="/products/food-doctor-everyday-diet-eat-well-for-permanent-weight-loss-get-off-the-diet-treadmill-forever"/>
     <title>Food Doctor Everyday Diet : Eat Well for Permanent Weight Loss Get Off the Diet Treadmill Forever</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -458,7 +458,7 @@ Pages: 160</p></td>
     <s:tag>Nutrition</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109519513</id>
+      <id>/products/8579109519513</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781405306058</s:sku>
@@ -466,10 +466,10 @@ Pages: 160</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109453977</id>
+    <id>/products/8579109453977</id>
     <published>2025-11-17T20:21:10+04:00</published>
     <updated>2025-11-17T20:21:10+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/digestive-intelligence-a-holistic-view-of-your-second-brain"/>
+    <link rel="alternate" type="text/html" href="/products/digestive-intelligence-a-holistic-view-of-your-second-brain"/>
     <title>Digestive Intelligence A Holistic View of Your Second Brain</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -504,7 +504,7 @@ Pages: 172</p></td>
     <s:tag>Psychology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109453977</id>
+      <id>/products/8579109453977</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781844096435</s:sku>
@@ -512,10 +512,10 @@ Pages: 172</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109421209</id>
+    <id>/products/8579109421209</id>
     <published>2025-11-17T20:21:07+04:00</published>
     <updated>2025-11-17T20:21:07+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/cook-right-4-your-type-the-practical-kitchen-companion-to-eat-right-4-your-type"/>
+    <link rel="alternate" type="text/html" href="/products/cook-right-4-your-type-the-practical-kitchen-companion-to-eat-right-4-your-type"/>
     <title>Cook Right 4 Your Type: The Practical Kitchen Companion to Eat Right 4 Your Type</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -550,7 +550,7 @@ Pages: 464</p></td>
     <s:tag>Nutrition</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109421209</id>
+      <id>/products/8579109421209</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780425173299</s:sku>
@@ -558,10 +558,10 @@ Pages: 464</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101720729</id>
+    <id>/products/8579101720729</id>
     <published>2025-11-17T20:06:40+04:00</published>
     <updated>2025-11-17T20:06:40+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-next-species-the-future-of-evolution-in-the-aftermath-of-man"/>
+    <link rel="alternate" type="text/html" href="/products/the-next-species-the-future-of-evolution-in-the-aftermath-of-man"/>
     <title>The Next Species: The Future of Evolution in the Aftermath of Man</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -596,7 +596,7 @@ Pages: 336</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101720729</id>
+      <id>/products/8579101720729</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9781451677522</s:sku>
@@ -604,10 +604,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101589657</id>
+    <id>/products/8579101589657</id>
     <published>2025-11-17T20:06:36+04:00</published>
     <updated>2025-11-17T20:06:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-inner-world-of-farm-animals-their-amazing-social-emotional-and-intellectual-capacities"/>
+    <link rel="alternate" type="text/html" href="/products/the-inner-world-of-farm-animals-their-amazing-social-emotional-and-intellectual-capacities"/>
     <title>The Inner World of Farm Animals: Their Amazing Social, Emotional, and Intellectual Capacities</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -642,7 +642,7 @@ Pages: 176</p></td>
     <s:tag>Science</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101589657</id>
+      <id>/products/8579101589657</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9781584797487</s:sku>
@@ -650,10 +650,10 @@ Pages: 176</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101393049</id>
+    <id>/products/8579101393049</id>
     <published>2025-11-17T20:06:31+04:00</published>
     <updated>2025-11-17T20:06:31+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-assassination-complex-inside-the-governments-secret-drone-warfare-programme"/>
+    <link rel="alternate" type="text/html" href="/products/the-assassination-complex-inside-the-governments-secret-drone-warfare-programme"/>
     <title>The Assassination Complex Inside the Government&apos;s Secret Drone Warfare Programme</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -688,7 +688,7 @@ Pages: 234</p></td>
     <s:tag>Politics</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101393049</id>
+      <id>/products/8579101393049</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781781257722</s:sku>
@@ -696,10 +696,10 @@ Pages: 234</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101163673</id>
+    <id>/products/8579101163673</id>
     <published>2025-11-17T20:06:24+04:00</published>
     <updated>2025-11-17T20:06:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/rita-mulcahys-risk-management-tricks-of-the-trade-for-project-managers-and-pmi-rmp-exam-prep-guide-a-course-in-a-book"/>
+    <link rel="alternate" type="text/html" href="/products/rita-mulcahys-risk-management-tricks-of-the-trade-for-project-managers-and-pmi-rmp-exam-prep-guide-a-course-in-a-book"/>
     <title>Rita Mulcahy&apos;s Risk Management Tricks of the Trade for Project Managers And PMI-RMP Exam Prep Guide : a Course in a Book</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -734,7 +734,7 @@ Pages: 453</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101163673</id>
+      <id>/products/8579101163673</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9781932735321</s:sku>
@@ -742,10 +742,10 @@ Pages: 453</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101065369</id>
+    <id>/products/8579101065369</id>
     <published>2025-11-17T20:06:20+04:00</published>
     <updated>2025-11-17T20:06:20+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/please-stop-laughing-at-me-one-womans-inspirational-story"/>
+    <link rel="alternate" type="text/html" href="/products/please-stop-laughing-at-me-one-womans-inspirational-story"/>
     <title>Please Stop Laughing At Me...: One Woman&apos;s Inspirational Story</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -780,7 +780,7 @@ Pages: 288</p></td>
     <s:tag>Psychology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101065369</id>
+      <id>/products/8579101065369</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9781580628365</s:sku>
@@ -788,10 +788,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101032601</id>
+    <id>/products/8579101032601</id>
     <published>2025-11-17T20:06:17+04:00</published>
     <updated>2025-11-17T20:06:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/off-script-living-out-loud"/>
+    <link rel="alternate" type="text/html" href="/products/off-script-living-out-loud"/>
     <title>Off Script Living Out Loud</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -826,7 +826,7 @@ Pages: 272</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101032601</id>
+      <id>/products/8579101032601</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781443460088</s:sku>
@@ -834,10 +834,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100835993</id>
+    <id>/products/8579100835993</id>
     <published>2025-11-17T20:06:11+04:00</published>
     <updated>2025-11-17T20:06:11+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mastering-psychology-macmillan-master-series-5"/>
+    <link rel="alternate" type="text/html" href="/products/mastering-psychology-macmillan-master-series-5"/>
     <title>Mastering Psychology (Macmillan Master Series, 5)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -872,7 +872,7 @@ Pages: 400</p></td>
     <s:tag>Reference</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100835993</id>
+      <id>/products/8579100835993</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780333620502</s:sku>
@@ -880,10 +880,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100770457</id>
+    <id>/products/8579100770457</id>
     <published>2025-11-17T20:06:09+04:00</published>
     <updated>2025-11-17T20:06:09+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/lans-explained-a-guide-to-local-area-networks-ellis-horwood-series-in-computer-communications-and-networki"/>
+    <link rel="alternate" type="text/html" href="/products/lans-explained-a-guide-to-local-area-networks-ellis-horwood-series-in-computer-communications-and-networki"/>
     <title>LANs Explained: A Guide to Local Area Networks (Ellis Horwood Series in Computer Communications and Networki)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -918,7 +918,7 @@ Pages: 208</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100770457</id>
+      <id>/products/8579100770457</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780310448815</s:sku>
@@ -926,10 +926,10 @@ Pages: 208</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100672153</id>
+    <id>/products/8579100672153</id>
     <published>2025-11-17T20:06:03+04:00</published>
     <updated>2025-11-17T20:06:03+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/how-super-cool-stuff-works"/>
+    <link rel="alternate" type="text/html" href="/products/how-super-cool-stuff-works"/>
     <title>How Super Cool Stuff Works</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -965,7 +965,7 @@ Pages: 192</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100672153</id>
+      <id>/products/8579100672153</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780241228456</s:sku>
@@ -973,10 +973,10 @@ Pages: 192</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100508313</id>
+    <id>/products/8579100508313</id>
     <published>2025-11-17T20:05:59+04:00</published>
     <updated>2025-11-17T20:05:59+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/future-and-related-nonsense"/>
+    <link rel="alternate" type="text/html" href="/products/future-and-related-nonsense"/>
     <title>Future and Related Nonsense</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1011,7 +1011,7 @@ Pages: 286</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100508313</id>
+      <id>/products/8579100508313</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780733329913</s:sku>
@@ -1019,10 +1019,10 @@ Pages: 286</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100475545</id>
+    <id>/products/8579100475545</id>
     <published>2025-11-17T20:05:57+04:00</published>
     <updated>2025-11-17T20:05:57+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dirty-genes-a-breakthrough-program-to-treat-the-root-cause-of-illness-and-optimize-your-health"/>
+    <link rel="alternate" type="text/html" href="/products/dirty-genes-a-breakthrough-program-to-treat-the-root-cause-of-illness-and-optimize-your-health"/>
     <title>Dirty Genes: A Breakthrough Program to Treat the Root Cause of Illness and Optimize Your Health</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1058,7 +1058,7 @@ Pages: 384</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100475545</id>
+      <id>/products/8579100475545</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780062698148</s:sku>
@@ -1066,10 +1066,10 @@ Pages: 384</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100410009</id>
+    <id>/products/8579100410009</id>
     <published>2025-11-17T20:05:54+04:00</published>
     <updated>2025-11-17T20:05:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/coppola"/>
+    <link rel="alternate" type="text/html" href="/products/coppola"/>
     <title>Coppola</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1104,7 +1104,7 @@ Pages: 288</p></td>
     <s:tag>Performing Arts</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100410009</id>
+      <id>/products/8579100410009</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780233003863</s:sku>
@@ -1112,10 +1112,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100115097</id>
+    <id>/products/8579100115097</id>
     <published>2025-11-17T20:05:48+04:00</published>
     <updated>2025-11-17T20:05:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/advanced-marathoning"/>
+    <link rel="alternate" type="text/html" href="/products/advanced-marathoning"/>
     <title>Advanced Marathoning</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1150,7 +1150,7 @@ Pages: 264</p></td>
     <s:tag>Sports</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100115097</id>
+      <id>/products/8579100115097</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780736074605</s:sku>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/self-help.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/self-help.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:22:05+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110535321</id>
+    <id>/products/8579110535321</id>
     <published>2025-11-17T20:22:05+04:00</published>
     <updated>2025-11-17T20:22:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/younger-skin-starts-in-the-gut-4-week-program-to-identify-and-eliminate-your-skin-aging-triggers-gluten-wine-dairy-and-sugar"/>
+    <link rel="alternate" type="text/html" href="/products/younger-skin-starts-in-the-gut-4-week-program-to-identify-and-eliminate-your-skin-aging-triggers-gluten-wine-dairy-and-sugar"/>
     <title>Younger Skin Starts in the Gut 4-Week Program to Identify and Eliminate Your Skin-Aging Triggers - Gluten, Wine, Dairy, and Sugar</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -47,7 +47,7 @@ Pages: 304</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110535321</id>
+      <id>/products/8579110535321</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RD9781612435602</s:sku>
@@ -55,10 +55,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109978265</id>
+    <id>/products/8579109978265</id>
     <published>2025-11-17T20:21:36+04:00</published>
     <updated>2025-11-17T20:21:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pleasure-zone-why-we-resist-good-feeling"/>
+    <link rel="alternate" type="text/html" href="/products/pleasure-zone-why-we-resist-good-feeling"/>
     <title>Pleasure Zone Why We Resist Good Feeling</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -92,7 +92,7 @@ Pages:</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109978265</id>
+      <id>/products/8579109978265</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780965674003</s:sku>
@@ -100,10 +100,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109912729</id>
+    <id>/products/8579109912729</id>
     <published>2025-11-17T20:21:32+04:00</published>
     <updated>2025-11-17T20:21:32+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/meta-messages-from-your-body-discover-the-cause-of-disease-and-why-your-body-doesnt-make-mistakes"/>
+    <link rel="alternate" type="text/html" href="/products/meta-messages-from-your-body-discover-the-cause-of-disease-and-why-your-body-doesnt-make-mistakes"/>
     <title>Meta Messages From Your Body Discover the Cause of Disease and Why Your Body Doesn&apos;t Make Mistakes</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -139,7 +139,7 @@ Pages: 292</p></td>
     <s:tag>Spirituality</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109912729</id>
+      <id>/products/8579109912729</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9781911022022</s:sku>
@@ -147,10 +147,10 @@ Pages: 292</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101032601</id>
+    <id>/products/8579101032601</id>
     <published>2025-11-17T20:06:17+04:00</published>
     <updated>2025-11-17T20:06:17+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/off-script-living-out-loud"/>
+    <link rel="alternate" type="text/html" href="/products/off-script-living-out-loud"/>
     <title>Off Script Living Out Loud</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -185,7 +185,7 @@ Pages: 272</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101032601</id>
+      <id>/products/8579101032601</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781443460088</s:sku>
@@ -193,10 +193,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100475545</id>
+    <id>/products/8579100475545</id>
     <published>2025-11-17T20:05:57+04:00</published>
     <updated>2025-11-17T20:05:57+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dirty-genes-a-breakthrough-program-to-treat-the-root-cause-of-illness-and-optimize-your-health"/>
+    <link rel="alternate" type="text/html" href="/products/dirty-genes-a-breakthrough-program-to-treat-the-root-cause-of-illness-and-optimize-your-health"/>
     <title>Dirty Genes: A Breakthrough Program to Treat the Root Cause of Illness and Optimize Your Health</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -232,7 +232,7 @@ Pages: 384</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100475545</id>
+      <id>/products/8579100475545</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>12RF9780062698148</s:sku>
@@ -240,10 +240,10 @@ Pages: 384</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098902681</id>
+    <id>/products/8579098902681</id>
     <published>2025-11-17T20:04:28+04:00</published>
     <updated>2025-11-17T20:04:28+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/great-parents-lousy-lovers-discover-how-to-enjoy-life-with-your-spouse-while-raising-your-kids"/>
+    <link rel="alternate" type="text/html" href="/products/great-parents-lousy-lovers-discover-how-to-enjoy-life-with-your-spouse-while-raising-your-kids"/>
     <title>Great Parents, Lousy Lovers: Discover How to Enjoy Life with Your Spouse While Raising Your Kids</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -279,7 +279,7 @@ Pages: 272</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098902681</id>
+      <id>/products/8579098902681</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781414335889</s:sku>
@@ -287,10 +287,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098804377</id>
+    <id>/products/8579098804377</id>
     <published>2025-11-17T20:04:23+04:00</published>
     <updated>2025-11-17T20:04:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/first-we-make-the-beast-beautiful-a-new-journey-through-anxiety"/>
+    <link rel="alternate" type="text/html" href="/products/first-we-make-the-beast-beautiful-a-new-journey-through-anxiety"/>
     <title>First, We Make the Beast Beautiful A New Journey Through Anxiety</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -326,7 +326,7 @@ Pages: 320</p></td>
     <s:tag>Self?Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098804377</id>
+      <id>/products/8579098804377</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780062836786</s:sku>
@@ -334,10 +334,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098607769</id>
+    <id>/products/8579098607769</id>
     <published>2025-11-17T20:04:13+04:00</published>
     <updated>2025-11-17T20:04:13+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/chicken-soup-for-the-preteen-soul-101-stories-of-changes-choices"/>
+    <link rel="alternate" type="text/html" href="/products/chicken-soup-for-the-preteen-soul-101-stories-of-changes-choices"/>
     <title>Chicken Soup for the Preteen Soul - 101 Stories of Changes, Choices</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -372,7 +372,7 @@ Pages: 380</p></td>
     <s:tag>Short Stories</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098607769</id>
+      <id>/products/8579098607769</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781558748002</s:sku>
@@ -380,10 +380,10 @@ Pages: 380</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094741145</id>
+    <id>/products/8579094741145</id>
     <published>2025-11-17T19:55:58+04:00</published>
     <updated>2025-11-17T19:55:58+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/taming-tigers-do-things-you-never-thought-you-could"/>
+    <link rel="alternate" type="text/html" href="/products/taming-tigers-do-things-you-never-thought-you-could"/>
     <title>Taming Tigers Do Things You Never Thought You Could</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -419,7 +419,7 @@ Pages: 304</p></td>
     <s:tag>self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094741145</id>
+      <id>/products/8579094741145</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RB9780753539910</s:sku>
@@ -427,10 +427,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579094380697</id>
+    <id>/products/8579094380697</id>
     <published>2025-11-17T19:55:34+04:00</published>
     <updated>2025-11-17T19:55:34+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/a-whole-new-mind-moving-from-the-information-age-to-the-conceptual-age"/>
+    <link rel="alternate" type="text/html" href="/products/a-whole-new-mind-moving-from-the-information-age-to-the-conceptual-age"/>
     <title>A Whole New Mind: Moving from the Information Age to the Conceptual Age</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -466,7 +466,7 @@ Pages: 260</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579094380697</id>
+      <id>/products/8579094380697</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RB9781573223089</s:sku>
@@ -474,10 +474,10 @@ Pages: 260</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831553689</id>
+    <id>/products/8576831553689</id>
     <published>2025-11-15T20:13:27+04:00</published>
     <updated>2025-11-15T20:13:27+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/thinking-for-a-change-11-ways-highly-successful-people-approach-life-andwork"/>
+    <link rel="alternate" type="text/html" href="/products/thinking-for-a-change-11-ways-highly-successful-people-approach-life-andwork"/>
     <title>Thinking for a Change: 11 Ways Highly Successful People Approach Life andWork</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -513,7 +513,7 @@ Pages: 288</p></td>
     <s:tag>Self-Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831553689</id>
+      <id>/products/8576831553689</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780446692885</s:sku>
@@ -521,10 +521,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576831488153</id>
+    <id>/products/8576831488153</id>
     <published>2025-11-15T20:13:24+04:00</published>
     <updated>2025-11-15T20:13:24+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/think-like-a-monk-train-your-mind-for-peace-and-purpose-every-day"/>
+    <link rel="alternate" type="text/html" href="/products/think-like-a-monk-train-your-mind-for-peace-and-purpose-every-day"/>
     <title>Think Like a Monk: Train Your Mind for Peace and Purpose Every Day</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -560,7 +560,7 @@ Pages: 288</p></td>
     <s:tag>Spirituality</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576831488153</id>
+      <id>/products/8576831488153</id>
       <title>Default Title</title>
       <s:price currency="AED">30.00</s:price>
       <s:sku>17RE-49781982149819</s:sku>
@@ -568,10 +568,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576830537881</id>
+    <id>/products/8576830537881</id>
     <published>2025-11-15T20:12:33+04:00</published>
     <updated>2025-11-15T20:12:33+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/kidding-ourselves-the-hidden-power-of-self-deception"/>
+    <link rel="alternate" type="text/html" href="/products/kidding-ourselves-the-hidden-power-of-self-deception"/>
     <title>Kidding Ourselves: The Hidden Power of Self-Deception</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -605,7 +605,7 @@ Pages: 272</p></td>
     <s:tag>Self-Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576830537881</id>
+      <id>/products/8576830537881</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RE-49780385348683</s:sku>
@@ -613,10 +613,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576639926425</id>
+    <id>/products/8576639926425</id>
     <published>2025-11-15T14:30:36+04:00</published>
     <updated>2025-11-15T14:30:36+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/explosive-child-the-a-new-approach-for-understanding-and-parenting-easily-frustrated-chronically-inflexible-children"/>
+    <link rel="alternate" type="text/html" href="/products/explosive-child-the-a-new-approach-for-understanding-and-parenting-easily-frustrated-chronically-inflexible-children"/>
     <title>Explosive Child, The: A New Approach For Understanding And Parenting Easily Frustrated, Chronically Inflexible Children</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -651,7 +651,7 @@ Pages: 304</p></td>
     <s:tag>Self-Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576639926425</id>
+      <id>/products/8576639926425</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9780062270450</s:sku>
@@ -659,10 +659,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8576639697049</id>
+    <id>/products/8576639697049</id>
     <published>2025-11-15T14:30:23+04:00</published>
     <updated>2025-11-15T14:30:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/confident-baby-care-what-you-need-to-know-for-the-first-year-from-the-uks-most-trusted-nanny"/>
+    <link rel="alternate" type="text/html" href="/products/confident-baby-care-what-you-need-to-know-for-the-first-year-from-the-uks-most-trusted-nanny"/>
     <title>Confident Baby Care What You Need to Know for the First Year from the UK&apos;s Most Trusted Nanny</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -697,7 +697,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8576639697049</id>
+      <id>/products/8576639697049</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RE-2-9781409101574</s:sku>
@@ -705,10 +705,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8575990857881</id>
+    <id>/products/8575990857881</id>
     <published>2025-11-14T18:50:09+04:00</published>
     <updated>2025-11-14T18:50:09+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/soul-to-soul-communications-from-the-heart"/>
+    <link rel="alternate" type="text/html" href="/products/soul-to-soul-communications-from-the-heart"/>
     <title>Soul to Soul: Communications from the Heart</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -743,7 +743,7 @@ Pages: 336</p></td>
     <s:tag>Spirituality</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8575990857881</id>
+      <id>/products/8575990857881</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>17RD-4-9780743237000</s:sku>
@@ -751,10 +751,10 @@ Pages: 336</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8575990071449</id>
+    <id>/products/8575990071449</id>
     <published>2025-11-14T18:49:54+04:00</published>
     <updated>2025-11-14T18:49:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/delivering-happiness-a-path-to-profits-passion-and-purpose"/>
+    <link rel="alternate" type="text/html" href="/products/delivering-happiness-a-path-to-profits-passion-and-purpose"/>
     <title>Delivering Happiness: A Path to Profits, Passion and Purpose</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -792,7 +792,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8575990071449</id>
+      <id>/products/8575990071449</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>17RD-4-9780446585323</s:sku>
@@ -800,10 +800,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574795219097</id>
+    <id>/products/8574795219097</id>
     <published>2025-11-13T19:15:14+04:00</published>
     <updated>2025-11-13T19:15:14+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/wherever-you-go-there-you-are-mindfulness-meditation-for-everyday-life-by-jon-kabat-zinn-mindfulness-finding-peace-in-a-frantic-world-by-mark-williams-and-dr-danny-penman-2-books-collection-set"/>
+    <link rel="alternate" type="text/html" href="/products/wherever-you-go-there-you-are-mindfulness-meditation-for-everyday-life-by-jon-kabat-zinn-mindfulness-finding-peace-in-a-frantic-world-by-mark-williams-and-dr-danny-penman-2-books-collection-set"/>
     <title>Wherever You Go, There You Are: Mindfulness meditation for everyday life By Jon Kabat-Zinn &amp; Mindfulness Finding Peace in a Frantic World By Mark Williams and Dr Danny Penman 2 Books Collection Set</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -839,7 +839,7 @@ Pages: 304</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574795219097</id>
+      <id>/products/8574795219097</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781401307783</s:sku>
@@ -847,10 +847,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574794858649</id>
+    <id>/products/8574794858649</id>
     <published>2025-11-13T19:15:01+04:00</published>
     <updated>2025-11-13T19:15:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-defining-decade-lead-title"/>
+    <link rel="alternate" type="text/html" href="/products/the-defining-decade-lead-title"/>
     <title>The Defining Decade (Lead Title)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -885,7 +885,7 @@ Pages: 272</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574794858649</id>
+      <id>/products/8574794858649</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781782114925</s:sku>
@@ -893,10 +893,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574793908377</id>
+    <id>/products/8574793908377</id>
     <published>2025-11-13T19:14:16+04:00</published>
     <updated>2025-11-13T19:14:16+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/gq-how-to-win-at-life-the-expert-guide-to-excelling-at-everything-you-do"/>
+    <link rel="alternate" type="text/html" href="/products/gq-how-to-win-at-life-the-expert-guide-to-excelling-at-everything-you-do"/>
     <title>GQ How to Win at Life The expert guide to excelling at everything you do</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -932,7 +932,7 @@ Pages: 224</p></td>
     <s:tag>Success</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574793908377</id>
+      <id>/products/8574793908377</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781784724580</s:sku>
@@ -940,10 +940,10 @@ Pages: 224</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574793810073</id>
+    <id>/products/8574793810073</id>
     <published>2025-11-13T19:14:12+04:00</published>
     <updated>2025-11-13T19:14:12+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/from-startup-to-exit"/>
+    <link rel="alternate" type="text/html" href="/products/from-startup-to-exit"/>
     <title>FROM STARTUP TO EXIT</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -979,7 +979,7 @@ Pages:</p></td>
     <s:tag>Technology</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574793810073</id>
+      <id>/products/8574793810073</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RB9781404116962</s:sku>
@@ -987,10 +987,10 @@ Pages:</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574790762649</id>
+    <id>/products/8574790762649</id>
     <published>2025-11-13T19:06:06+04:00</published>
     <updated>2025-11-13T19:06:06+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/writing-better-lyrics"/>
+    <link rel="alternate" type="text/html" href="/products/writing-better-lyrics"/>
     <title>Writing Better Lyrics</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1028,7 +1028,7 @@ Pages: 304</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Writing</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574790762649</id>
+      <id>/products/8574790762649</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781582975771</s:sku>
@@ -1036,10 +1036,10 @@ Pages: 304</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574790172825</id>
+    <id>/products/8574790172825</id>
     <published>2025-11-13T19:05:54+04:00</published>
     <updated>2025-11-13T19:05:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-cosmic-power-within-you-the-simple-safe-way-to-harness-the-extraordinary-power-hidden-in-every-individual"/>
+    <link rel="alternate" type="text/html" href="/products/the-cosmic-power-within-you-the-simple-safe-way-to-harness-the-extraordinary-power-hidden-in-every-individual"/>
     <title>The Cosmic Power Within You The Simple, Safe Way to Harness the Extraordinary Power Hidden in Every Individual</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1077,7 +1077,7 @@ Pages: 272</p></td>
     <s:tag>Success</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574790172825</id>
+      <id>/products/8574790172825</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9780143129844</s:sku>
@@ -1085,10 +1085,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574788731033</id>
+    <id>/products/8574788731033</id>
     <published>2025-11-13T19:05:22+04:00</published>
     <updated>2025-11-13T19:05:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mars-and-venus-together-forever-relationship-skills-for-lasting-love"/>
+    <link rel="alternate" type="text/html" href="/products/mars-and-venus-together-forever-relationship-skills-for-lasting-love"/>
     <title>Mars and Venus Together Forever: Relationship Skills for Lasting Love</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1126,7 +1126,7 @@ Pages: 288</p></td>
     <s:tag>Self Help</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574788731033</id>
+      <id>/products/8574788731033</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9780060926618</s:sku>
@@ -1134,10 +1134,10 @@ Pages: 288</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8574788534425</id>
+    <id>/products/8574788534425</id>
     <published>2025-11-13T19:05:18+04:00</published>
     <updated>2025-11-13T19:05:18+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/life-after-death-the-burden-of-proof"/>
+    <link rel="alternate" type="text/html" href="/products/life-after-death-the-burden-of-proof"/>
     <title>Life After Death The Burden of Proof</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1175,7 +1175,7 @@ Pages: 304</p></td>
     <s:tag>Spirituality</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8574788534425</id>
+      <id>/products/8574788534425</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>14RC9781400052356</s:sku>

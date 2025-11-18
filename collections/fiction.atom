@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://bookhero.ae/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/fiction.atom"/>
+  <id>/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/collections/fiction.atom"/>
   <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
   <updated>2025-11-17T20:22:03+04:00</updated>
   <author>
     <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
   </author>
   <entry>
-    <id>https://bookhero.ae/products/8579110502553</id>
+    <id>/products/8579110502553</id>
     <published>2025-11-17T20:22:03+04:00</published>
     <updated>2025-11-17T20:22:03+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/white-fang"/>
+    <link rel="alternate" type="text/html" href="/products/white-fang"/>
     <title>White Fang</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -48,7 +48,7 @@ Pages: 272</p></td>
     <s:tag>Historical</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110502553</id>
+      <id>/products/8579110502553</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007558124</s:sku>
@@ -56,10 +56,10 @@ Pages: 272</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110273177</id>
+    <id>/products/8579110273177</id>
     <published>2025-11-17T20:21:54+04:00</published>
     <updated>2025-11-17T20:21:54+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-moneypenny-diaries"/>
+    <link rel="alternate" type="text/html" href="/products/the-moneypenny-diaries"/>
     <title>The Moneypenny Diaries</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -95,7 +95,7 @@ Pages: 312</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110273177</id>
+      <id>/products/8579110273177</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780719567773</s:sku>
@@ -103,10 +103,10 @@ Pages: 312</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110207641</id>
+    <id>/products/8579110207641</id>
     <published>2025-11-17T20:21:50+04:00</published>
     <updated>2025-11-17T20:21:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-drowning"/>
+    <link rel="alternate" type="text/html" href="/products/the-drowning"/>
     <title>The Drowning</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -141,7 +141,7 @@ Pages: 489</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110207641</id>
+      <id>/products/8579110207641</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007460847</s:sku>
@@ -149,10 +149,10 @@ Pages: 489</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110174873</id>
+    <id>/products/8579110174873</id>
     <published>2025-11-17T20:21:48+04:00</published>
     <updated>2025-11-17T20:21:48+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-devil-wears-prada"/>
+    <link rel="alternate" type="text/html" href="/products/the-devil-wears-prada"/>
     <title>The Devil Wears Prada</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -188,7 +188,7 @@ Pages: 360</p></td>
     <s:tag>Romance</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110174873</id>
+      <id>/products/8579110174873</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780767917247</s:sku>
@@ -196,10 +196,10 @@ Pages: 360</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579110109337</id>
+    <id>/products/8579110109337</id>
     <published>2025-11-17T20:21:45+04:00</published>
     <updated>2025-11-17T20:21:45+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-children-of-hurin"/>
+    <link rel="alternate" type="text/html" href="/products/the-children-of-hurin"/>
     <title>The Children of Hurin</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -235,7 +235,7 @@ Pages: 320</p></td>
     <s:tag>Tragedy</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579110109337</id>
+      <id>/products/8579110109337</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007309368</s:sku>
@@ -243,10 +243,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109847193</id>
+    <id>/products/8579109847193</id>
     <published>2025-11-17T20:21:28+04:00</published>
     <updated>2025-11-17T20:21:28+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/lost-souls-dean-koontzs-frankenstein"/>
+    <link rel="alternate" type="text/html" href="/products/lost-souls-dean-koontzs-frankenstein"/>
     <title>Lost Souls (Dean Koontz&apos;s Frankenstein)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -282,7 +282,7 @@ Pages: 400</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109847193</id>
+      <id>/products/8579109847193</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780007386970</s:sku>
@@ -290,10 +290,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109781657</id>
+    <id>/products/8579109781657</id>
     <published>2025-11-17T20:21:26+04:00</published>
     <updated>2025-11-17T20:21:26+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/line-of-beauty"/>
+    <link rel="alternate" type="text/html" href="/products/line-of-beauty"/>
     <title>Line Of Beauty</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -328,7 +328,7 @@ Pages: 501</p></td>
     <s:tag>Literary Fiction</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109781657</id>
+      <id>/products/8579109781657</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9780330436236</s:sku>
@@ -336,10 +336,10 @@ Pages: 501</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579109716121</id>
+    <id>/products/8579109716121</id>
     <published>2025-11-17T20:21:23+04:00</published>
     <updated>2025-11-17T20:21:23+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/keep-off-the-grass"/>
+    <link rel="alternate" type="text/html" href="/products/keep-off-the-grass"/>
     <title>Keep Off The Grass</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -375,7 +375,7 @@ Pages: 259</p></td>
     <s:tag>Indian Literature</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579109716121</id>
+      <id>/products/8579109716121</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RD9788172237561</s:sku>
@@ -383,10 +383,10 @@ Pages: 259</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101655193</id>
+    <id>/products/8579101655193</id>
     <published>2025-11-17T20:06:38+04:00</published>
     <updated>2025-11-17T20:06:38+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-light-of-paris"/>
+    <link rel="alternate" type="text/html" href="/products/the-light-of-paris"/>
     <title>The Light of Paris</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -421,7 +421,7 @@ Pages: 348</p></td>
     <s:tag>Romance</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101655193</id>
+      <id>/products/8579101655193</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780007393671</s:sku>
@@ -429,10 +429,10 @@ Pages: 348</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101294745</id>
+    <id>/products/8579101294745</id>
     <published>2025-11-17T20:06:29+04:00</published>
     <updated>2025-11-17T20:06:29+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/terminal-world"/>
+    <link rel="alternate" type="text/html" href="/products/terminal-world"/>
     <title>Terminal World</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -467,7 +467,7 @@ Pages: 496</p></td>
     <s:tag>Steampunk</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101294745</id>
+      <id>/products/8579101294745</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780575088504</s:sku>
@@ -475,10 +475,10 @@ Pages: 496</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579101098137</id>
+    <id>/products/8579101098137</id>
     <published>2025-11-17T20:06:22+04:00</published>
     <updated>2025-11-17T20:06:22+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/project-hail-mary"/>
+    <link rel="alternate" type="text/html" href="/products/project-hail-mary"/>
     <title>Project Hail Mary</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -513,7 +513,7 @@ Pages: 448</p></td>
     <s:tag>Space Opera</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579101098137</id>
+      <id>/products/8579101098137</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781529157468</s:sku>
@@ -521,10 +521,10 @@ Pages: 448</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100967065</id>
+    <id>/products/8579100967065</id>
     <published>2025-11-17T20:06:15+04:00</published>
     <updated>2025-11-17T20:06:15+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/nothing-but-grass"/>
+    <link rel="alternate" type="text/html" href="/products/nothing-but-grass"/>
     <title>Nothing But Grass</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -559,7 +559,7 @@ Pages: 256</p></td>
     <s:tag>Mystery</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100967065</id>
+      <id>/products/8579100967065</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780099578666</s:sku>
@@ -567,10 +567,10 @@ Pages: 256</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100901529</id>
+    <id>/products/8579100901529</id>
     <published>2025-11-17T20:06:13+04:00</published>
     <updated>2025-11-17T20:06:13+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/my-everything-all-that-matters"/>
+    <link rel="alternate" type="text/html" href="/products/my-everything-all-that-matters"/>
     <title>My Everything (All That Matters)</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -606,7 +606,7 @@ Pages: 400</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Women’s Fiction</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100901529</id>
+      <id>/products/8579100901529</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781473613638</s:sku>
@@ -614,10 +614,10 @@ Pages: 400</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100704921</id>
+    <id>/products/8579100704921</id>
     <published>2025-11-17T20:06:05+04:00</published>
     <updated>2025-11-17T20:06:05+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/i-will-find-you"/>
+    <link rel="alternate" type="text/html" href="/products/i-will-find-you"/>
     <title>I Will Find You</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -653,7 +653,7 @@ Pages: 407</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100704921</id>
+      <id>/products/8579100704921</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781529160550</s:sku>
@@ -661,10 +661,10 @@ Pages: 407</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100606617</id>
+    <id>/products/8579100606617</id>
     <published>2025-11-17T20:06:01+04:00</published>
     <updated>2025-11-17T20:06:01+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/girls-of-riyadh-rajaa-alsanea"/>
+    <link rel="alternate" type="text/html" href="/products/girls-of-riyadh-rajaa-alsanea"/>
     <title>Girls of Riyadh. Rajaa Alsanea</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -700,7 +700,7 @@ Pages: 320</p></td>
     <s:tag>Romance</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100606617</id>
+      <id>/products/8579100606617</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9780141030616</s:sku>
@@ -708,10 +708,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100278937</id>
+    <id>/products/8579100278937</id>
     <published>2025-11-17T20:05:52+04:00</published>
     <updated>2025-11-17T20:05:52+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/blowback"/>
+    <link rel="alternate" type="text/html" href="/products/blowback"/>
     <title>Blowback</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -747,7 +747,7 @@ Pages: 512</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100278937</id>
+      <id>/products/8579100278937</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781804940563</s:sku>
@@ -755,10 +755,10 @@ Pages: 512</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579100147865</id>
+    <id>/products/8579100147865</id>
     <published>2025-11-17T20:05:50+04:00</published>
     <updated>2025-11-17T20:05:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/all-that-lives-the-gripping-new-thriller-from-the-sunday-times-bestselling-author"/>
+    <link rel="alternate" type="text/html" href="/products/all-that-lives-the-gripping-new-thriller-from-the-sunday-times-bestselling-author"/>
     <title>All That Lives The Gripping New Thriller from the Sunday Times Bestselling Author</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -794,7 +794,7 @@ Pages: 432</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579100147865</id>
+      <id>/products/8579100147865</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>12RF9781472276254</s:sku>
@@ -802,10 +802,10 @@ Pages: 432</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099623577</id>
+    <id>/products/8579099623577</id>
     <published>2025-11-17T20:05:04+04:00</published>
     <updated>2025-11-17T20:05:04+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-young-wives-club-a-novel"/>
+    <link rel="alternate" type="text/html" href="/products/the-young-wives-club-a-novel"/>
     <title>The Young Wives Club A Novel</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -841,7 +841,7 @@ Pages: 320</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Women’s Fiction</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099623577</id>
+      <id>/products/8579099623577</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781501136467</s:sku>
@@ -849,10 +849,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099492505</id>
+    <id>/products/8579099492505</id>
     <published>2025-11-17T20:04:59+04:00</published>
     <updated>2025-11-17T20:04:59+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-romanov-conspiracy-a-thriller"/>
+    <link rel="alternate" type="text/html" href="/products/the-romanov-conspiracy-a-thriller"/>
     <title>The Romanov Conspiracy: A Thriller</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -888,7 +888,7 @@ Pages: 543</p></td>
     <s:tag>Thriller</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099492505</id>
+      <id>/products/8579099492505</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781451669459</s:sku>
@@ -896,10 +896,10 @@ Pages: 543</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099459737</id>
+    <id>/products/8579099459737</id>
     <published>2025-11-17T20:04:57+04:00</published>
     <updated>2025-11-17T20:04:57+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-nine-lives-of-rose-napolitano"/>
+    <link rel="alternate" type="text/html" href="/products/the-nine-lives-of-rose-napolitano"/>
     <title>The Nine Lives of Rose Napolitano</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -935,7 +935,7 @@ Pages: 384</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>Women’s Fiction</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099459737</id>
+      <id>/products/8579099459737</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780008370640</s:sku>
@@ -943,10 +943,10 @@ Pages: 384</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099361433</id>
+    <id>/products/8579099361433</id>
     <published>2025-11-17T20:04:53+04:00</published>
     <updated>2025-11-17T20:04:53+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-nightingale-a-novel"/>
+    <link rel="alternate" type="text/html" href="/products/the-nightingale-a-novel"/>
     <title>The Nightingale: A Novel</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -982,7 +982,7 @@ Pages: 608</p></td>
     <s:tag>Used Books Dubai</s:tag>
     <s:tag>World War II</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099361433</id>
+      <id>/products/8579099361433</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781250080400</s:sku>
@@ -990,10 +990,10 @@ Pages: 608</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099328665</id>
+    <id>/products/8579099328665</id>
     <published>2025-11-17T20:04:50+04:00</published>
     <updated>2025-11-17T20:04:50+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lost-letters-of-william-woolf"/>
+    <link rel="alternate" type="text/html" href="/products/the-lost-letters-of-william-woolf"/>
     <title>The Lost Letters of William Woolf</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1029,7 +1029,7 @@ Pages: 327</p></td>
     <s:tag>Romance</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099328665</id>
+      <id>/products/8579099328665</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780718189143</s:sku>
@@ -1037,10 +1037,10 @@ Pages: 327</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579099295897</id>
+    <id>/products/8579099295897</id>
     <published>2025-11-17T20:04:47+04:00</published>
     <updated>2025-11-17T20:04:47+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-local"/>
+    <link rel="alternate" type="text/html" href="/products/the-local"/>
     <title>The Local</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1076,7 +1076,7 @@ Pages: 320</p></td>
     <s:tag>Suspense</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579099295897</id>
+      <id>/products/8579099295897</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9781782277743</s:sku>
@@ -1084,10 +1084,10 @@ Pages: 320</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098771609</id>
+    <id>/products/8579098771609</id>
     <published>2025-11-17T20:04:21+04:00</published>
     <updated>2025-11-17T20:04:21+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/extremely-loud-and-incredibly-close-a-novel"/>
+    <link rel="alternate" type="text/html" href="/products/extremely-loud-and-incredibly-close-a-novel"/>
     <title>Extremely Loud And Incredibly Close: A Novel</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1123,7 +1123,7 @@ Pages: 368</p></td>
     <s:tag>Postmodern</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098771609</id>
+      <id>/products/8579098771609</id>
       <title>Default Title</title>
       <s:price currency="AED">10.00</s:price>
       <s:sku>11RA9780618711659</s:sku>
@@ -1131,10 +1131,10 @@ Pages: 368</p></td>
     </s:variant>
   </entry>
   <entry>
-    <id>https://bookhero.ae/products/8579098476697</id>
+    <id>/products/8579098476697</id>
     <published>2025-11-17T20:04:06+04:00</published>
     <updated>2025-11-17T20:04:06+04:00</updated>
-    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/abundance-unputdownable-and-heartbreaking-coming-of-age-fiction-about-fathers-and-sons"/>
+    <link rel="alternate" type="text/html" href="/products/abundance-unputdownable-and-heartbreaking-coming-of-age-fiction-about-fathers-and-sons"/>
     <title>Abundance Unputdownable and Heartbreaking Coming-Of-age Fiction about Fathers and Sons</title>
     <s:type>Reading Books</s:type>
     <s:vendor>bookhero.ae</s:vendor>
@@ -1170,7 +1170,7 @@ Pages: 288</p></td>
     <s:tag>Social Issues</s:tag>
     <s:tag>Used Books Dubai</s:tag>
     <s:variant>
-      <id>https://bookhero.ae/products/8579098476697</id>
+      <id>/products/8579098476697</id>
       <title>Default Title</title>
       <s:price currency="AED">20.00</s:price>
       <s:sku>11RA9780349702698</s:sku>
