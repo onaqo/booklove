@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookhero.ae/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/blogs/news.atom"/>
+  <title>Dubai - Buy Used/Second-Hand Books - BookHero - News</title>
+  <updated>2024-11-06T18:34:21+04:00</updated>
+  <author>
+    <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
+  </author>
+  <entry>
+    <id>https://bookhero.ae/blogs/news/creative-journaling-event</id>
+    <published>2024-11-06T18:34:21+04:00</published>
+    <updated>2024-11-06T19:01:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/creative-journaling-event"/>
+    <title>creative-journaling-event</title>
+    <author>
+      <name>PageFly</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-da</id>
+    <published>2024-06-07T16:51:22+04:00</published>
+    <updated>2024-06-07T16:51:22+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-da"/>
+    <title>Happy World Bicycle Day</title>
+    <author>
+      <name>Shopify API</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-day-2</id>
+    <published>2024-06-07T10:49:11+04:00</published>
+    <updated>2024-06-07T10:50:05+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-day-2"/>
+    <title>Happy World Bicycle Day 2</title>
+    <author>
+      <name>Maria Brito</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="studioengine-wrapper">
+<link href="//studios.cdn.theshoppad.net/blogstudio/blocks.css?shop=info-398.myshopify.com&amp;v=1" rel="stylesheet" type="text/css">
+<script src="//studios.cdn.theshoppad.net/blogstudio/blogstudio.dist.js?shop=info-398.myshopify.com&amp;v=1"></script><div class="studioengine">
+<div class="is-section is-section-auto is-box">
+<div class="is-overlay"><div class="is-overlay-bg" style='transform: translateY(46.0203px) scale(1.05); background-image: url("https://blogstudio.s3.theshoppad.net/info-398/6235677e782f0c4d5257b70ea8efdfec.jpg");' data-bottom-top="transform:translateY(-120px) scale(1.05);" data-top-bottom="transform:translateY(120px) scale(1.05)"><div class="is-overlay-color" style="opacity:0.1"></div></div></div>
+<div class="is-boxes"><div class="is-box-centered"><div class="is-container is-content-maxwidth"><div class="sse-row sse-clearfix"><div class="sse-column sse-full">
+<!---OTHERS--->
+<div class="is-static"><div id="btn-style-stub">
+<!--Your theme does not support default button styles, so this style snippet has been added --><style type="text/css">.studioengine .sse-is-btn, .studioengine .sse-btn{padding: 7px 25px;font-size: 1em;line-height: 2em;display: inline-block;text-align: center;text-decoration: none;vertical-align: middle;cursor: pointer;color: #333;background-color: #d3d3d3;}</style>
+</div></div>
+</div></div></div></div></div>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/blogs/news/happy-world-bicycle-day</id>
+    <published>2024-06-07T10:45:48+04:00</published>
+    <updated>2024-06-07T10:45:48+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/happy-world-bicycle-day"/>
+    <title>Happy World Bicycle Day</title>
+    <author>
+      <name>Maria Brito</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div class="studioengine-wrapper">
+<link href="//studios.cdn.theshoppad.net/blogstudio/blocks.css?shop=info-398.myshopify.com&amp;v=3" rel="stylesheet" type="text/css">
+<script src="//studios.cdn.theshoppad.net/blogstudio/blogstudio.dist.js?shop=info-398.myshopify.com&amp;v=3"></script><div class="studioengine">
+<!---OTHERS--->
+<div class="is-static"><div id="btn-style-stub">
+<!--Your theme does not support default button styles, so this style snippet has been added --><style type="text/css">.studioengine .sse-is-btn, .studioengine .sse-btn{padding: 7px 25px;font-size: 1em;line-height: 2em;display: inline-block;text-align: center;text-decoration: none;vertical-align: middle;cursor: pointer;color: #333;background-color: #d3d3d3;}</style>
+</div></div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/blogs/news/world-bicycle-day</id>
+    <published>2024-06-03T19:30:00+04:00</published>
+    <updated>2024-06-07T10:44:19+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/blogs/news/world-bicycle-day"/>
+    <title>HAPPY WORLD BICYCLE DAY!</title>
+    <author>
+      <name>Maria Brito</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="color: black;" data-mce-style="color: black;">June 3rd</p>
+<p style="color: black;" data-mce-style="color: black;">I rode. I won. They call me "Legend"</p>
+<p>A spring morning in Bassano del Grappa, a city and commune in the Vicenza province, offers a picturesque drive among green fields and majestic mountains that guard the charming villages spotted all over the Veneto region in northern Italy.</p>
+<p>Several things stand out to the observer:</p>
+<ol>
+<li>
+<p>1. Dogs are allowed everywhere and treated with the utmost respect.</p>
+</li>
+<li>
+<p>2. The vast number of cyclists. Riders are everywhere, riding alone in pelotons, young and old, on road, mountain, TT, and e-bikes. This leads me to the focus of my writing: Meeting The Legend, Giovanni Battaglin, an Italian former professional road racing cyclist known for his remarkable achievements, particularly in the early 1980s.</p>
+</li>
+</ol>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">1979 Vuelta a España:</span> Battaglin finished third in the 1979 Vuelta a España, marking his arrival as a significant contender in Grand Tours.</p>
+<p><span style="color: #000000;">1981 Double Victory</span><span>: One of the most unbelievable achievements in Battaglin's career was winning both the Giro d'Italia and the Vuelta a España in the same year, 1981. This rare double victory is a testament to his extraordinary endurance and skill.</span></p>
+<ol>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">Giro d'Italia 1981</span>: Battaglin won the Giro d'Italia, displaying remarkable climbing abilities and resilience. He took the leader's pink jersey on the 19th, challenging mountain stage<span class="gmail_default">,</span><span> </span>and held onto it until the end.</p>
+</li>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">Vuelta a España 1981</span>: Just a few weeks before his Giro victory, Battaglin secured the overall win in the Vuelta a España. This victory was notable because it came after an intense battle with fellow Italian Marino Leja</p>
+<p> </p>
+</li>
+</ol>
+<p><span style="color: #000000;" data-mce-style="color: #000000;"> Unique Aspects and Unbelievable Feats</span></p>
+<ol>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">• Double Grand Tour Wins</span>: Winning two Grand Tours in a single year is an extraordinary feat achieved by only a few cyclists in history. Battaglin's 1981 victories in the Giro and the Vuelta placed him in the elite company of riders like Eddy Merckx and Bernard Hinault. The two Grand Tours finished and started within four days of each other, yet normal recovery between races typically takes at least 3-4 weeks. He won both races.</p>
+</li>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">• Climbing Prowess</span>: Battaglin was known for his exceptional climbing abilities, which were crucial to his Grand Tour successes. His performance in the mountainous stages often made the difference in the overall standings.</p>
+</li>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">• Comeback and Longevity</span>: Despite injuries and setbacks, Battaglin maintained a long and successful career, continuing to race competitively into the mid-1980s and consistently performing well in <span class="gmail_default"></span>p<span class="gmail_default">rimary</span> races.</p>
+<p> </p>
+</li>
+</ol>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">Post-Retirement</span></p>
+<ol>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;"><span data-mce-fragment="1">•  </span>Bicycle Manufacturing</span>: Battaglin ventured into bicycle manufacturing after retiring from professional cycling. He founded "Battaglin Cicli," a company that produces high-quality racing bicycles. His experience and insights as a professional cyclist influenced the design and performance of these bikes. I thought the state-of-the-art designs were unique. Coming from an artistic background, I could easily see myself framing one of these bicycles to be admired in my front room. But the real beauty, I guess, lies in its performance, along with the customized finishing details</p>
+</li>
+</ol>
+<p><span style="color: #000000; font-family: ui-sans-serif, -apple-system, system-ui, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, Helvetica, 'Apple Color Emoji', Arial, 'Segoe UI Emoji', 'Segoe UI Symbol';" color="#0d0d0d" face="ui-sans-serif, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica, Apple Color Emoji, Arial, Segoe UI Emoji, Segoe UI Symbol" data-mce-style="color: #000000; font-family: ui-sans-serif, -apple-system, system-ui, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, Helvetica, 'Apple Color Emoji', Arial, 'Segoe UI Emoji', 'Segoe UI Symbol';"><span class="gmail_default">Back at Battaglin Headquarters</span><br></span></p>
+<p>At his headquarters, a welcoming wall reads: "I rode. I won. They call me Legend. Giovanni Battaglin." Two wall corner shelves are loaded with trophies, his attire during his victories, and two bicycles that rest statically, having made history beside him.</p>
+<p><br>As I made my way up the stairs, the wall offered a chronicle of his victories, highlighting all his achievements. I tried to absorb all his achievements while waiting for him, but there were too many, and before I knew it, he made his way into the big room. My first impression was of a composed, calm, and strong presence that wrapped the room in a generous humility within the first few minutes. I noticed people filming his bicycles and interviewing buyers who had flown worldwide to collect their bikes or choose finishing colors.<br><span style="color: #000000; font-family: ui-sans-serif, -apple-system, system-ui, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, Helvetica, 'Apple Color Emoji', Arial, 'Segoe UI Emoji', 'Segoe UI Symbol';" color="#0d0d0d" face="ui-sans-serif, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica, Apple Color Emoji, Arial, Segoe UI Emoji, Segoe UI Symbol" data-mce-style="color: #000000; font-family: ui-sans-serif, -apple-system, system-ui, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, Helvetica, 'Apple Color Emoji', Arial, 'Segoe UI Emoji', 'Segoe UI Symbol';"><span class="gmail_default"><br></span></span></p>
+<p><span>Without hesitation, I voiced my thoughts: "I am honored to meet you, Mr. Giovanni. I have four questions for you</span><span class="gmail_default">, <span style="color: #000000;" data-mce-style="color: #000000;">and proceeded to ask without hesitation</span></span><span>"</span></p>
+<ol>
+<li>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">• What makes a champion?</span></p>
+</li>
+</ol>
+<p>"A champion is built from the right attitude and the respect we have for everything. Along with a strong sense of belonging within your team, you need certain qualities to become a champion. During my time, races were much different; we didn't have today's technology, so understanding and reading the race map was crucial. Only the last 50 km were notified, and most courses were unpredictable."</p>
+<ol>
+<li> 
+<p style="color: #000000;" data-mce-style="color: #000000;">• How do you see the new cyclist generation—better cyclists today or better technology for more average cyclists?</p>
+</li>
+</ol>
+ 
+<p>"Every era has its champions. During the 1970s, there were many champions like Felice Gimondi (ITA), Freddy Maertens (BEL), Luis Ocaña (ESP), Eddy Merckx (BEL). Today, there are four or five champions in the world. In the past, there were certainly more champions. Cycling is all about sacrifices, especially being young and dedicated to the sport. Another important factor is that a champion today, after five years of being a dedicated professional cyclist, earns a substantial amount of money compared to past decades. The whole system has changed."</p>
+<ol>
+<li>
+<p style="color: #000000;" data-mce-style="color: #000000;">• Do you have any regrets?</p>
+</li>
+</ol>
+<p>"No regrets! All my achievements were done with rigor and respect. Even after the unfair incident during the 1979 Valkenburg, Netherlands World Pro Road Championship, where Thurau and Raas breached international regulations by changing direction during the final sprint, causing me to fall 75 meters before the finish line, I hold no hard feelings or regrets."</p>
+<ol>
+<li>
+<p style="color: #000000;" data-mce-style="color: #000000;">• My final question is: Can you share your most precious anecdote with us?</p>
+</li>
+</ol>
+<p>"Undoubtedly, becoming the unexpected winner of the Italian Giro 1981. Just a few weeks before, I won the Vuelta in Spain. During the Giro, the lead changed hands often; other riders like Giuseppe Saronni (ITA) or Tommy Prim (SWE) were likely to win. I was the last rider in the final time trial, entering the colossal Verona Arena. While crossing the finish line, I had no expectations of winning, but a standing ovation from 15,000 people and my masseur informing me that I had won was an unforgettable experience."</p>
+<p>Battaglin's contributions have added prestige to Italian cycling. He continues to spread his legacy by manufacturing high-performance bicycles seen worldwide in international competitions. For those interested in learning more about Battaglin's skillful climbing and incredible endurance, we recommend his book "48 Days," published in 2020. It tells the story of his unique feat in cycling history of winning two Grand Tours in just 48 days.</p>
+<p>Finally, I returned home to the UAE to celebrate World Bicycle Day and realize how much of a cycling-friendly country we live in. I have collected some information for those interested in learning more about the latest cycling developments in the UAE</p>
+<p><span style="color: #000000;" data-mce-style="color: #000000;">Safe Cycling Tracks in the UAE</span></p>
+<p>The UAE is making significant strides in enhancing its cycling infrastructure, offering numerous cycling tracks nationwide. Dubai boasts an impressive 544 kilometers of cycling tracks, with plans to expand to 1,000 kilometers by 2030.</p>
+<p>Some of the most notable cycling tracks in Dubai include:</p>
+<p> </p>
+<ol></ol>
+<p><span color:black="">Mayor announcement for avid cyclists "Dubai Cycle City 2040"</span></p>
+<li>
+<p>Exciting new cycling projects are coming up in the UAE, further enhancing the country's reputation as a cycling-friendly destination. Notably, Dubai has announced an ambitious plan called "Dubai Cycle City 2040" to make it the most bike-friendly city globally. This plan includes developing a 93 km cycling highway called "THE LOOP," which will revolutionize urban mobility by providing safe and interconnected cycling routes.</p>
+<p>Additionally, the annual Spinneys Dubai 92 Cycle Challenge continues to grow in popularity. The 2024 edition features a 94.1 km race on traffic-free streets, starting and finishing at Expo City Dubai. This event also includes family-friendly rides and junior competitions, making it a comprehensive cycling festival.</p>
+<p>Moreover, Dubai’s Roads and Transport Authority (RTA) is working towards expanding the cycling network to 1,000 km by 2030, with recent additions in Al Khawaneej and Mushrif bringing the current total to 544 km.</p>
+<p>These projects and events reflect the UAE's commitment to promoting cycling as a sustainable and healthy mode of transportation (ARN News Centre) (Dubai 92) (Cycle Challenge UAE).</p>
+<p>What do you think about the developments? Can suggestions be added?</p>
+<p>To order a book copy 48 hours by the legend Giovanni Battaglin,visit the link below :</p>
+<p>https://officina-battaglin.thrivecart.com/48-days-book/</p>
+<p>To elevate yourself by cycling to another level with a Battaglin bike, visit the link below :</p>
+<p>https://officinabattaglin.com/</p>
+<p>Happy World Bicycle Day!</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/2_1_d01f1e3e-901c-46e7-b7f9-51280b99a8a4_480x480.png?v=1717513680" alt="" width="210" height="210" data-mce-fragment="data-sanitized-data-mce-fragment=" data-mce-src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/2_1_d01f1e3e-901c-46e7-b7f9-51280b99a8a4_480x480.png?v=1717513680"> <img src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/3_1_480x480.png?v=1717513713" alt="" width="210" height="210" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/3_1_480x480.png?v=1717513713"><img src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/48-Days-racing-memoir-of-Giovanni-Battaglin-special-Edizione-Collezionista-limited-Collectors-Edition-Battaglin-signed-memoir-and-replica-1981-Maglia-Rosa_cover_1_480x480.jpg?v=1717694974" alt="" width="210" height="184" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/48-Days-racing-memoir-of-Giovanni-Battaglin-special-Edizione-Collezionista-limited-Collectors-Edition-Battaglin-signed-memoir-and-replica-1981-Maglia-Rosa_cover_1_480x480.jpg?v=1717694974"><img src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/9D98C967-0275-46AF-80FF-A4F1BE7B025E_1_105_c_480x480.jpg?v=1717690276" alt="" width="203" height="271" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/9D98C967-0275-46AF-80FF-A4F1BE7B025E_1_105_c_480x480.jpg?v=1717690276"></p>
+<p>For more about his legacy and to order his book and his custom-made bicycles, visit the link below:<span> </span></p>
+<p><span><a data-saferedirecturl="https://www.google.com/url?q=https://officina-battaglin.thrivecart.com/48-days-book/&amp;source=gmail&amp;ust=1717585582691000&amp;usg=AOvVaw29ynCiifJTe6KliDSp7rad" href="https://officina-battaglin.thrivecart.com/48-days-book/" target="_blank" data-mce-href="https://officina-battaglin.thrivecart.com/48-days-book/">https://officina-battaglin.<wbr>thrivecart.com/48-days-book/</wbr></a> </span></p>
+<p> </p>
+</li>]]>
+    </content>
+  </entry>
+</feed>

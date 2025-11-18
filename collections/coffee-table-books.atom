@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookhero.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/coffee-table-books.atom"/>
+  <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
+  <updated>2025-10-23T19:42:06+04:00</updated>
+  <author>
+    <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
+  </author>
+  <entry>
+    <id>https://bookhero.ae/products/8554906517657</id>
+    <published>2025-10-23T19:42:06+04:00</published>
+    <updated>2025-10-23T19:42:06+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/world-dress"/>
+    <title>World Dress</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9da3fa1bb4_World_Dress_Frances_Kennett.jpg?v=1761234129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A guide to ethnic dress throughout the world - Includes maps of regions and specific garments of each area.<br>
+Dimensions: 0 x 0<br>
+Author: Frances Kennett<br>
+ISBN: 9781857323535<br>
+Format: Hardcover<br>
+Pages: 192</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Cultural</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>History</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554906517657</id>
+      <title>Default Title</title>
+      <s:price currency="AED">30.00</s:price>
+      <s:sku>17RC-49781857323535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554905567385</id>
+    <published>2025-10-23T19:41:46+04:00</published>
+    <updated>2025-10-23T19:41:46+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dufy-masters-of-art-anglais"/>
+    <title>DUFY (MASTERS OF ART) /ANGLAIS</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9d944ed557_DUFY__MASTERS_OF_ART___ANGLAIS_Alfred_Werner.jpg?v=1761234108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raoul Dufy (Masters of Art)<br>
+Dimensions: 0 x 320<br>
+Author: Alfred Werner<br>
+ISBN: 9780500080269<br>
+Format: Hardcover<br>
+Pages: 128</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554905567385</id>
+      <title>Default Title</title>
+      <s:price currency="AED">30.00</s:price>
+      <s:sku>17RC-49780500080269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554894655641</id>
+    <published>2025-10-23T19:35:45+04:00</published>
+    <updated>2025-10-23T19:35:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/unseen-vogue-the-secret-history-of-fashion-photography"/>
+    <title>Unseen Vogue: The Secret History of Fashion Photography</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9d5c822095_Unseen_Vogue-_The_Secret_History_of_Fashion_Photography_Robin_Derrick___Robin_Muir.jpg?v=1761233748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unseen Vogue goes beyond the cliches and often repeated "greatest hits" of fashion photography and tells a completely new story. Drawn from the archives of British Vogue, the book presents hundreds of images never seen beforethe killed pictures, rejects, and outtakesto form a fresh, new history of fashion photography. Features the first attempts of many now internationally famous photographers, great pictures by forgotten masters, outtakes from famous shoots, and many other extraordinary and sometimes controversial pictures. By showing contact sheets and unedited film Unseen Vogue opens up the process of making fashion images, previously the reserve of fashion's inner circle.<br>
+Dimensions: 337 x 406<br>
+Author: Robin Derrick | Robin Muir<br>
+ISBN: 9780316860239<br>
+Format: Hardcover<br>
+Pages: 352</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Photography</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554894655641</id>
+      <title>Default Title</title>
+      <s:price currency="AED">80.00</s:price>
+      <s:sku>17RC-39780316860239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554894131353</id>
+    <published>2025-10-23T19:35:28+04:00</published>
+    <updated>2025-10-23T19:35:28+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/norman-rockwells-america"/>
+    <title>Norman Rockwell&apos;s America</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9d50197123_Norman_Rockwell_s_America_Christopher_Finch.jpg?v=1761233731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A nostalgic collection of Norman Rockwell's scenes of twentieth century American life includes all of the Saturday Evening Post covers plus paintings, drawings, and graphics from every period of the artist's career--with many foldout pages.<br>
+Dimensions: 273 x 349<br>
+Author: Christopher Finch<br>
+ISBN: 9780810980716<br>
+Format: Hardcover<br>
+Pages: 256</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>Art History</s:tag>
+    <s:tag>Biography</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>History</s:tag>
+    <s:tag>The United States Of America</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554894131353</id>
+      <title>Default Title</title>
+      <s:price currency="AED">80.00</s:price>
+      <s:sku>17RC-39780810980716</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554894065817</id>
+    <published>2025-10-23T19:35:25+04:00</published>
+    <updated>2025-10-23T19:35:25+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/bonnard"/>
+    <title>Bonnard</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9d4f0763af_Bonnard_Nicholas_Watkins.jpg?v=1761233728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pierre Bonnard (1867-1947) is acknowledged as one of the great masters of twentieth-century painting. Best-known as a painter of intimate, domestic interiors, he was also a highly accomplished draughtsman and graphic artist who produced a wealth of drawings and lithographs.In fact Bonnard began his career as a graphic artist, producing posters and illustrations for such magazines as La Revue Blanche. Associated with Maurice Denis, Edouard Vuillard and other members of the Nabis group from 1890, his early work is characterized by a tendency towards broad, flat colour and asymmetrical composition derived from Gauguin and from Japanese prints. From 1900 his palette became richer and his subject-matter settled into a range of obsessive themes - principally landscapes, nudes and interiors - in which he explored ever more complex formal problems and developed an unparalleled mastery of colour and light. His mature work achieves a level of dazzling intensity which has ensured his enduring reputation as one of the twentieth century's great colourists.In this important reassessment of Bonnard's life and work, Nicholas Watkins argues that Bonnard was not a sentimental survivor of impressionism as some have claimed, but a highly demanding and innovative artist responding to new formal challenges. Paintings, graphic work and sketches are comprehensively reproduced and examined in depth, providing a definitive study of this highly influential but frequently misunderstood artist.<br>
+Dimensions: 260 x 298<br>
+Author: Nicholas Watkins<br>
+ISBN: 9780714828954<br>
+Format: Hardcover<br>
+Pages: 240</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>Biography</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>History</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554894065817</id>
+      <title>Default Title</title>
+      <s:price currency="AED">80.00</s:price>
+      <s:sku>17RC-39780714828954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554893803673</id>
+    <published>2025-10-23T19:35:17+04:00</published>
+    <updated>2025-10-23T19:35:17+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/african-majesty-the-textile-art-of-the-ashanti-and-ewe"/>
+    <title>African Majesty The Textile Art of the Ashanti and Ewe</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9d42e576d5_African_Majesty_The_Textile_Art_of_the_Ashanti_and_Ewe_Peter_Adler___Nicholas_Barnard.jpg?v=1761233720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Within the borders of present-day Ghana and Togo, there exists an immemorial tradition of weaving. Inspired by the demands of royalty and ceremony or of the wealthy for rich display, the weavers of the Ashanti and Ewe tribes have created cloths that combine colour and pattern to fabulous effect. So important were these masterpieces of textile art - worn like the togas of ancient Rome - that at one time costly foreign silks were imported, only to be unravelled for weaving afresh. Exuberantly West African in colour and composition, these textiles are made from narrow lengths of cotton or silk, first woven on small drag looms, then cut and sewn together - the product therefore of a weaver's artifice combined with the ingenuity of the craftsman at matching, or brilliantly mismatching, the patterns on strips of cloth. The impact of these bands of colour is often balanced and enhanced by the woven details of motifs. Anteaters, combs, hands, letters, as well as seemingly abstract forms, provide a vocabulary of information for the owner and the onlooker, an indication of prestige or rank, or simply a reflection of the key elements of everyday life. The textiles are depicted in over 130 glorious colour plates. The text includes a full description of the origin and technical composition of each example, a thorough historical survey and an explanation of the methods of weaving, as well as of the use of cloths. This is a book of spectacular colour and pattern that will captivate everyone interested in textile history, in African culture, or in tribal art, and anyone who responds to craftsmanship and display of immense originality and vitality.<br>
+Dimensions: 229 x 305<br>
+Author: Peter Adler | Nicholas Barnard<br>
+ISBN: 9780500278444<br>
+Format: Paperback<br>
+Pages: 192</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Africa</s:tag>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Cultural</s:tag>
+    <s:tag>Textiles</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554893803673</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku>17RC-39780500278444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554877911193</id>
+    <published>2025-10-23T19:24:11+04:00</published>
+    <updated>2025-10-23T19:24:11+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/traditional-indian-textiles"/>
+    <title>Traditional Indian Textiles</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9cd7fc044e_Traditional_Indian_Textiles_John_Gillow___Nicholas_Barnard.jpg?v=1761233054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Traces the history of Indian textile production, describes weaving, painting, printing, and tie-dye techniques, and surveys textile production and decoration in the various regions<br>
+Dimensions: 210 x 298<br>
+Author: John Gillow | Nicholas Barnard<br>
+ISBN: 9780500277096<br>
+Format: Paperback<br>
+Pages: 160</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>India</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554877911193</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>17RC-29780500277096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554877845657</id>
+    <published>2025-10-23T19:24:08+04:00</published>
+    <updated>2025-10-23T19:24:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/threads-of-identity-maya-costume-of-the-1960s-in-highland-guatemala"/>
+    <title>Threads of Identity: Maya Costume of the 1960s in Highland Guatemala</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9cd6a3e2ca_Threads_of_Identity-_Maya_Costume_of_the_1960s_in_Highland_Guatemala_Patricia_B._Altman___Caroline_D._West___University_of_California___Los_Angeles_Fowler_Museum_of_Cult.jpg?v=1761233053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Book by Altman, Patricia B., West, Caroline D.<br>
+Dimensions: 235 x 292<br>
+Author: Patricia B. Altman | Caroline D. West | University of California | Los Angeles Fowler Museum of Cultural History<br>
+ISBN: 9780930741235<br>
+Format: Hardcover<br>
+Pages: 190</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Cultural</s:tag>
+    <s:tag>History</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554877845657</id>
+      <title>Default Title</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku>17RC-29780930741235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554877583513</id>
+    <published>2025-10-23T19:24:01+04:00</published>
+    <updated>2025-10-23T19:24:01+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/sherlock-chronicles"/>
+    <title>Sherlock: Chronicles</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9cd2b85db0_Sherlock-_Chronicles_Steve_Tribe.jpg?v=1761233044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A visually stunning and comprehensive guide to the hit BBC series, Sherlock: Chronicles tells the full story of the show as you’ve never seen it before.Packed with exclusive unseen material, including all-new interviews with the cast and crew, this is Sherlock from the ground up: from story and script development to casting, sets, costumes, props, music and more. Each episode of the spectacular three series is remembered by those who made it, from the show’s dazzling debut in A Study in Pink to this year’s breathtaking finale, His Last Vow.Featuring over 500 images of concept artwork, photographs, costume and set designs, and more, Chronicles is the ultimate celebration for Sherlock fans everywhere.<br>
+Dimensions: 197 x 252<br>
+Author: Steve Tribe<br>
+ISBN: 9781849907620<br>
+Format: Hardcover<br>
+Pages: 320</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Media Tie In</s:tag>
+    <s:tag>Reference</s:tag>
+    <s:tag>Television</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554877583513</id>
+      <title>Default Title</title>
+      <s:price currency="AED">30.00</s:price>
+      <s:sku>17RC-29781849907620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554876993689</id>
+    <published>2025-10-23T19:23:41+04:00</published>
+    <updated>2025-10-23T19:23:41+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/home-made-vintage"/>
+    <title>Home-made Vintage</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9c57673493_Home-made_Vintage_Christina_Strutt.jpg?v=1761233024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>'Home-Made Vintage' describes how to create over 40 step-by-step projects to decorate any room in your house from the kitchen to the bedroom to the garden room, as well as plenty of ideas for gifts.<br>
+Dimensions: 220 x 282<br>
+Author: Christina Strutt<br>
+ISBN: 9781904991434<br>
+Format: Hardcover<br>
+Pages: 144</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Crafts</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Sewing</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554876993689</id>
+      <title>Default Title</title>
+      <s:price currency="AED">30.00</s:price>
+      <s:sku>17RC-29781904991434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554825679001</id>
+    <published>2025-10-23T18:47:07+04:00</published>
+    <updated>2025-10-23T18:47:07+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dubai-creek-past-present"/>
+    <title>Dubai Creek: Past &amp; Present</title>
+    <s:type></s:type>
+    <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/tmp80_1622731054_5.png?v=1761230718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dubai - Buy Used/Second-Hand Books - BookHero<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="42" data-end="450">Dubai Creek Past and Present is a captivating journey through the history and transformation of Dubai Creek and its surrounding areas. The book showcases the evolution of Dubai from a modest pearling and fishing town into a thriving modern city. Filled with rich photographs and insightful commentary, it offers readers a glimpse into the cultural, economic, and architectural changes that shaped the city.</p>
+<p data-start="452" data-end="652">Ideal for history enthusiasts, students, and anyone interested in Dubai’s heritage, this book combines visual storytelling with informative text to bring the past and present of Dubai Creek to life.</p>
+<p data-start="654" data-end="865" data-is-last-node="" data-is-only-node="">Product details:<br data-start="670" data-end="673">Author: Narain R. Sawlani<br data-start="698" data-end="701">Publisher: Explorer Publishing<br data-start="731" data-end="734">Publication Year: 2005<br data-start="756" data-end="759">Format: Hardcover<br data-start="776" data-end="779">Pages: Approx. 120</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table books</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554825679001</id>
+      <title>Default Title</title>
+      <s:price currency="AED">60.00</s:price>
+      <s:sku>14RA325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8503620173977</id>
+    <published>2025-08-12T14:15:50+04:00</published>
+    <updated>2025-08-12T14:15:50+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/how-i-play-golf"/>
+    <title>How I Play Golf</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/689a1d197b1fd_How_I_Play_Golf_Tiger_Woods.jpg?v=1754993752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>How I Play Golf' offers a lavishly illustrated instructional book with four-colour photography, original artwork, unique sequential shots of Tiger in action, and easy-to-follow diagrams for golfers of all abilities. Only in his mid-20s, Tiger Woods is already a golfing legend worldwide. He is the youngest player to complete the Grand Slam of professional major championships.Fans everywhere have marvelled at his explosive drives, his accurate approach shots, his steady putter, and most important, how his devastating mental game transcends all the ups and downs of the game of golf. The insights Tiger reveals in HOW I PLAY GOLF are a combination of the physical and psychological practices that Tiger uses daily to keep his game at the top. For fans and followers of Tiger, these secrets will become the gospel of how to improve one's own game.<br>
+Dimensions: 237 x 282<br>
+Author: Tiger Woods<br>
+ISBN: 9780316643696<br>
+Format: Hardcover<br>
+Pages: 320</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biography</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Reference</s:tag>
+    <s:tag>Sports</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8503620173977</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku>Table-F-19780316643696</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8417498890393</id>
+    <published>2025-04-30T19:40:44+04:00</published>
+    <updated>2025-04-30T19:40:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-complete-rose-book-the-complete-guide-to-growing-decorating-and-creating-beautiful-gifts-with-roses"/>
+    <title>The Complete Rose Book: the Complete Guide to Growing, Decorating and Creating Beautiful Gifts with Roses</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/6811f48a6b503-The-Complete-Rose-Book-the-Complete-Guide-to-Growing-Decorating-and-Creating-Beaut_2119_1.jpg?v=1748278025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quarto, Illustrated<br>
+Dimensions: 0 x 0<br>
+Author: Mchoy<br>
+ISBN: 9781840811087<br>
+Format: Paperback<br>
+Pages: 256</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>gardening</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8417498890393</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku>7RA9781840811087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8411285291161</id>
+    <published>2025-04-25T21:07:58+04:00</published>
+    <updated>2025-04-25T21:07:58+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/fly-the-art-of-the-club-flyer"/>
+    <title>Fly: The Art of the Club Flyer</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/6808e98a9b68f_Fly-_The_Art_of_the_Club_Flyer_Nicola_Ackland-Snow___Nathan_Brett___Steven_J._Williams.jpg?v=1745600879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are just some of the ways to describe a whole new genre of contemporary graphic design - the dance-club flyer. Once a simple and flimsy means to promote underground club parties, flyers have now come to represent the way of life for an entire generation while still maintaining their alternative character. Club culture is big business, and the club flyer is hailed as an art form whose graphic vitality remains a consistently provocative, continually evolving force. Fly: The Art of the Club Flyer celebrates this unique, expressive medium and is in itself an innovative visual reference that no club-goer or designer should be without.<br>
+Dimensions: 229 x 260<br>
+Author: Nicola Ackland-Snow | Nathan Brett | Steven J. Williams<br>
+ISBN: 9780823018543<br>
+Format: Paperback<br>
+Pages: 96</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Club Culture</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Event Flyers</s:tag>
+    <s:tag>Graphic Design</s:tag>
+    <s:tag>Nightlife</s:tag>
+    <s:tag>used books dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8411285291161</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>Table-B-39780823018543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8411281096857</id>
+    <published>2025-04-25T20:56:45+04:00</published>
+    <updated>2025-04-25T20:56:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/public-health-social-context-and-action"/>
+    <title>Public Health: Social Context and Action</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/6809dd2984d19_Public_Health-_Social_Context_and_Action_Angela_Scriven.jpg?v=1745600206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"From Sure Start to healthy workplaces, health action zones to community regeneration, this volume makes the leap from research to action."Professor Richard Parish, Chief Executive, The Royal Society for the Promotion of Health What is public health and how has it changed over time? What is the social context of public health and what are the dominant 21st century issues? What strategies are in place to address population health? This important book makes a significant contribution to the emergent body of public health knowledge by examining debates around the social context of health, including key socio-economic, environmental and cultural factors. In doing so, the text locates within a social context the theoretical debates and problems surrounding public health, and analyzes the practical public health strategies and solutions that have been developed to address them.The book moves beyond traditional theoretical discourse to include coverage of: The thinking, frameworks and processes that are actively shaping public health in the 21st century Provides tangible examples of public health strategies that have recently been introduced to tackle the social determinants of health The use of media strategies to promote health Public Health is key reading for students undertaking courses in health studies, health promotion, nursing, public health, social policy, social work and sociology. In addition to a wide student readership, the book’s focus on public health action and current practice also makes it highly relevant to professionals.The text brings together a distinguished group of practitioners, social scientists and public health experts who contribute their ideas and research.Contributors: Amanda Amos, Mel Bartley, Linda Bauld, Hannah Bradby, Tarani Chandola, Jeff Collin, Paul Fleming, Colin Fudge, Sebastian Garman, Ben Gidley, Jenny Head, David Hunter, Martin King, Roderick Lawrence, Kelley Lee, Yaojun Li, Mhairi Mackenzie, Alex Marsh, Antony Morgan, Jennie Popay, Graham Scambler, Sasha Scambler, Angela Scriven, Nick Watson.<br>
+Dimensions: 173 x 239<br>
+Author: Angela Scriven<br>
+ISBN: 9780335221509<br>
+Format: Paperback<br>
+Pages: 256</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:tag>Policy</s:tag>
+    <s:tag>Public Health</s:tag>
+    <s:tag>Social Issues</s:tag>
+    <s:tag>used books dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8411281096857</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>Table-A-49780335221509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8126608703641</id>
+    <published>2024-07-11T11:44:14+04:00</published>
+    <updated>2024-07-11T11:44:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/preston-bailey-celebrations-lush-flowers-opulent-tables-dramatic-spaces-and-other-inspirations-for-entertaining"/>
+    <title>Preston Bailey Celebrations: Lush Flowers, Opulent Tables, Dramatic Spaces, and Other Inspirations for Entertaining</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/589bf5f6ca4cc4cdc4ee9a5b9f45a80c.jpg?v=1720683856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebration. A time when friends and family come together in a breathtakingly beautiful setting to rejoice in one of lifeâs milestones: a wedding, a birthday, an anniversary. Collected in this book are dozens of the most recent, most extraordinary celebrations created by the unparalleled event planner Preston Bailey. These are events shaped by Baileyâs use of myriad elements, especially his extraordinary work with flowers, but also including architecture, set design, furniture making, lighting and art installations, and even tableware and textile design. In the first half of this visually spectacular book, arranged thematically to give hundreds of design possibilities to the reader, Bailey lays out the key elements to successful celebrations, including the importance of making a single dramatic statement, the elements of table settings, the impact of the ceremony space, the magic of tents, and the power of details. In the second half of the book, Bailey presents the best of his most recent work, exceptional parties shown in their entirety. The reader will find innumerable inspirations for planning a breathtaking, unforgettable event. <br>
+ Dimensions:0 x 340  <br>
+ Author: Preston Bailey <br>
+ ISBN: 9780847831944 <br>
+ Format: Hardcover <br>
+ Pages 226</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Architecture</s:tag>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Crafts &amp; Hobbies</s:tag>
+    <s:tag>Decorating</s:tag>
+    <s:tag>Decoration &amp; Ornament</s:tag>
+    <s:tag>Flower Arranging</s:tag>
+    <s:tag>House &amp; Home</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8126608703641</id>
+      <title>Default Title</title>
+      <s:price currency="AED">50.00</s:price>
+      <s:sku>6RA,7RA9780847831944</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/7516324102297</id>
+    <published>2022-09-12T16:00:32+04:00</published>
+    <updated>2022-09-12T16:00:32+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/99-photo-art-ideas"/>
+    <title>99 Photo Art Ideas</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>Bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/products/99-photo-art-ideas-382876.jpg?v=1694789518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PHOTOGRAPHIC EQUIPMENT &amp; TECHNIQUES. With over 99 stunning ideas this title will give the reader the inspiration to produce a piece of art that they can be proud of. Annabel explains simply and in her non-technical way how easy it is to photograph a piece art. The last chapter looks at how the reader can prepare their work to exhibition quality, print on canvas and sell their work into galleries and other outlets.<br>
+Author: Annabel Williams<br>
+ISBN: 9781906245115<br>
+Format: Paperback<br>
+Pages:  144<br>
+Dimensions: 12 x 261</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table books</s:tag>
+    <s:tag>Photography</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/7516324102297</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>7RA9781906245115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookhero.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/thrillers.atom"/>
+  <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
+  <updated>2024-10-03T19:49:17+04:00</updated>
+  <author>
+    <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
+  </author>
+  <entry>
+    <id>https://bookhero.ae/products/8237923631257</id>
+    <published>2024-10-03T19:49:17+04:00</published>
+    <updated>2024-10-03T19:49:17+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/only-time-will-tell"/>
+    <title>Only Time Will Tell</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/e9d5a507a2a8fe00b04a9f78b762eda3.jpg?v=1727970558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Clifton Chronicles - a multi-generational family saga, from the epic master storyteller <br>
+ Dimensions:1 x 1  <br>
+ Author: Jeffrey Archer <br>
+ ISBN: 9780330535670 <br>
+ Format: Paperback <br>
+ Pages 352</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fiction</s:tag>
+    <s:tag>Spy Thriller</s:tag>
+    <s:tag>Suspense Fiction</s:tag>
+    <s:tag>Thriller</s:tag>
+    <s:tag>Thriller &gt; Mystery Thriller</s:tag>
+    <s:tag>Thrillers</s:tag>
+    <s:tag>Thrillers (Fiction)</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8237923631257</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>13RB9780330535670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8221822156953</id>
+    <published>2024-09-17T12:00:44+04:00</published>
+    <updated>2024-09-17T12:00:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/youll-be-the-death-of-me"/>
+    <title>You&apos;ll Be the Death of Me</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/b12b25238a67fac31b19bd51f7ebcc44.jpg?v=1726560045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When three old friends re-live an epic ditch day, it goes horribly-and deadly-wrong. Ivy, Mateo, and Cal used to be close. Back in middle school they were best friends. So, when Cal pulls into campus late for class, and runs into Ivy and Mateo, it seems like the perfect opportunity to turn a bad day around. They'll ditch school and go into the city. Just the three of them, like old times. Why did they stop hanging out, anyway? As soon as they pull out of the parking lot Cal knows why. Ivy's already freaking out about missing class, and heartthrob Mateo is asleep in the backseat, too cool to even pretend like he wants to be there. The truth is they have nothing in common anymore. At least they don't until they run into the fourth student ditching school that day. Brian Boney Mahoney is supposed to be accepting his newly won office of class president. Which is why Ivy follows him into an empty building, only to walk into the middle of a murder scene. Cal, Ivy, and Mateo all know the person lying on the ground of that building, and now they need to come clean. They're all hiding something. And maybe their chance reconnection wasn't by chance after all. <br>
+ Dimensions:20 x 198  <br>
+ Author: McManus M. Karen <br>
+ ISBN: 9780241473665 <br>
+ Format:  <br>
+ Pages 400</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crime</s:tag>
+    <s:tag>Crime Mystery</s:tag>
+    <s:tag>FICTION MURDER</s:tag>
+    <s:tag>Psychological ThrillerCrime</s:tag>
+    <s:tag>Suspense</s:tag>
+    <s:tag>Thriller</s:tag>
+    <s:tag>Thriller &gt; Mystery Thriller</s:tag>
+    <s:tag>Thriller &gt; Psychological Thriller</s:tag>
+    <s:tag>Thrillers</s:tag>
+    <s:tag>used books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8221822156953</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>16RB-1-9780241473665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8122436059289</id>
+    <published>2024-07-06T18:16:51+04:00</published>
+    <updated>2024-07-06T18:16:51+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/past-perfect"/>
+    <title>Past Perfect</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/cc2b05e8f17eef0277fb7b73d83cd9c2.jpg?v=1720275412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Having been fired from her CIA dream job without an explanation thirteen years earlier, cable television writer Katie Schottland is enlisted for help by a former colleague who offers insight into the mystery of Katie's dismissal. By the author of Any Place I Hang My Hat. 150,000 first printing.<br>
+ Dimensions:134 x 202  <br>
+ Author: Susan Isaacs <br>
+ ISBN: 9781416590057 <br>
+ Format: Trade Paperback <br>
+ Pages 368</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>espionage</s:tag>
+    <s:tag>Fiction</s:tag>
+    <s:tag>mystery &amp; detective</s:tag>
+    <s:tag>New york (n.y.)</s:tag>
+    <s:tag>Suspense</s:tag>
+    <s:tag>thrillers</s:tag>
+    <s:tag>women sleuths</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8122436059289</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RA9781416590057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8055493656729</id>
+    <published>2024-05-23T13:11:23+04:00</published>
+    <updated>2024-05-23T13:11:23+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lion"/>
+    <title>The Lion</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/4228663b186a724f87405180da32d83c.jpg?v=1716455485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>John Corey, former NYPD Homicide detective and special agent for the Anti-Terrorist Task Force, is back on the trail of Asad Khalil, the notorious Libyan terrorist known as 'The Lion'. Corey and his partner, agent Kate Mayfield, tracked Khalil across the US after his threats to wipe out the US in a horrific wave of terrorism. But after methodically eliminating his victims one by one, Khalil disappeared without a trace. Now, years later, Khalil has returned to America to take care of unfinished business. 'The Lion' is a killing machine on a mission of revenge, and John Corey will not stop until he rids the earth of this tyrant once and for all. <br>
+ Dimensions:152 x 233  <br>
+ Author: Nelson DeMille <br>
+ ISBN: 9781847441447 <br>
+ Format: Paperback <br>
+ Pages 437</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fiction</s:tag>
+    <s:tag>Thrillers</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8055493656729</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>15RE-4-9781847441447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8020060504217</id>
+    <published>2024-05-06T21:05:14+04:00</published>
+    <updated>2024-05-06T21:05:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/fever-city"/>
+    <title>Fever City</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/142ab978f7e3914357741b5f75d76d67.jpg?v=1715015116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you took James Ellroy at his most imaginative and Oliver Stone at his most conspiratorial, and mixed them up in a supersized martini shaker, you would produce the vivid writing, explosive events, and irresistible entertainment of Fever City.</p>
+<p>The story kicks off in 1960 Los Angeles, with the daring kidnapping of the child of one of America's richest men. It then darts back and forth between a private detective's urgent search for the child, the saga of a notorious hit man in the days leading to JFK's assasination, and the modern-day story of a skeptical journalist researching the still-active conspiracy theories of the 50s and 60s, with the aim of debunking them. Just as the detective discovers that the kidnapping is a crime much larger than he imagined, and the hit man finds himself caught in a web that is astonighingly complex, the journalist discovers-to his horror, dismay, and even his jeopardy-that the conspiracy theories might well be true.</p>
+<p>With expert pacing, sparkling dialogue, and plot twists that will keep readers entranced, Tim Baker's irrepressible debut novel is a joy ride through classic noir traditions, updated with a surprisingly contemporary sensibility.<br>
+ Dimensions:26 x 240  <br>
+ Author: Tim Baker <br>
+ ISBN: 9780571323876 <br>
+ Format: Paperback <br>
+ Pages 411</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alternative history</s:tag>
+    <s:tag>Fiction</s:tag>
+    <s:tag>Suspense Fiction</s:tag>
+    <s:tag>thrillers</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8020060504217</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>16RB39780571323876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/7751758119065</id>
+    <published>2023-10-23T12:21:14+04:00</published>
+    <updated>2023-10-23T12:21:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pirate"/>
+    <title>Pirate</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/bc47eef90f83a901e4133c051b20d491.jpg?v=1728547221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Another explosive adventure featuring invincible SBS operative John Stratton, who discovers the dark truth behind a rash of pirate hijackings A mysterious "attack rehearsal" in Columbia by Islamic terrorists results in Stratton being sent on a kidnap mission to Yemenâbut when the Chinese Secret Service gets involved, things go horribly wrong, and Stratton finds himself escaping out to sea in the Gulf of Aden. Unfortunately it's not the Royal Navy that picks him up but a band of Somali piratesâbut Stratton's capture turns out to be far from a dead-end encounter when he uncovers a plot to bring down dozens of commercial aircraft across the U.S. and Europe in a coordinated attack. Stratton must escape in order to return with an SBS attack squadron, but as is so often the case, situations, and people, are not quite what they first appear to be. <br>
+ Dimensions:152 x 231  <br>
+ Author: Duncan Falconer <br>
+ ISBN: 9781847444127 <br>
+ Format: Paperback <br>
+ Pages 400</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Action &amp; Adventure</s:tag>
+    <s:tag>Fiction</s:tag>
+    <s:tag>General</s:tag>
+    <s:tag>Suspense Fiction</s:tag>
+    <s:tag>Thrillers</s:tag>
+    <s:tag>War &amp; Military</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/7751758119065</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>14RG9781847444127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+User-agent: *
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /carts
+Disallow: /account
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /58056966297/checkouts
+Disallow: /58056966297/orders
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: */collections/*filter*&*filter*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /cdn/wpm/*.js
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /recommendations/products
+Disallow: /*/recommendations/products
+
+Sitemap: https://bookhero.ae/sitemap.xml
+
+User-agent: adsbot-google
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /orders
+Disallow: /58056966297/checkouts
+Disallow: /58056966297/orders
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /cdn/wpm/*.js
+
+# Block bots known to overload servers
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /
+
+User-agent: MJ12bot
+Crawl-delay: 10
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: Pinterest
+Crawl-delay: 1

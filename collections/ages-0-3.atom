@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookhero.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/ages-0-3.atom"/>
+  <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
+  <updated>2025-11-13T19:05:20+04:00</updated>
+  <author>
+    <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
+  </author>
+  <entry>
+    <id>https://bookhero.ae/products/8574788632729</id>
+    <published>2025-11-13T19:05:20+04:00</published>
+    <updated>2025-11-13T19:05:20+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/mad-hatters-tea-party"/>
+    <title>Mad Hatter&apos;s Tea Party</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/69156f8cca55e_Mad_Hatter_s_Tea_Party.jpg?v=1763046324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimensions: 0 x 0<br>
+Author: Jane Werner Watson<br>
+ISBN: 9781928514138<br>
+Format: <br>
+Pages: 24</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Classics</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Picture Books</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8574788632729</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>14RC9781928514138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554912809113</id>
+    <published>2025-10-23T19:46:52+04:00</published>
+    <updated>2025-10-23T19:46:52+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-good-habit"/>
+    <title>1st Activity Book - Good Habit</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9f47661cac_1st_Activity_Book_-_Good_Habit_Dreamland.jpg?v=1761234415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimensions: 203 x 47<br>
+Author: Dreamland<br>
+ISBN: 9788184513660<br>
+Format: Paperback<br>
+Pages: 68</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activity Books</s:tag>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Childrens</s:tag>
+    <s:tag>Education</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554912809113</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>17RC-59788184513660</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8554912743577</id>
+    <published>2025-10-23T19:46:50+04:00</published>
+    <updated>2025-10-23T19:46:50+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/1st-activity-book-environment"/>
+    <title>1st Activity Book - Environment</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68f9f443eb4b0_1st_Activity_Book_-_Environment_Dreamland.jpg?v=1761234412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimensions: 203 x 47<br>
+Author: Dreamland<br>
+ISBN: 9788184513653<br>
+Format: Paperback<br>
+Pages: 68</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Activity Books</s:tag>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Childrens</s:tag>
+    <s:tag>Education</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8554912743577</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>17RC-59788184513653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8549457952921</id>
+    <published>2025-10-18T21:09:32+04:00</published>
+    <updated>2025-10-18T21:09:32+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/three-read-with-me-stories-early-readers-large-print-reading-scheme"/>
+    <title>Three Read With Me Stories Early Readers Large Print Reading Scheme</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68efdab3c3f49_Three_Read_With_Me_Stories_Early_Readers_Large_Print_Reading_Scheme.webp?v=1760807374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimensions: 216 x 163<br>
+Author: <br>
+ISBN: 9780709724384<br>
+Format: Board book<br>
+Pages:</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Childrens</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8549457952921</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>17RA-59780709724384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8528700178585</id>
+    <published>2025-09-22T21:57:29+04:00</published>
+    <updated>2025-09-22T21:57:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/i-am-peter-peter-rabbit-animation"/>
+    <title>I Am Peter (Peter Rabbit Animation)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68ca621e96fe5_I_Am_Peter__Peter_Rabbit_Animation__Frederick_Warne.jpg?v=1758563851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the newly animated Peter Rabbit! Donned in his father's blue coat, Peter is as frisky and adventurous as ever. His mother has given him his father's old journal--full of adventure stories, secret escape routes, and empty pages for Peter to fill in himself. This classic rabbit, along with his best friends, Lily Bobtail and Benjamin Bunny, is ready for another adventure!<br>
+Dimensions: 162 x 235<br>
+Author: Frederick Warne<br>
+ISBN: 9780141350042<br>
+Format: Hardcover<br>
+Pages: 32</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Childrens</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Media Tie-In</s:tag>
+    <s:tag>Picture Books</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8528700178585</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>15RE-59780141350042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8528699097241</id>
+    <published>2025-09-22T21:56:29+04:00</published>
+    <updated>2025-09-22T21:56:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/abacus-year-4-textbook-2"/>
+    <title>Abacus. Year 4 Textbook 2</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68ca5b0198a78_Abacus._Year_4_Textbook_2_Jennie_Kerwin__1.jpg?v=1758563791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Abacus Year 4 Textbook 2<br>
+Dimensions: 195 x 265<br>
+Author: Jennie Kerwin<br>
+ISBN: 9781408278512<br>
+Format: Paperback<br>
+Pages: 96</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Educational</s:tag>
+    <s:tag>Juvenile Nonfiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mathematics</s:tag>
+    <s:tag>Textbook</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8528699097241</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>15RE-59781408278512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8512933331097</id>
+    <published>2025-08-30T22:20:37+04:00</published>
+    <updated>2025-08-30T22:20:37+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lighthouse-keepers-breakfast"/>
+    <title>The Lighthouse Keeper&apos;s Breakfast</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/68aec645e9b8c_The_Lighthouse_Keeper_s_Breakfast_David_Armitage.jpg?v=1756578040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mr and Mrs Grinling are throwing a fancy-dress party to celebrate the lighthouse's 200th birthday and everyone is invited. But when the Grinlings take to the high seas, they get more swashbuckling than they bargained for.<br>
+Dimensions: 216 x 248<br>
+Author: David Armitage<br>
+ISBN: 9780439979344<br>
+Format: Paperback<br>
+Pages: 32</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 0-3</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Picture Books</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8512933331097</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>BLK-1-9780439979344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8499595346073</id>
+    <published>2025-08-06T16:56:58+04:00</published>
+    <updated>2025-08-06T16:56:58+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/baby-s-first-book"/>
+    <title>Baby’s First Book</title>
+    <s:type></s:type>
+    <s:vendor>Dubai - Buy Used/Second-Hand Books - BookHero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/3165130.jpg?v=1754484997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dubai - Buy Used/Second-Hand Books - BookHero<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="129" data-end="186">A beautiful first book to share with your little one.</p>
+<p data-start="188" data-end="491"><em data-start="188" data-end="207">Baby’s First Book</em> by Clare Beaton is a delightful introduction to the world of books for babies and toddlers. Featuring soft, hand-stitched felt illustrations, bright colors, and simple text, this book engages little eyes and hands while encouraging early learning and bonding through reading.</p>
+<p data-start="493" data-end="671">Each page showcases familiar objects, animals, and everyday scenes—perfect for developing your baby's vocabulary, recognition skills, and love of stories from the very beginning.</p>
+<p data-start="673" data-end="743">A keepsake-quality board book that’s as charming as it is educational.</p>
+<p data-start="745" data-end="844">Author: Clare Beaton<br data-start="769" data-end="772">ISBN: 9781905236046<br data-start="795" data-end="798">Format: <br data-start="820" data-end="823">Pages: </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age 0-3</s:tag>
+    <s:tag>kids</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8499595346073</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>1RG9098765</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8486409470105</id>
+    <published>2025-07-14T21:16:14+04:00</published>
+    <updated>2025-07-14T21:16:14+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/rainbow-dash-and-the-daring-do-double-dare"/>
+    <title>Rainbow Dash and the daring do double dare</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/686e978234c2d_Rainbow_Dash_and_the_daring_do_double_dare_G.M._Berrow.jpg?v=1752513375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimensions: 0 x 0<br>
+Author: G.M. Berrow<br>
+ISBN: 9781408347843<br>
+Format: <br>
+Pages:</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adventure</s:tag>
+    <s:tag>Age:0-3</s:tag>
+    <s:tag>Age:4-8</s:tag>
+    <s:tag>Animals</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Media Tie-In</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8486409470105</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>16RA-49781408347843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8486409339033</id>
+    <published>2025-07-14T21:16:01+04:00</published>
+    <updated>2025-07-14T21:16:01+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/my-little-pony-early-reader-rainbow-dashs-big-race-book-3"/>
+    <title>My Little Pony Early Reader: Rainbow Dash&apos;s Big Race!: Book 3</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/686e965ad3d7b_My_Little_Pony_Early_Reader-_Rainbow_Dash_s_Big_Race_-_Book_3_Pony.jpg?v=1752513362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This colour Early Reader is perfect for young pony fans just starting their own reading adventure.Rainbow Dash REALLY wants to win the big Equestira Games relay race. But her team aren't very fast. When she gets the chance to fly with her heroes, the Wonderbolts, Rainbow Dash is torn. She loves her friends . . . but does she love winning more?These full-colour My Little Pony Early Readers are endorsed by a literacy consultant and perfect for building reading ability.<br>
+Dimensions: 198 x 131<br>
+Author: Pony<br>
+ISBN: 9781408344620<br>
+Format: Paperback<br>
+Pages: 64</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Age:0-3</s:tag>
+    <s:tag>Animals</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Early Readers</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Media Tie-In</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8486409339033</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>16RA-49781408344620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8448614989977</id>
+    <published>2025-06-16T20:06:31+04:00</published>
+    <updated>2025-06-16T20:06:31+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/pb3-and-the-vegetables-cd"/>
+    <title>PB3 and the Vegetables + CD</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/684ff89b4ca32_PB3_and_the_Vegetables___CD_Jane_Cadwallader.jpg?v=1752084378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rare Book<br>
+Dimensions: 150 x 210<br>
+Author: Jane Cadwallader<br>
+ISBN: 9788853604231<br>
+Format: Paperback<br>
+Pages: 32</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age 0-3</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Language &amp; Grammar</s:tag>
+    <s:tag>Reference</s:tag>
+    <s:tag>Teaching Materials</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Words</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8448614989977</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>7RC9788853604231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bookhero.ae/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bookhero.ae/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bookhero.ae/collections/kids-teens.atom"/>
+  <title>Dubai - Buy Used/Second-Hand Books - BookHero</title>
+  <updated>2025-11-17T20:21:58+04:00</updated>
+  <author>
+    <name>Dubai - Buy Used/Second-Hand Books - BookHero</name>
+  </author>
+  <entry>
+    <id>https://bookhero.ae/products/8579110371481</id>
+    <published>2025-11-17T20:21:58+04:00</published>
+    <updated>2025-11-17T20:21:58+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-slippery-slope-a-series-of-unfortunate-events-book-10-a-series-of-unfortunate-events-10"/>
+    <title>The Slippery Slope (A Series of Unfortunate Events, Book 10) (A Series of Unfortunate Events, 10)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aa2bb287ca_The_Slippery_Slope__A_Series_of_Unfortunate_Events__Book_10___A_Series_of_Unfortunate_Events__10.jpg?v=1763396521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NOW A NETFLIX ORIGINAL SERIESLike bad smells, uninvited weekend guests or very old eggs, there are some things that ought to be avoided.Snicket's saga about the charming, intelligent, and grossly unlucky Baudelaire orphans continues to alarm its distressed and suspicious fans the world over. The tenth book in this outrageous publishing effort features more than the usual dose of distressing details, such as snow gnats, an organised troupe of youngsters, an evil villain with a dastardly plan, a secret headquarters and some dangerous antics you should not try at home. With the weather turning colder, this is one chilling book you would be better off without.<br>
+Dimensions: 127 x 178<br>
+Author: Lemony Snicket<br>
+ISBN: 9780064410137<br>
+Format: Hardcover<br>
+Pages: 352</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Absurdist Fiction</s:tag>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Gothic Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579110371481</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RD9780064410137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579110240409</id>
+    <published>2025-11-17T20:21:52+04:00</published>
+    <updated>2025-11-17T20:21:52+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-lorax-yellow-back-book"/>
+    <title>The Lorax - Yellow Back Book</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aa26a919b4_The_Lorax_-_Yellow_Back_Book.jpg?v=1763396514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy-to-read, rhyming text introduces the Lorax and the place he calls home.<br>
+Dimensions: 290 x 30<br>
+Author: Seuss<br>
+ISBN: 9780007414291<br>
+Format: Paperback<br>
+Pages: 61</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Classics</s:tag>
+    <s:tag>Environmental Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Picture Book</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579110240409</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RD9780007414291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579110076569</id>
+    <published>2025-11-17T20:21:42+04:00</published>
+    <updated>2025-11-17T20:21:42+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-carnivorous-carnival"/>
+    <title>The Carnivorous Carnival</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aa215b8b59_The_Carnivorous_Carnival.jpg?v=1763396505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arriving at Dark Avenue, the three Baudelaire orphans, Violet, Klaus and little Sunny, begin their new life with Jerome and Esme Squalor. Jerome is a kind man, but he agrees unquestioningly with everything said by his wife, who is the city's sixth most important financial advisor. The Baudelaires find themselves in a strange world of in things: aqueous martinis (consisting of water with an olive), pinstripe suits (even for infant Sunny) and meals only involving salmon. Sadly, elevators are out, and the children are obliged to walk the many steps up to the Squalors' penthouse. Even more sadly, they soon meet Count Olaf again, disguised as the auctioneer Gunther, and discover that the ersatz elevator is not an elevator at all, but a shaft in which the Quagmire triplets are imprisoned. When they tell Esme of the triplets' fate, she shocks them by throwing them down the elevator too and revealing herself to be in league with Count Olaf. Sunny manages to escape using her teeth, and help her siblings out, who run down the ersatz passageway to emerge - in a spectacular climax - in the charred remains of their parents' mansion! With no time to reflect, they run to Esme's In Auction, hoping to save the Quagmires, but Esme and Olaf escape with the triplets, and the Baudelaires are once more left with only each other to rely on.<br>
+Dimensions: 134 x 178<br>
+Author: Lemony Snicket<br>
+ISBN: 9781405208727<br>
+Format: Hardcover<br>
+Pages: 272</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>Gothic Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579110076569</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RD9781405208727</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579109650585</id>
+    <published>2025-11-17T20:21:21+04:00</published>
+    <updated>2025-11-17T20:21:21+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/horton-hears-a-who"/>
+    <title>Horton Hears A Who</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691a02f4315c3_Horton_Hears_A_Who__1.jpg?v=1763396483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BOOKS<br>
+Dimensions: 158 x 220<br>
+Author: Seuss<br>
+ISBN: 9780007414307<br>
+Format: Paperback<br>
+Pages: 64</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Classics</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Picture Book</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579109650585</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RD9780007414307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579109486745</id>
+    <published>2025-11-17T20:21:12+04:00</published>
+    <updated>2025-11-17T20:21:12+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/extras-the-uglies"/>
+    <title>Extras (The Uglies)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691a026d1fd63_Extras__The_Uglies.jpg?v=1763396474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now that the world is in a complete cultural renaissance, fifteen-year-old Aya Fuse, an Extra, just wants to lay low, so when she discovers the secret lives of the Sly Girls, she wants to report their story, but Aya knows that would propel her into celebrity--a status she's not prepared for. 200,000 first printing. $200,000 ad/promo.<br>
+Dimensions: 133 x 184<br>
+Author: Scott Westerfeld<br>
+ISBN: 9781416951179<br>
+Format: Hardcover<br>
+Pages: 432</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Dystopia</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Science Fiction</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579109486745</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RD9781416951179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579101851801</id>
+    <published>2025-11-17T20:06:45+04:00</published>
+    <updated>2025-11-17T20:06:45+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/warning-aliens-are-invading-the-school"/>
+    <title>Warning! Aliens are Invading the School!</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691abb54f0e7f_Warning__Aliens_are_Invading_the_School.jpg?v=1763395607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When a reality TV show takes over their school, Jordan, Boy Dave and Ryan will do anything to avoid being in it. But when they accidentally burn a hole in the school roof, the boys unwittingly make themselves the stars of the show! How were they to know trying to contact aliens would end in such disaster?<br>
+Dimensions: 130 x 198<br>
+Author: Dinah Capparucci<br>
+ISBN: 9781407117669<br>
+Format: Paperback<br>
+Pages: 240</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adventure</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Science Fiction</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579101851801</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RF9781407117669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579101753497</id>
+    <published>2025-11-17T20:06:43+04:00</published>
+    <updated>2025-11-17T20:06:43+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-penultimate-peril"/>
+    <title>The Penultimate Peril</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691abb27acdbd_The_Penultimate_Peril.jpg?v=1763395605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dear reader, There is nothing to be found in Lemony Snicket's 'A Series of Unfortunate Events' but misery and despair. You still have time to choose another international best-selling series to read. But if you insist on discovering the unpleasant adventures of the Baudelaire orphans, then proceed with caution... Violet, Klaus, and Sunny Baudelaire are intelligent children. They are charming, and resourceful, and have pleasant facial features. Unfortunately, they are exceptionally unlucky. In The Penultimate Peril, the siblings face a harpoon gun, a rooftop sunbathing salon, two mysterious initials, three unidentified triplets, a notorious villain, and an unsavoury curry... In the tradition of great storytellers, from Dickens to Dahl, comes an exquisitely dark comedy that is both literary and irreverent, hilarious and deftly crafted. Despite their wretched contents, 'A Series of Unfortunate Events' has sold 60 million copies worldwide and been made into a Hollywood film starring Jim Carrey. And in the future things are poised to get much worse, thanks to the forthcoming Netflix series starring Neil Patrick Harris. You have been warned. Are you unlucky enough to own all 13 adventures? The Bad Beginning The Reptile Room The Wide Window The Miserable Mill The Austere Academy The Ersatz Elevator The Vile Village The Hostile Hospital The Carnivorous Carnival The Slippery Slope The Grim Grotto The Penultimate Peril The End And what about All the Wrong Questions? In this four-book series a 13-year-old Lemony chronicles his dangerous and puzzling apprenticeship in a mysterious organisation that nobody knows anything about: 'Who Could That Be at This Hour?' 'When Did you Last See Her?' 'Shouldn't You Be in School?' 'Why is This Night Different from All Other Nights?' Lemony Snicket was born before you were and is likely to die before you as well. He was born in a small town where the inhabitants were suspicious and prone to riot. He grew up near the sea and currently lives beneath it. Until recently, he was living somewhere else. Brett Helquist was born in Ganado, Arizona, grew up in Orem, Utah, and now lives in New York City. He earned a bachelor's degree in fine arts from Brigham Young University and has been illustrating ever since. His art has appeared in many publications, including Cricket magazine and The New York Times.<br>
+Dimensions: 129 x 186<br>
+Author: Lemony Snicket<br>
+ISBN: 9781405266178<br>
+Format: Paperback<br>
+Pages: 353</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Absurdist Fiction</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Gothic Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579101753497</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RF9781405266178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579101491353</id>
+    <published>2025-11-17T20:06:34+04:00</published>
+    <updated>2025-11-17T20:06:34+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-grim-grotto"/>
+    <title>The Grim Grotto</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aba6a39472_The_Grim_Grotto.jpg?v=1763395596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dear reader, There is nothing to be found in Lemony Snicket's 'A Series of Unfortunate Events' but misery and despair. You still have time to choose another international best-selling series to read. But if you insist on discovering the unpleasant adventures of the Baudelaire orphans, then proceed with caution... Violet, Klaus, and Sunny Baudelaire are intelligent children. They are charming, and resourceful, and have pleasant facial features. Unfortunately, they are exceptionally unlucky. In The Grim Grotto, the siblings face mushrooms, a desperate search for something lost, a mechanical monster, a distressing message from a lost friend, and tap dancing... In the tradition of great storytellers, from Dickens to Dahl, comes an exquisitely dark comedy that is both literary and irreverent, hilarious and deftly crafted. Despite their wretched contents, 'A Series of Unfortunate Events' has sold 60 million copies worldwide and been made into a Hollywood film starring Jim Carrey. And in the future things are poised to get much worse, thanks to the forthcoming Netflix series starring Neil Patrick Harris. You have been warned. Are you unlucky enough to own all 13 adventures? The Bad Beginning The Reptile Room The Wide Window The Miserable Mill The Austere Academy The Ersatz Elevator The Vile Village The Hostile Hospital The Carnivorous Carnival The Slippery Slope The Grim Grotto The Penultimate Peril The End And what about All the Wrong Questions? In this four-book series a 13-year-old Lemony chronicles his dangerous and puzzling apprenticeship in a mysterious organisation that nobody knows anything about: 'Who Could That Be at This Hour?' 'When Did you Last See Her?' 'Shouldn't You Be in School?' 'Why is This Night Different from All Other Nights?' Lemony Snicket was born before you were and is likely to die before you as well. He was born in a small town where the inhabitants were suspicious and prone to riot. He grew up near the sea and currently lives beneath it. Until recently, he was living somewhere else. Brett Helquist was born in Ganado, Arizona, grew up in Orem, Utah, and now lives in New York City. He earned a bachelor's degree in fine arts from Brigham Young University and has been illustrating ever since. His art has appeared in many publications, including Cricket magazine and The New York Times.<br>
+Dimensions: 133 x 186<br>
+Author: Lemony Snicket<br>
+ISBN: 9781405266161<br>
+Format: Paperback<br>
+Pages: 323</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Absurdist Fiction</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Gothic Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579101491353</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RF9781405266161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579101229209</id>
+    <published>2025-11-17T20:06:27+04:00</published>
+    <updated>2025-11-17T20:06:27+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/schools-cancelled-anisha-the-accidental-detective-2-anisha-accidental-detective"/>
+    <title>School&apos;s Cancelled (Anisha the Accidental Detective #2) (Anisha, Accidental Detective)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/81HzLF8W3QL.jpg?v=1763396817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Anisha can't wait to show off her volcano project at the science fair...and maybe win the prize trip to the national space centre. But when the volcano explodes and floods the school, Anisha is disqualified. It's so unfair, because it wasn't her fault! Can Anisha, her best friend Milo, a pet rat, and a high-school vlogger catch the culprit?<br>
+Dimensions: 197 x 131<br>
+Author: Serena Patel<br>
+ISBN: 9781474959537<br>
+Format: Paperback<br>
+Pages: 238</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Detective Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579101229209</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>12RF9781474959537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099721881</id>
+    <published>2025-11-17T20:05:08+04:00</published>
+    <updated>2025-11-17T20:05:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/winning"/>
+    <title>Winning</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aca0c22813_Winning.jpg?v=1763395511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Who ever said being nice would get you to the top?Certainly not Alexandra Miles. She isn’t nice, but she’s more than skilled at playing the part. She floats through the halls of Spencer High, effortlessly orchestrating the actions of everyone around her, making people bend to her whim without even noticing they’re doing it. She is the queen of Spencer High—and it’s time to make it official.Alexandra has a goal, you see—Homecoming Queen. Her ambitions are far grander than her small town will allow, but Homecoming is just the first step to achieving total domination. So when peppy, popular Erin Hewett moves to town and seems to have a real shot at the crown, Alexandra has to take action.With the help of her trusted friend Sam, she devises her most devious plot yet. She’ll introduce an unexpected third competitor into the mix, one whose meteoric rise—and devastating fall—will destroy Erin’s chances once and for all. Alexandra can run a scheme like this in her sleep. What could possibly go wrong?Lara Deloza’s crackling depiction of a perpetually two-steps-ahead popular girl makes for a fun, wicked story with a protagonist that readers will love to hate.<br>
+Dimensions: 28 x 211<br>
+Author: Lara Deloza<br>
+ISBN: 9780062396693<br>
+Format: Hardcover<br>
+Pages: 304</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>High School Drama</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Realistic Fiction</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099721881</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780062396693</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099689113</id>
+    <published>2025-11-17T20:05:06+04:00</published>
+    <updated>2025-11-17T20:05:06+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/we-are-inevitable"/>
+    <title>We Are Inevitable</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac9f9b87cc_We_Are_Inevitable.jpg?v=1763395508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"No one writes about love like Gayle Forman. Lose yourself in her passionate mash note to rock music, indie bookstores and best of all, the miracles that can happen when you take chances on other people." — E. LOCKHART, #1 New York Times bestselling author of We Were Liars and Again AgainA poignant and uplifting novel about the power of community, from the #1 New York Times bestselling author of If I Stay.Aaron Stein used to think books were miracles. But not anymore. Even though he spends his days working in his family's secondhand bookstore, the only book Aaron can bear to read is one about the demise of the dinosaurs. It's a predicament he understands all too well, now that his brother and mom are gone and his friends have deserted him, leaving Aaron and his shambolic father alone in a moldering bookstore in a crusty mountain town where no one seems to read anymore.So when Aaron sees the opportunity to sell the store, he jumps at it, thinking this is the only way out. But he doesn't account for Chad, a "best life" bro with a wheelchair and way too much optimism, or the town's out-of-work lumberjacks taking on the failing shop as their pet project. And he certainly doesn't anticipate meeting Hannah, a beautiful, brave musician who might possibly be the kind of inevitable he's been waiting for.All of them will help Aaron to come to terms with what he's lost, what he's found, who he is, and who he wants to be, and show him that destruction doesn't inevitably lead to extinction; sometimes it leads to the creation of something entirely new.<br>
+Dimensions: 146 x 217<br>
+Author: Forman Gayle<br>
+ISBN: 9780425290804<br>
+Format: Hardcover<br>
+Pages: 288</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Family</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Realistic Fiction</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099689113</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780425290804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099230361</id>
+    <published>2025-11-17T20:04:44+04:00</published>
+    <updated>2025-11-17T20:04:44+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-assignment"/>
+    <title>The Assignment</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac9047c666_The_Assignment.jpg?v=1763395487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A SYDNEY TAYLOR NOTABLE BOOKInspired by a real-life incident, this riveting novel explores discrimination and antisemitism and reveals their dangerous impact.Would you defend the indefensible?That's what seniors Logan March and Cade Crawford are asked to do when a favorite teacher instructs a group of students to argue for the Final Solution--the Nazi plan for the genocide of the Jewish people.Logan and Cade decide they must take a stand, and soon their actions draw the attention of the student body, the administration, and the community at large. But not everyone feels as Logan and Cade do--after all, isn't a school debate just a school debate? It's not long before the situation explodes, and acrimony and anger result.Based on true events, The Assignment asks: What does it take for tolerance, justice, and love to prevail?"An important look at a critical moment in history through a modern lens showcasing the power of student activism." -SLJ<br>
+Dimensions: 149 x 217<br>
+Author: Liza M. Wiemer<br>
+ISBN: 9780593123164<br>
+Format: Hardcover<br>
+Pages: 336</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Historical Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Social Justice</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099230361</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780593123164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099197593</id>
+    <published>2025-11-17T20:04:41+04:00</published>
+    <updated>2025-11-17T20:04:41+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-annotated-hans-christian-andersen"/>
+    <title>The Annotated Hans Christian Andersen</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac8ed0a58e_The_Annotated_Hans_Christian_Andersen.jpg?v=1763395484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A richly entertaining and informative collection of Hans Christian Andersen's stories, annotated by one of America's leading folklore scholars. In her most ambitious annotated work to date, Maria Tatar celebrates the stories told by Denmark's "perfect wizard" and re-envisions Hans Christian Andersen as a writer who casts his spell on both children and adults. Andersen's most beloved tales, such as "The Emperor's New Clothes," "The Ugly Duckling," and "The Little Mermaid," are now joined by "The Shadow" and "Story of a Mother," mature stories that reveal his literary range and depth. Tatar captures the tales' unrivaled dramatic and visual power, showing exactly how Andersen became one of the world's ten most translated authors, along with Shakespeare, Dickens, and Marx. Lushly illustrated with more than one hundred fifty rare images, many in full color, by artists such as Arthur Rackham and Edmund Dulac, The Annotated Hans Christian Andersen will captivate readers with annotations that explore the rich social and cultural dimensions of the nineteenth century and construct a compelling portrait of a writer whose stories still fascinate us today.<br>
+Dimensions: 229 x 264<br>
+Author: Hans Christian Andersen<br>
+ISBN: 9780393060812<br>
+Format: Hardcover<br>
+Pages: 496</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Children’s Literature</s:tag>
+    <s:tag>Classics</s:tag>
+    <s:tag>Fairy Tales</s:tag>
+    <s:tag>Folklore</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099197593</id>
+      <title>Default Title</title>
+      <s:price currency="AED">40.00</s:price>
+      <s:sku>11RA9780393060812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099066521</id>
+    <published>2025-11-17T20:04:36+04:00</published>
+    <updated>2025-11-17T20:04:36+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/listen-to-your-heart"/>
+    <title>Listen to Your Heart</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac4da87700_Listen_to_Your_Heart.jpg?v=1763395479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for fans of Morgan Matson and Jenny Han, this latest from YA contemporary queen Kasie West is an adorable rom-com loosely inspired by Sleepless in Seattle.Talking to other people isn't Kate Bailey's favorite activity. She'd much rather be out on the lake, soaking up the solitude and sunshine. So when her best friend, Alana, convinces Kate to join their high school's podcast, Kate is not expecting to be chosen as the host. Now she'll have to answer calls and give advice on the air? Impossible.But to Kate's surprise, she turns out to be pretty good at the hosting gig. Then the podcast gets in a call from an anonymous guy, asking for advice about his unnamed crush. Kate is pretty sure that the caller is gorgeous Diego Martinez, and even surer that the girl in question is Alana. Kate is excited for her friend . . . until Kate herself starts to develop feelings for Diego. Suddenly, Kate finds that while doling out wisdom to others may be easy, asking for help is tougher than it looks, and following your own advice is even harder.Kasie West's adorable story of secrets, love, and friendship is sure to win over hearts everywhere.<br>
+Dimensions: 142 x 211<br>
+Author: Kasie West<br>
+ISBN: 9781338210057<br>
+Format: Hardcover<br>
+Pages: 336</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Romance</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099066521</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9781338210057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099033753</id>
+    <published>2025-11-17T20:04:34+04:00</published>
+    <updated>2025-11-17T20:04:34+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/kids-of-appetite"/>
+    <title>Kids of Appetite</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac4b3d864e_Kids_of_Appetite.jpg?v=1763395477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"A gorgeous, insightful, big-hearted joy of a book." --Nicola Yoon, #1 New York Times bestselling author of Everything, Everything  The critically acclaimed author of Mosquitoland brings us another batch of unforgettable characters in this New York Times bestselling tragicomedy about first love and devastating loss. Victor Benucci and Madeline Falco have a story to tell. It begins with the death of Vic's father. It ends with the murder of Mad's uncle. The Hackensack Police Department would very much like to hear it. But in order to tell their story, Vic and Mad must focus on all the chapters in between.  This is a story about:   1. A coded mission to scatter ashes across New Jersey. 2. The momentous nature of the Palisades in winter. 3. One dormant submarine. 4. Two songs about flowers. 5. Being cool in the traditional sense. 6. Sunsets &amp; ice cream &amp; orchards &amp; graveyards. 7. Simultaneous extreme opposites. 8. A narrow escape from a war-torn country. 9. A story collector. 10. How to listen to someone who does not talk. 11. Falling in love with a painting. 12. Falling in love with a song. 13. Falling in love.<br>
+Dimensions: 148 x 219<br>
+Author: Arnold David<br>
+ISBN: 9780451470782<br>
+Format: Hardcover<br>
+Pages: 335</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Realistic Fiction</s:tag>
+    <s:tag>Romance</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099033753</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780451470782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579099000985</id>
+    <published>2025-11-17T20:04:32+04:00</published>
+    <updated>2025-11-17T20:04:32+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/if-i-fix-you"/>
+    <title>If I Fix You</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac4921a546_If_I_Fix_You.jpg?v=1763395474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“If I Fix You is a heartrending story about life not being what you hoped for...and being okay anyway.”—#1 New York Times bestselling author Aprilynne PikeSome things are easy to fix…but are some meant to stay broken?When sixteen-year-old Jill Whitaker’s mom walks out—with a sticky note as a goodbye—only Jill knows the real reason she’s gone. But how can she tell her father? Jill can hardly believe the truth herself. Suddenly, the girl who likes to fix things—cars, relationships, romances, people—is all broken up. It used to be that her best friend/secret crush, Sean Addison, could make her smile in seconds. But not anymore. They don’t even talk.With nothing making sense, Jill tries to pick up the pieces of her life. When a new guy moves in next door—intense, seriously cute, but with scars that he thinks don’t show—Jill finds herself trying to make things better for Daniel. But over one long, hot Arizona summer, she realizes she can’t fix anyone’s life until she fixes her own. And she knows just where to start…Also by Abigail Johnson:Every Other WeekendEven If I FallThe First to Know<br>
+Dimensions: 149 x 216<br>
+Author: Abigail Johnson<br>
+ISBN: 9780373212408<br>
+Format: Hardcover<br>
+Pages: 336</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Coming?of?Age</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Romance</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579099000985</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780373212408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579098869913</id>
+    <published>2025-11-17T20:04:26+04:00</published>
+    <updated>2025-11-17T20:04:26+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/goodbye-days"/>
+    <title>Goodbye Days</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac443aaf2f_Goodbye_Days.jpg?v=1763395468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What would you do if you could spend one last day with someone you lost?  From the award winning author of The Serpent King comes an acclaimed story of grief, guilt and the chance to say goodbye. And don't miss the author's highly anticipated new book, In the Wild Light!“Gorgeous, heartbreaking, and ultimately life-affirming.” —Nicola Yoon, #1 New York Times bestselling author of Everything, Everything. Where are you guys? Text me back. That's the last message Carver Briggs will ever send his three best friends, Mars, Eli, and Blake. He never thought that it would lead to their death.Now Carver can’t stop blaming himself for the accident and even worse, a powerful judge is pressuring the district attorney to open up a criminal investigation.  Luckily, Carver has some unexpected allies: Eli’s girlfriend, the only person to stand by him at school; Dr. Mendez, his new therapist; and Blake’s grandmother, who asks Carver to spend a “goodbye day” together to share their memories and say a proper farewell. Soon the other families are asking for their own goodbye day with Carver—but he’s unsure of their motives. Will they all be able to make peace with their losses, or will these goodbye days bring Carver one step closer to a complete breakdown or—even worse—prison?“Hold on to your heart: this book will wreck you, fix you, and most definitely change you.” —Becky Albertalli, Morris Award-winning author of Simon vs. the Homo Sapiens Agenda<br>
+Dimensions: 147 x 216<br>
+Author: Zentner Jeff<br>
+ISBN: 9780553524062<br>
+Format: Hardcover<br>
+Pages: 416</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mental Health</s:tag>
+    <s:tag>Realistic Fiction</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579098869913</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780553524062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579098738841</id>
+    <published>2025-11-17T20:04:19+04:00</published>
+    <updated>2025-11-17T20:04:19+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dont-get-caught"/>
+    <title>Don&apos;t Get Caught</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac3b17ec1e_Don_t_Get_Caught__1.jpg?v=1763395462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oceans 11 meets The Breakfast Club in this funny book for teens about a boy pulled into an epic prank war who is determined to get revenge.10:00 tonight at the water tower. Tell no one. ―Chaos ClubWhen Max receives a mysterious invite from the untraceable, epic prank-pulling Chaos Club, he has to ask: why him? After all, he's Mr. 2.5 GPA, Mr. No Social Life. He's Just Max. And his favorite heist movies have taught him this situation calls for Rule #4: Be suspicious. But it's also his one shot to leave Just Max in the dust…Yeah, not so much. Max and four fellow students―who also received invites―are standing on the newly defaced water tower when campus security "catches" them. Definitely a setup. And this time, Max has had enough. It's time for Rule #7: Always get payback.Let the prank war begin.Perfect for readers who want: books for teen boys funny stories heist stories and caper comediesPraise for Don't Get Caught:"This caper comedy about an Ocean's 11-style group of high school masterminds will keep readers guessing."―Kirkus Reviews"Genre-savvy, clever, and full of "Heist Rules"…this twisty tale is funny, fast-paced, and full of surprises. Fans of Ocean's 11 or Leverage…will find a great deal to enjoy in Dinan's debut."―Publishers Weekly"Not only is Don't Get Caught the best kind of underdog story―heartfelt and hilarious―but it's filled with genuine surprises up until the very last page, which features one of my favorite endings in recent memory. I'm highly inspired to prank someone right now." –Lance Rubin, author of Denton Little's Deathdate"Witty, charming and always surprising...Call it Ocean's 11th Grade or whatever you like, Don't Get Caught snatched my attention and got away clean." –Joe Schreiber, author of Con Academy and Au Revoir Crazy European Chick<br>
+Dimensions: 140 x 210<br>
+Author: Dinan Kurt<br>
+ISBN: 9781492630142<br>
+Format: Paperback<br>
+Pages: 336</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Humor</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579098738841</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>11RA9781492630142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579098673305</id>
+    <published>2025-11-17T20:04:17+04:00</published>
+    <updated>2025-11-17T20:04:17+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/displaced"/>
+    <title>Displaced</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac37cbf72a_Displaced.jpg?v=1763395459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In this gripping and eye-opening novel, two Syrian refugee teens trying to make a living on the street corners of Beirut must decide how far they’re willing to go to make a home for their family in an unwelcoming country.Thirteen-year-old Hadi Toma and his family are displaced. At least that’s what the Lebanese government calls them and the thousands of other Syrian refugees that have flooded into Beirut. But as Hadi tries to earn money to feed his family by selling gum on the street corner, he learns that many people who travel the city don’t think they’re displaced—they think that they don’t belong in this country either. Each day he hears insults, but each day he convinces himself they don’t matter, approaching the cars again and again. He hardly dares to dream anymore that this might change.But then Hadi meets Malek, who has been instructed to work on the same corner. Malek, who talks about going to school and becoming an engineer. But Malek is new to the streets, and Kamal, the man who oversees many of the local street vendors, tells Malek he must work the corner…alone. And people who don’t follow Kamal’s orders don’t last long.Now Hadi is forced to make a choice between engaging in illegal activities or letting his family starve. Can the boys find a way out of their impossible situation, or will the dream of something greater than their harsh realities remain stubbornly out of reach?<br>
+Dimensions: 140 x 210<br>
+Author: Hughes Dean<br>
+ISBN: 9781534452329<br>
+Format: Hardcover<br>
+Pages: 256</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>Historical Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Refugee Stories</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579098673305</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9781534452329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579098640537</id>
+    <published>2025-11-17T20:04:15+04:00</published>
+    <updated>2025-11-17T20:04:15+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/dead-girls-society"/>
+    <title>Dead Girls Society</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac36843e75_Dead_Girls_Society.jpg?v=1763395457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A girl accepts a mysterious invitation to play a deadly game in this suspense-filled thriller from the author of HEXED--perfect for fans of NERVE by Jeanne Ryan and Lauren Oliver's PANIC.You are cordially invited to participate in a game of thrills and dares. Tell no one. And come alone.Hope is sick of everyone treating her like she's breakable. Sure, she has cystic fibrosis (basically really bad lungs), but she's tired of being babied by her mom and her overprotective best friend, Ethan, not to mention worrying about paying for her expensive medication and how she's going to afford college.And she's bored with life in her run-down New Orleans suburb. When an invitation arrives from a mysterious group that calls itself the Society, Hope jumps at the chance for some excitement. This could be her ticket out. All she has to do is complete a few dares and she just might win some real money.But the Society isn't all that it seems . . . and soon Hope finds that playing the game isn't a choice--it's a requirement. "Dark, twisty, and thrilling." --Danielle Paige, New York Times bestselling author of Dorothy Must Die   "A delicious and fast-paced read! This one kept me up way past my bedtime!" --Julie Murphy, #1 New York Times bestselling author of Dumplin' A YALSA Quick Pick for Reluctant Readers<br>
+Dimensions: 152 x 216<br>
+Author: Michelle Krys<br>
+ISBN: 9780553508024<br>
+Format: Hardcover<br>
+Pages: 292</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Contemporary</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Thriller</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579098640537</id>
+      <title>Default Title</title>
+      <s:price currency="AED">20.00</s:price>
+      <s:sku>11RA9780553508024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579098509465</id>
+    <published>2025-11-17T20:04:08+04:00</published>
+    <updated>2025-11-17T20:04:08+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/breaking-dawn-the-twilight-saga-book-4"/>
+    <title>Breaking Dawn (The Twilight Saga, Book 4)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691ac3131c4d7_Breaking_Dawn__The_Twilight_Saga__Book_4.jpg?v=1763395451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Book 4 of the Twilight Saga (Twilight, New Moon, Eclipse)... To be irrevocably in love with a vampier is both fantasy and nightmare woven into a dangerously heightened reality for Bella Swan. Pulled in one direction by her intense passion for Edward Cullen, and in another by her profound connection to werewolf Jacob Black, she has endured a tumultuous year of temptation, loss and strife to reach the ultimate turning point. Her imminent choice to either join the dark but seductive world of immortals or pursue a fully human life has become the thread from which the fate of two tribes hangs.<br>
+Dimensions: 135 x 215<br>
+Author: Stephenie Meyer<br>
+ISBN: 9781905654291<br>
+Format: Paperback<br>
+Pages: 768</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Paranormal Romance</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Vampire Fiction</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579098509465</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>11RA9781905654291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579094872217</id>
+    <published>2025-11-17T19:56:06+04:00</published>
+    <updated>2025-11-17T19:56:06+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-upper-world"/>
+    <title>The Upper World</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691aeedfb4055_The_Upper_World.jpg?v=1763394968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you had the chance to change your future, would you take it?Perfect for fans of Neal Shusterman and Jason Reynolds, this powerhouse, mind-bending YA debut follows two teens, a generation apart, whose fates collide across time—and outside of it.TodayDuring arguably the worst week of Esso’s life, an accident knocks him into an incredible world—a place beyond space or time, where he can see glimpses of the past and future. But if what he sees there is true, he might not have much longer to live, unless he can use his new gift to change the course of history.TomorrowRhia’s past is filled with questions, none of which she expects a new physics tutor to answer. But Dr. Esso’s not here to help Rhia. He’s here because he needs her help—to unravel a tragedy that happened fifteen years ago. One that holds the key not only to Rhia’s past, but to a future worth fighting for.Soon to be a major Netflix movie starring Oscar winner Daniel Kaluuya! (Get Out, Black Panther, Judas and the Black Messiah)<br>
+Dimensions: 140 x 210<br>
+Author: Femi Fadugba<br>
+ISBN: 9780063078598<br>
+Format: Hardcover<br>
+Pages: 368</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 13-15</s:tag>
+    <s:tag>Age: 16-18</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Scifi</s:tag>
+    <s:tag>Thriller</s:tag>
+    <s:tag>Time Travel</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579094872217</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>11RB9780063078598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8579094053017</id>
+    <published>2025-11-17T19:53:54+04:00</published>
+    <updated>2025-11-17T19:53:54+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-edge-chronicles-13-the-descenders-third-book-of-cade"/>
+    <title>The Edge Chronicles 13: the Descenders Third Book of Cade</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691af8069b7ec_The_Edge_Chronicles_13_the_Descenders_Third_Book_of_Cade.jpg?v=1763394837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate twenty years of The Edge Chronicles with this stunning special edition!  Cade Quarter has spent the last few years of his life running from an enemy he's never even met - the ruthless and power-hungry High Professor of Flight, Quove Lentis. But Quove's deadly agenda has finally caught up with Cade, and now he must leave his home and flee once more, this time to the legendary floating city of New Sanctaphrax. But even reuniting with his uncle, Nate Quarter, isn't the end of Cade's troubles - and now, more than ever, he must find the courage to defy his enemies, unite his friends, and unlock the secrets of descending.  The Descenders is the third and final book in the Cade trilogy - the fifth and final saga in Stewart and Riddell's internationally bestselling series, The Edge Chronicles, which has featured on the Times and New York Times bestseller lists, and sold more than 3 million copies. 2018 marks twenty years of the series, now complete with thirteen titles across five separate but interlinking sagas.<br>
+Dimensions: 162 x 240<br>
+Author: Chris Riddell | Paul Stewart<br>
+ISBN: 9780857535306<br>
+Format: Hardcover<br>
+Pages: 528</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adventure</s:tag>
+    <s:tag>Age: 9-12</s:tag>
+    <s:tag>Children’s</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Middle Grade</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8579094053017</id>
+      <title>Default Title</title>
+      <s:price currency="AED">30.00</s:price>
+      <s:sku>11RC9780857535306</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8576831586457</id>
+    <published>2025-11-15T20:13:29+04:00</published>
+    <updated>2025-11-15T20:13:29+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/vacation-under-the-volcano"/>
+    <title>Vacation Under The Volcano</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/69185275e6d24_Vacation_Under_The_Volcano.jpg?v=1763223212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The #1 bestselling chapter book series of all time celebrates 25 years with new covers and a new, easy-to-use numbering system!Who wants to vacation next to a volcano? Jack and Annie are about to find out when the Magic Tree House whisks them back to the days of the Roman Empire. They arrive in Pompeii and soon discover that it is the very day the city will be destroyed. Now Jack and Annie must race against time to find an ancient library before it is buried in ash!Did you know that there’s a Magic Tree House book for every kid?Magic Tree House: Adventures with Jack and Annie, perfect for readers who are just beginning chapter booksMerlin Missions: More challenging adventures for the experienced readerSuper Edition: A longer and more dangerous adventureFact Trackers: Nonfiction companions to your favorite Magic Tree House adventures<br>
+Dimensions: 216 x 8<br>
+Author: Mary Pope Osborne<br>
+ISBN: 9780679890508<br>
+Format: Paperback<br>
+Pages: 96</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adventure</s:tag>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Chapter Books</s:tag>
+    <s:tag>Children’s Fiction</s:tag>
+    <s:tag>Fantasy</s:tag>
+    <s:tag>Historical Fiction</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8576831586457</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>17RE-49780679890508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bookhero.ae/products/8576831357081</id>
+    <published>2025-11-15T20:13:17+04:00</published>
+    <updated>2025-11-15T20:13:17+04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bookhero.ae/products/the-midnight-mystery-book-3-dotty-detective"/>
+    <title>The Midnight Mystery: Book 3 (Dotty Detective)</title>
+    <s:type>Reading Books</s:type>
+    <s:vendor>bookhero.ae</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/5696/6297/files/691850c2522b7_The_Midnight_Mystery_Book_3__Dotty_Detective.jpg?v=1763223200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bookhero.ae<br>
+        <strong>Type: </strong>Reading Books<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Join the Dots Detectives: Dot, Beans and McClusky are back on the case in a third, brand-new mystery!Dot and Beans can’t wait for their school trip to Adventure Camp where they will do lots of exciting activities like zip-wiring, grass tobogganing and roasting marshmallows round a campfire! But once they arrive, strange things start happening. Could mean girl Laura could be up to her old tricks in a bid to win the Adventure Camp Prize…? It’s up to the Join the Dots Detectives to find out!Meanwhile, TOP DOG McClusky is entered into a local dog show! Will he keep up his training while Dot’s away and win the prize for handsomest pooch?<br>
+Dimensions: 185 x 130<br>
+Author: Clara Vulliamy<br>
+ISBN: 9780008132422<br>
+Format: Paperback<br>
+Pages:</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Age: 4-8</s:tag>
+    <s:tag>Chapter Books</s:tag>
+    <s:tag>Children’s Fiction</s:tag>
+    <s:tag>Gae: 9-12</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Mystery</s:tag>
+    <s:tag>Used Books Dubai</s:tag>
+    <s:variant>
+      <id>https://bookhero.ae/products/8576831357081</id>
+      <title>Default Title</title>
+      <s:price currency="AED">10.00</s:price>
+      <s:sku>17RE-49780008132422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
