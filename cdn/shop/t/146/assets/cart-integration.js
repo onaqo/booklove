@@ -179,8 +179,17 @@
     
     // Handle "Add to Cart" button clicks (no delay needed for event handlers)
     $(document).on('click', '.add-to-cart, .add_to_cart, .ajax_addtocart, .add_to_cart_detail, .fly_addtocart, .add_to_cart_btn_cls, button[name="add"]', function(e) {
+      const $button = $(this);
+      
+      // Remove aria-hidden from parent slick slide if present (fixes carousel blocking clicks)
+      const $slickSlide = $button.closest('.slick-slide[aria-hidden="true"]');
+      if ($slickSlide.length) {
+        console.log('Removing aria-hidden from slick slide to allow cart interaction');
+        $slickSlide.removeAttr('aria-hidden');
+      }
+      
       // Don't prevent default for .fly_addtocart (homepage) - let theme handle it
-      if (!$(this).hasClass('fly_addtocart') && !$(this).hasClass('ajax_addtocart')) {
+      if (!$button.hasClass('fly_addtocart') && !$button.hasClass('ajax_addtocart')) {
         e.preventDefault();
       }
       // Never stop propagation - let other handlers run
@@ -188,7 +197,6 @@
       
       console.log('Add to cart clicked!');
       
-      const $button = $(this);
       const $form = $button.closest('form');
       
       // First, try to find the product-box (homepage products use this)
