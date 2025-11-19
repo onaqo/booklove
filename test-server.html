@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Test - Book Loop Book</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-box {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .success { border-left: 4px solid #28a745; }
+        .error { border-left: 4px solid #dc3545; }
+        .warning { border-left: 4px solid #ffc107; }
+        h1 { color: #333; }
+        h2 { color: #666; font-size: 18px; margin-top: 0; }
+        .status { display: inline-block; padding: 5px 10px; border-radius: 4px; font-weight: bold; }
+        .status.ok { background: #28a745; color: white; }
+        .status.fail { background: #dc3545; color: white; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        pre { background: #f8f9fa; padding: 10px; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Server Diagnostic Test</h1>
+    
+    <div class="test-box success" id="server-test">
+        <h2>✓ Server Test</h2>
+        <p><span class="status ok">PASS</span> This page loaded successfully!</p>
+        <p>Server is running on: <strong id="current-url"></strong></p>
+    </div>
+
+    <div class="test-box" id="css-test">
+        <h2>CSS Files Test</h2>
+        <p id="css-result">Testing...</p>
+        <button onclick="testCSS()">Re-test CSS</button>
+    </div>
+
+    <div class="test-box" id="js-test">
+        <h2>JavaScript Test</h2>
+        <p id="js-result">Testing...</p>
+        <button onclick="testJS()">Re-test JS</button>
+    </div>
+
+    <div class="test-box" id="cart-test">
+        <h2>Cart System Test</h2>
+        <p id="cart-result">Testing...</p>
+        <button onclick="testCart()">Re-test Cart</button>
+    </div>
+
+    <div class="test-box warning">
+        <h2>📋 What To Do</h2>
+        <ol>
+            <li>If all tests show <span class="status ok">PASS</span>, go to <a href="/">homepage</a></li>
+            <li>If CSS test fails, check console (F12) for 404 errors</li>
+            <li>If Cart test fails, cart-integration.js isn't loaded</li>
+            <li>Hard refresh your browser: <kbd>Ctrl+Shift+R</kbd> (Windows) or <kbd>Cmd+Shift+R</kbd> (Mac)</li>
+        </ol>
+    </div>
+
+    <div class="test-box">
+        <h2>🔧 Quick Actions</h2>
+        <button onclick="window.location.href='/'">Go to Homepage</button>
+        <button onclick="clearCache()">Clear LocalStorage</button>
+        <button onclick="showConsole()">Open Console</button>
+    </div>
+
+    <script>
+        // Display current URL
+        document.getElementById('current-url').textContent = window.location.origin;
+
+        // Test CSS loading
+        function testCSS() {
+            const cssTest = document.getElementById('css-test');
+            const result = document.getElementById('css-result');
+            
+            fetch('/cdn/shop/t/146/assets/style.scss.css')
+                .then(response => {
+                    if (response.ok) {
+                        cssTest.className = 'test-box success';
+                        result.innerHTML = '<span class="status ok">PASS</span> CSS files are accessible';
+                    } else {
+                        cssTest.className = 'test-box error';
+                        result.innerHTML = '<span class="status fail">FAIL</span> CSS returned status: ' + response.status;
+                    }
+                })
+                .catch(error => {
+                    cssTest.className = 'test-box error';
+                    result.innerHTML = '<span class="status fail">FAIL</span> Cannot reach CSS files: ' + error.message;
+                });
+        }
+
+        // Test JS loading
+        function testJS() {
+            const jsTest = document.getElementById('js-test');
+            const result = document.getElementById('js-result');
+            
+            fetch('/cdn/shop/t/146/assets/jquery.js')
+                .then(response => {
+                    if (response.ok) {
+                        jsTest.className = 'test-box success';
+                        result.innerHTML = '<span class="status ok">PASS</span> JavaScript files are accessible';
+                    } else {
+                        jsTest.className = 'test-box error';
+                        result.innerHTML = '<span class="status fail">FAIL</span> JS returned status: ' + response.status;
+                    }
+                })
+                .catch(error => {
+                    jsTest.className = 'test-box error';
+                    result.innerHTML = '<span class="status fail">FAIL</span> Cannot reach JS files: ' + error.message;
+                });
+        }
+
+        // Test Cart system
+        function testCart() {
+            const cartTest = document.getElementById('cart-test');
+            const result = document.getElementById('cart-result');
+            
+            // Load jQuery and cart-integration.js
+            const script1 = document.createElement('script');
+            script1.src = '/cdn/shop/t/146/assets/jquery.js';
+            script1.onload = function() {
+                const script2 = document.createElement('script');
+                script2.src = '/cdn/shop/t/146/assets/cart-integration.js';
+                script2.onload = function() {
+                    setTimeout(() => {
+                        if (typeof window.BookLoopCart !== 'undefined') {
+                            cartTest.className = 'test-box success';
+                            result.innerHTML = '<span class="status ok">PASS</span> Cart system loaded successfully<br>Cart items: ' + window.BookLoopCart.getCount();
+                        } else {
+                            cartTest.className = 'test-box error';
+                            result.innerHTML = '<span class="status fail">FAIL</span> BookLoopCart not defined';
+                        }
+                    }, 500);
+                };
+                script2.onerror = function() {
+                    cartTest.className = 'test-box error';
+                    result.innerHTML = '<span class="status fail">FAIL</span> cart-integration.js failed to load';
+                };
+                document.head.appendChild(script2);
+            };
+            script1.onerror = function() {
+                cartTest.className = 'test-box error';
+                result.innerHTML = '<span class="status fail">FAIL</span> jQuery failed to load';
+            };
+            document.head.appendChild(script1);
+        }
+
+        // Clear cache
+        function clearCache() {
+            localStorage.clear();
+            sessionStorage.clear();
+            alert('LocalStorage and SessionStorage cleared!\nNow hard refresh: Ctrl+Shift+R (Win) or Cmd+Shift+R (Mac)');
+        }
+
+        // Show console instruction
+        function showConsole() {
+            alert('Press F12 to open the browser console\n\nOr:\n- Chrome: Ctrl+Shift+J (Win) or Cmd+Option+J (Mac)\n- Firefox: Ctrl+Shift+K (Win) or Cmd+Option+K (Mac)');
+        }
+
+        // Run tests on load
+        window.addEventListener('load', function() {
+            testCSS();
+            testJS();
+            testCart();
+        });
+    </script>
+</body>
+</html>
+
