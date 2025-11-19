@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart Test - Book Loop Book</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #333;
+            padding-bottom: 15px;
+        }
+        .section {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f9f9f9;
+            border-left: 4px solid #333;
+        }
+        .test-button {
+            background: #333;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            margin: 10px 10px 10px 0;
+        }
+        .test-button:hover {
+            background: #555;
+        }
+        .console-output {
+            background: #1e1e1e;
+            color: #00ff00;
+            padding: 15px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            max-height: 400px;
+            overflow-y: auto;
+            margin-top: 15px;
+        }
+        .console-output div {
+            margin: 5px 0;
+        }
+        .success { color: #00ff00; }
+        .error { color: #ff4444; }
+        .info { color: #4da6ff; }
+        .status {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .status.success { background: #4CAF50; color: white; }
+        .status.error { background: #f44336; color: white; }
+        .product-test {
+            border: 2px solid #ddd;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 4px;
+        }
+        .product-test h3 {
+            margin-top: 0;
+        }
+        .cart-display {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧪 Cart Integration Test Page</h1>
+        <p>This page will help diagnose why products aren't being added to cart.</p>
+
+        <div class="section">
+            <h2>📋 Step 1: Check if BookLoopCart is Loaded</h2>
+            <button class="test-button" onclick="checkScriptLoaded()">Check Script</button>
+            <span id="script-status"></span>
+            <div id="script-output" class="console-output" style="display:none;"></div>
+        </div>
+
+        <div class="section">
+            <h2>🛒 Step 2: Test Adding Product Manually</h2>
+            <button class="test-button" onclick="testManualAdd()">Add Test Product</button>
+            <span id="manual-status"></span>
+            <div id="manual-output" class="console-output" style="display:none;"></div>
+        </div>
+
+        <div class="section">
+            <h2>📦 Step 3: View Cart Contents</h2>
+            <button class="test-button" onclick="viewCart()">View Cart</button>
+            <button class="test-button" onclick="clearCart()">Clear Cart</button>
+            <span id="cart-status"></span>
+            <div id="cart-display" class="cart-display" style="display:none;"></div>
+        </div>
+
+        <div class="section">
+            <h2>🎯 Step 4: Test Product Page Structure</h2>
+            <p>Simulate different product page structures to see if data extraction works:</p>
+            
+            <div class="product-test">
+                <h3>Homepage Product Structure</h3>
+                <div class="product-box gym-product" data-pro-id="TEST001">
+                    <h6 itemprop="name">Test Homepage Product</h6>
+                    <h4 data-price="2500">$25.00</h4>
+                    <form>
+                        <button type="button" class="fly_addtocart test-button" onclick="testHomepageAdd(this)">
+                            Add to Cart (Homepage Style)
+                        </button>
+                    </form>
+                </div>
+                <span id="homepage-status"></span>
+                <div id="homepage-output" class="console-output" style="display:none;"></div>
+            </div>
+
+            <div class="product-test">
+                <h3>Product Detail Page Structure</h3>
+                <div class="product-right-column product-item">
+                    <h2 itemprop="name">Test Detail Page Product</h2>
+                    <h3 id="product_price">$35.00</h3>
+                    <form action="/cart/add" method="post" class="variants form-ajaxtocart">
+                        <input type="hidden" name="id" value="TEST002" />
+                        <input type="number" name="quantity" value="1" min="1" class="quantity-selector" />
+                        <button type="button" class="add_to_cart_detail ajax_addtocart test-button" onclick="testDetailAdd(this)">
+                            Add to Cart (Detail Style)
+                        </button>
+                    </form>
+                </div>
+                <span id="detail-status"></span>
+                <div id="detail-output" class="console-output" style="display:none;"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🔗 Step 5: Go to Cart Page</h2>
+            <button class="test-button" onclick="goToCart()">Go to cart.html</button>
+            <p><em>Make sure you've added products first!</em></p>
+        </div>
+
+        <div class="section">
+            <h2>💾 Step 6: Check localStorage</h2>
+            <button class="test-button" onclick="checkLocalStorage()">Check localStorage</button>
+            <span id="storage-status"></span>
+            <div id="storage-output" class="console-output" style="display:none;"></div>
+        </div>
+    </div>
+
+    <!-- Load jQuery first -->
+    <script src="cdn/shop/t/146/assets/jquery.js"></script>
+    
+    <!-- Load our cart integration script -->
+    <script src="cdn/shop/t/146/assets/cart-integration.js"></script>
+
+    <script>
+        // Helper function to log output
+        function logOutput(containerId, message, type = 'info') {
+            const container = document.getElementById(containerId);
+            container.style.display = 'block';
+            const div = document.createElement('div');
+            div.className = type;
+            div.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+            container.appendChild(div);
+            container.scrollTop = container.scrollHeight;
+        }
+
+        // Test 1: Check if script is loaded
+        function checkScriptLoaded() {
+            const output = 'script-output';
+            const status = document.getElementById('script-status');
+            document.getElementById(output).innerHTML = '';
+            
+            logOutput(output, 'Checking if BookLoopCart is loaded...', 'info');
+            
+            if (typeof BookLoopCart !== 'undefined') {
+                logOutput(output, '✅ SUCCESS: BookLoopCart is defined', 'success');
+                logOutput(output, `Type: ${typeof BookLoopCart}`, 'info');
+                logOutput(output, `Methods available: ${Object.keys(BookLoopCart).join(', ')}`, 'info');
+                status.innerHTML = '<span class="status success">✅ LOADED</span>';
+            } else {
+                logOutput(output, '❌ ERROR: BookLoopCart is NOT defined', 'error');
+                logOutput(output, 'Script may not have loaded properly', 'error');
+                status.innerHTML = '<span class="status error">❌ NOT LOADED</span>';
+            }
+
+            // Check jQuery
+            if (typeof jQuery !== 'undefined') {
+                logOutput(output, `✅ jQuery version: ${jQuery.fn.jquery}`, 'success');
+            } else {
+                logOutput(output, '❌ jQuery is not loaded', 'error');
+            }
+        }
+
+        // Test 2: Manual add
+        function testManualAdd() {
+            const output = 'manual-output';
+            const status = document.getElementById('manual-status');
+            document.getElementById(output).innerHTML = '';
+            
+            logOutput(output, 'Attempting to add test product...', 'info');
+            
+            try {
+                const testProduct = {
+                    id: 'MANUAL_TEST_123',
+                    title: 'Manual Test Book',
+                    price: 29.99,
+                    image: '/cdn/shop/files/placeholder.jpg',
+                    quantity: 1
+                };
+                
+                logOutput(output, `Product data: ${JSON.stringify(testProduct)}`, 'info');
+                
+                BookLoopCart.add(testProduct);
+                
+                logOutput(output, '✅ Product added successfully!', 'success');
+                status.innerHTML = '<span class="status success">✅ ADDED</span>';
+                
+                // Show cart contents
+                const cart = BookLoopCart.get();
+                logOutput(output, `Cart now contains ${cart.length} item(s)`, 'info');
+                
+            } catch (error) {
+                logOutput(output, `❌ ERROR: ${error.message}`, 'error');
+                status.innerHTML = '<span class="status error">❌ FAILED</span>';
+            }
+        }
+
+        // Test 3: View cart
+        function viewCart() {
+            const display = document.getElementById('cart-display');
+            const status = document.getElementById('cart-status');
+            
+            try {
+                const cart = BookLoopCart.get();
+                
+                if (cart.length === 0) {
+                    display.innerHTML = '<strong>Cart is empty</strong>';
+                    status.innerHTML = '<span class="status error">📭 EMPTY</span>';
+                } else {
+                    let html = `<strong>Cart Contents (${cart.length} items):</strong><br><br>`;
+                    cart.forEach((item, index) => {
+                        html += `
+                            <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                <strong>${index + 1}. ${item.title}</strong><br>
+                                ID: ${item.id}<br>
+                                Price: $${item.price.toFixed(2)}<br>
+                                Quantity: ${item.quantity}<br>
+                                Image: ${item.image}
+                            </div>
+                        `;
+                    });
+                    const total = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+                    html += `<br><strong>Total: $${total.toFixed(2)}</strong>`;
+                    display.innerHTML = html;
+                    status.innerHTML = `<span class="status success">✅ ${cart.length} items</span>`;
+                }
+                display.style.display = 'block';
+            } catch (error) {
+                display.innerHTML = `<strong>Error:</strong> ${error.message}`;
+                display.style.display = 'block';
+                status.innerHTML = '<span class="status error">❌ ERROR</span>';
+            }
+        }
+
+        // Clear cart
+        function clearCart() {
+            try {
+                BookLoopCart.clear();
+                alert('Cart cleared!');
+                viewCart();
+            } catch (error) {
+                alert('Error clearing cart: ' + error.message);
+            }
+        }
+
+        // Test 4a: Homepage structure
+        function testHomepageAdd(button) {
+            const output = 'homepage-output';
+            const status = document.getElementById('homepage-status');
+            document.getElementById(output).innerHTML = '';
+            
+            logOutput(output, 'Testing homepage product structure...', 'info');
+            
+            const $button = $(button);
+            const $container = $button.closest('.product-box, .gym-product');
+            
+            logOutput(output, `Container found: ${$container.length > 0}`, 'info');
+            logOutput(output, `Container classes: ${$container.attr('class')}`, 'info');
+            
+            const id = $container.attr('data-pro-id') || $container.data('pro-id');
+            const title = $container.find('h6[itemprop="name"]').first().text().trim();
+            const priceAttr = $container.find('h4[data-price]').attr('data-price');
+            const price = parseFloat(priceAttr) / 100; // Convert cents to dollars
+            
+            logOutput(output, `Extracted ID: ${id}`, 'info');
+            logOutput(output, `Extracted Title: ${title}`, 'info');
+            logOutput(output, `Extracted Price (cents): ${priceAttr}`, 'info');
+            logOutput(output, `Converted Price (dollars): $${price}`, 'info');
+            
+            const product = {
+                id: id || 'UNKNOWN',
+                title: title || 'Unknown Product',
+                price: price || 0,
+                image: '/cdn/shop/files/placeholder.jpg',
+                quantity: 1
+            };
+            
+            logOutput(output, `Product object: ${JSON.stringify(product)}`, 'info');
+            
+            try {
+                BookLoopCart.add(product);
+                logOutput(output, '✅ Product added to cart!', 'success');
+                status.innerHTML = '<span class="status success">✅ WORKS</span>';
+            } catch (error) {
+                logOutput(output, `❌ ERROR: ${error.message}`, 'error');
+                status.innerHTML = '<span class="status error">❌ FAILED</span>';
+            }
+        }
+
+        // Test 4b: Detail page structure
+        function testDetailAdd(button) {
+            const output = 'detail-output';
+            const status = document.getElementById('detail-status');
+            document.getElementById(output).innerHTML = '';
+            
+            logOutput(output, 'Testing detail page product structure...', 'info');
+            
+            const $button = $(button);
+            const $form = $button.closest('form');
+            const $container = $button.closest('.product-right-column, .product-item');
+            
+            logOutput(output, `Form found: ${$form.length > 0}`, 'info');
+            logOutput(output, `Container found: ${$container.length > 0}`, 'info');
+            
+            const id = $form.find('[name="id"]').val();
+            const title = $container.find('h2[itemprop="name"]').first().text().trim();
+            const priceText = $container.find('h3#product_price').first().text();
+            const price = parseFloat(priceText.replace(/[^\d.]/g, ''));
+            const quantity = parseInt($form.find('[name="quantity"]').val()) || 1;
+            
+            logOutput(output, `Extracted ID: ${id}`, 'info');
+            logOutput(output, `Extracted Title: ${title}`, 'info');
+            logOutput(output, `Extracted Price text: ${priceText}`, 'info');
+            logOutput(output, `Converted Price: $${price}`, 'info');
+            logOutput(output, `Quantity: ${quantity}`, 'info');
+            
+            const product = {
+                id: id || 'UNKNOWN',
+                title: title || 'Unknown Product',
+                price: price || 0,
+                image: '/cdn/shop/files/placeholder.jpg',
+                quantity: quantity
+            };
+            
+            logOutput(output, `Product object: ${JSON.stringify(product)}`, 'info');
+            
+            try {
+                BookLoopCart.add(product);
+                logOutput(output, '✅ Product added to cart!', 'success');
+                status.innerHTML = '<span class="status success">✅ WORKS</span>';
+            } catch (error) {
+                logOutput(output, `❌ ERROR: ${error.message}`, 'error');
+                status.innerHTML = '<span class="status error">❌ FAILED</span>';
+            }
+        }
+
+        // Navigate to cart
+        function goToCart() {
+            const cart = BookLoopCart.get();
+            if (cart.length === 0) {
+                alert('Cart is empty! Add some products first.');
+                return;
+            }
+            window.location.href = 'cart.html';
+        }
+
+        // Check localStorage
+        function checkLocalStorage() {
+            const output = 'storage-output';
+            const status = document.getElementById('storage-status');
+            document.getElementById(output).innerHTML = '';
+            
+            logOutput(output, 'Checking localStorage...', 'info');
+            
+            const cartData = localStorage.getItem('bookloop_cart');
+            const billingData = localStorage.getItem('bookloop_billing');
+            
+            if (cartData) {
+                logOutput(output, '✅ bookloop_cart found', 'success');
+                logOutput(output, `Raw data: ${cartData}`, 'info');
+                try {
+                    const parsed = JSON.parse(cartData);
+                    logOutput(output, `Parsed data: ${JSON.stringify(parsed, null, 2)}`, 'success');
+                    logOutput(output, `Number of items: ${parsed.length}`, 'info');
+                } catch (e) {
+                    logOutput(output, `❌ Error parsing: ${e.message}`, 'error');
+                }
+            } else {
+                logOutput(output, '📭 bookloop_cart is empty/null', 'error');
+            }
+            
+            if (billingData) {
+                logOutput(output, '✅ bookloop_billing found', 'success');
+            } else {
+                logOutput(output, '📭 bookloop_billing is empty/null', 'info');
+            }
+            
+            status.innerHTML = cartData ? 
+                '<span class="status success">✅ DATA FOUND</span>' : 
+                '<span class="status error">📭 NO DATA</span>';
+        }
+
+        // Auto-run initial check on page load
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                checkScriptLoaded();
+            }, 500);
+        });
+    </script>
+</body>
+</html>
+

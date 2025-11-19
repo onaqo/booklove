@@ -240,6 +240,10 @@
 
     <script src="cdn/shop/t/146/assets/jquery.js"></script>
     <script>
+        // Debug: Check what's in localStorage
+        console.log('=== CART PAGE DEBUG ===');
+        console.log('localStorage bookloop_cart:', localStorage.getItem('bookloop_cart'));
+        
         // Cart management
         const Cart = {
             get() {
@@ -303,9 +307,14 @@
         // Render cart
         function renderCart() {
             const items = Cart.get();
+            console.log('Rendering cart. Items found:', items.length);
+            console.log('Items:', items);
+            
             const container = $('#cart-content');
+            console.log('Container found:', container.length);
             
             if (items.length === 0) {
+                console.log('Cart is empty, showing empty message');
                 container.html(`
                     <div class="empty-cart">
                         <h2>Your cart is empty</h2>
@@ -424,8 +433,11 @@
 
         // Initialize
         $(document).ready(function() {
+            console.log('Cart page loaded, jQuery version:', $.fn.jquery);
+            console.log('Starting to render cart...');
             renderCart();
             Cart.updateCount();
+            console.log('Cart initialized');
         });
 
         // Make Cart available globally
