@@ -261,9 +261,9 @@
                         <img src="${item.image}" alt="${item.title}">
                         <div class="order-item-details">
                             <div class="order-item-title">${item.title}</div>
-                            <div class="order-item-qty">Qty: ${item.quantity} × AED ${item.price.toFixed(2)}</div>
+                            <div class="order-item-qty">Qty: ${item.quantity} × $${item.price.toFixed(2)}</div>
                         </div>
-                        <div>AED ${(item.price * item.quantity).toFixed(2)}</div>
+                        <div>$${(item.price * item.quantity).toFixed(2)}</div>
                     </div>
                 `;
             });
@@ -275,15 +275,15 @@
             $('#order-summary').html(`
                 <div class="summary-row">
                     <span>Subtotal:</span>
-                    <span>AED ${subtotal.toFixed(2)}</span>
+                    <span>$${subtotal.toFixed(2)}</span>
                 </div>
                 <div class="summary-row">
                     <span>Shipping:</span>
-                    <span>${shipping === 0 ? 'Free' : 'AED ' + shipping.toFixed(2)}</span>
+                    <span>${shipping === 0 ? 'Free' : '$' + shipping.toFixed(2)}</span>
                 </div>
                 <div class="summary-row summary-total">
                     <span>Total Paid:</span>
-                    <span>AED ${orderData.total.toFixed(2)}</span>
+                    <span>$${orderData.total.toFixed(2)}</span>
                 </div>
             `);
 

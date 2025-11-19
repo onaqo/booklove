@@ -325,7 +325,7 @@
                         <img src="${item.image}" alt="${item.title}">
                         <div class="cart-item-details">
                             <div class="cart-item-title">${item.title}</div>
-                            <div class="cart-item-price">AED ${item.price.toFixed(2)}</div>
+                            <div class="cart-item-price">$${item.price.toFixed(2)}</div>
                         </div>
                         <div class="cart-item-qty">
                             <button class="qty-btn qty-minus" data-id="${item.id}">-</button>
@@ -333,7 +333,7 @@
                             <button class="qty-btn qty-plus" data-id="${item.id}">+</button>
                         </div>
                         <div class="cart-item-total">
-                            AED ${(item.price * item.quantity).toFixed(2)}
+                            $${(item.price * item.quantity).toFixed(2)}
                         </div>
                         <button class="remove-btn" data-id="${item.id}">×</button>
                     </div>
@@ -347,7 +347,7 @@
                 <div class="cart-summary">
                     <div class="summary-row">
                         <span>Subtotal:</span>
-                        <span>AED ${total.toFixed(2)}</span>
+                        <span>$${total.toFixed(2)}</span>
                     </div>
                     <div class="summary-row">
                         <span>Shipping:</span>
@@ -355,7 +355,7 @@
                     </div>
                     <div class="summary-row summary-total">
                         <span>Total:</span>
-                        <span>AED ${total.toFixed(2)}</span>
+                        <span>$${total.toFixed(2)}</span>
                     </div>
                 </div>
             `;

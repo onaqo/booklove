@@ -25,7 +25,7 @@ module.exports = async (req, res) => {
 
     // Build email content
     const itemsList = cart.map(item => 
-      `${item.title} - Qty: ${item.quantity} × AED ${item.price.toFixed(2)} = AED ${(item.price * item.quantity).toFixed(2)}`
+      `${item.title} - Qty: ${item.quantity} × $${item.price.toFixed(2)} = $${(item.price * item.quantity).toFixed(2)}`
     ).join('\n');
 
     const emailContent = `
@@ -39,9 +39,9 @@ Date: ${new Date(date).toLocaleString()}
 Items:
 ${itemsList}
 
-Subtotal: AED ${total.toFixed(2)}
+Subtotal: $${total.toFixed(2)}
 Shipping: Free
-Total: AED ${total.toFixed(2)}
+Total: $${total.toFixed(2)}
 
 Shipping Address:
 ${billing.firstName} ${billing.lastName}
