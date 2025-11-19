@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Book Loop Book</title>
+    <link href="cdn/shop/t/146/assets/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="cdn/shop/t/146/assets/style.scss.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="https://js.stripe.com/v3/"></script>
+    <style>
+        .checkout-container {
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .checkout-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        .checkout-section {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #333;
+        }
+        .order-item {
+            display: flex;
+            align-items: center;
+            padding: 15px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .order-item img {
+            width: 60px;
+            height: 80px;
+            object-fit: cover;
+            margin-right: 15px;
+        }
+        .order-item-details {
+            flex: 1;
+        }
+        .order-item-title {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        .order-item-qty {
+            color: #666;
+            font-size: 14px;
+        }
+        .order-summary {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #eee;
+        }
+        .summary-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .summary-total {
+            font-size: 20px;
+            font-weight: 700;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 2px solid #333;
+        }
+        .billing-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .billing-info p {
+            margin: 5px 0;
+        }
+        #card-element {
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .pay-btn {
+            width: 100%;
+            padding: 15px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .pay-btn:hover {
+            background: #218838;
+        }
+        .pay-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .error-message {
+            color: #dc3545;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #333;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        @media (max-width: 768px) {
+            .checkout-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="checkout-container">
+        <h1 style="margin-bottom: 30px;">Secure Checkout</h1>
+        
+        <div class="checkout-grid">
+            <!-- Order Summary -->
+            <div class="checkout-section">
+                <div class="section-title">Order Summary</div>
+                <div id="order-items"></div>
+                <div class="order-summary" id="order-summary"></div>
+            </div>
+
+            <!-- Payment Section -->
+            <div class="checkout-section">
+                <div class="section-title">Payment Details</div>
+                
+                <div class="billing-info">
+                    <strong>Billing Address:</strong>
+                    <div id="billing-address"></div>
+                </div>
+
+                <form id="payment-form">
+                    <div id="card-element"></div>
+                    <div id="card-errors" class="error-message"></div>
+                    
+                    <button type="submit" class="pay-btn" id="submit-payment">
+                        <span id="button-text">Pay Now</span>
+                        <div id="spinner" class="spinner" style="display: none;"></div>
+                    </button>
+                </form>
+
+                <p style="margin-top: 20px; font-size: 12px; color: #666; text-align: center;">
+                    🔒 Your payment information is secure and encrypted
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script src="cdn/shop/t/146/assets/jquery.js"></script>
+    <script>
+        // Initialize Stripe
+        const stripe = Stripe('pk_test_51SQlQzFdWSERE7CqPcEdsZk2RF3q2GCwAE0Uwu0tTQmXRSyzKegzzYhlSQCcML6ecicuULNQftHql0VdK0q6sIeu00un4YwDBu');
+        const elements = stripe.elements();
+        const cardElement = elements.create('card', {
+            style: {
+                base: {
+                    fontSize: '16px',
+                    color: '#32325d',
+                    fontFamily: '"Helvetica Neue", Helvetica, sans-serif',
+                    '::placeholder': {
+                        color: '#aab7c4'
+                    }
+                },
+                invalid: {
+                    color: '#fa755a',
+                    iconColor: '#fa755a'
+                }
+            }
+        });
+        cardElement.mount('#card-element');
+
+        // Handle card errors
+        cardElement.on('change', function(event) {
+            const displayError = document.getElementById('card-errors');
+            if (event.error) {
+                displayError.textContent = event.error.message;
+            } else {
+                displayError.textContent = '';
+            }
+        });
+
+        // Load cart and billing data
+        function loadCheckoutData() {
+            const cart = JSON.parse(localStorage.getItem('bookloop_cart') || '[]');
+            const billing = JSON.parse(localStorage.getItem('bookloop_billing') || '{}');
+
+            if (cart.length === 0) {
+                window.location.href = '/cart.html';
+                return;
+            }
+
+            // Render order items
+            let itemsHtml = '';
+            cart.forEach(item => {
+                itemsHtml += `
+                    <div class="order-item">
+                        <img src="${item.image}" alt="${item.title}">
+                        <div class="order-item-details">
+                            <div class="order-item-title">${item.title}</div>
+                            <div class="order-item-qty">Qty: ${item.quantity} × AED ${item.price.toFixed(2)}</div>
+                        </div>
+                        <div>AED ${(item.price * item.quantity).toFixed(2)}</div>
+                    </div>
+                `;
+            });
+            $('#order-items').html(itemsHtml);
+
+            // Calculate totals
+            const subtotal = cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+            const shipping = 0; // Free shipping or calculate based on location
+            const total = subtotal + shipping;
+
+            $('#order-summary').html(`
+                <div class="summary-row">
+                    <span>Subtotal:</span>
+                    <span>AED ${subtotal.toFixed(2)}</span>
+                </div>
+                <div class="summary-row">
+                    <span>Shipping:</span>
+                    <span>${shipping === 0 ? 'Free' : 'AED ' + shipping.toFixed(2)}</span>
+                </div>
+                <div class="summary-row summary-total">
+                    <span>Total:</span>
+                    <span>AED ${total.toFixed(2)}</span>
+                </div>
+            `);
+
+            // Display billing address
+            $('#billing-address').html(`
+                <p>${billing.firstName} ${billing.lastName}</p>
+                <p>${billing.address}</p>
+                <p>${billing.city}, ${billing.state} ${billing.zip}</p>
+                <p>${billing.country}</p>
+                <p>Email: ${billing.email}</p>
+                <p>Phone: ${billing.phone}</p>
+            `);
+
+            return { cart, billing, total };
+        }
+
+        // Handle payment form submission
+        const form = document.getElementById('payment-form');
+        form.addEventListener('submit', async function(event) {
+            event.preventDefault();
+
+            const submitButton = document.getElementById('submit-payment');
+            const buttonText = document.getElementById('button-text');
+            const spinner = document.getElementById('spinner');
+
+            submitButton.disabled = true;
+            buttonText.style.display = 'none';
+            spinner.style.display = 'inline-block';
+
+            const { cart, billing, total } = loadCheckoutData();
+
+            try {
+                // Create payment intent on your server
+                const response = await fetch('/api/create-payment-intent', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        amount: Math.round(total * 100), // Convert to cents
+                        currency: 'aed',
+                        cart: cart,
+                        billing: billing
+                    })
+                });
+
+                const { clientSecret, error } = await response.json();
+
+                if (error) {
+                    throw new Error(error);
+                }
+
+                // Confirm payment with Stripe
+                const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(
+                    clientSecret,
+                    {
+                        payment_method: {
+                            card: cardElement,
+                            billing_details: {
+                                name: `${billing.firstName} ${billing.lastName}`,
+                                email: billing.email,
+                                phone: billing.phone,
+                                address: {
+                                    line1: billing.address,
+                                    city: billing.city,
+                                    state: billing.state,
+                                    postal_code: billing.zip,
+                                    country: billing.country
+                                }
+                            }
+                        }
+                    }
+                );
+
+                if (stripeError) {
+                    throw new Error(stripeError.message);
+                }
+
+                if (paymentIntent.status === 'succeeded') {
+                    // Save order details
+                    const orderData = {
+                        orderId: paymentIntent.id,
+                        cart: cart,
+                        billing: billing,
+                        total: total,
+                        date: new Date().toISOString()
+                    };
+                    localStorage.setItem('bookloop_last_order', JSON.stringify(orderData));
+
+                    // Clear cart
+                    localStorage.removeItem('bookloop_cart');
+                    localStorage.removeItem('bookloop_billing');
+
+                    // Redirect to success page
+                    window.location.href = '/order-confirmation.html';
+                }
+
+            } catch (error) {
+                document.getElementById('card-errors').textContent = error.message;
+                submitButton.disabled = false;
+                buttonText.style.display = 'inline';
+                spinner.style.display = 'none';
+            }
+        });
+
+        // Initialize
+        $(document).ready(function() {
+            loadCheckoutData();
+        });
+    </script>
+</body>
+</html>
+

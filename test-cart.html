@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Cart - Book Loop Book</title>
+    <link href="cdn/shop/t/146/assets/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="cdn/shop/t/146/assets/fontawesome.css" rel="stylesheet" type="text/css" media="all" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .test-product {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 20px 0;
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+        .test-product img {
+            width: 150px;
+            height: 200px;
+            object-fit: cover;
+        }
+        .product-info {
+            flex: 1;
+        }
+        .add-to-cart-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .add-to-cart-btn:hover {
+            background: #218838;
+        }
+        .cart-link {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #007bff;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .cart-badge {
+            background: #dc3545;
+            color: white;
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 15px;
+        }
+        .status {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <a href="/cart.html" class="cart-link">
+        <i class="fa fa-shopping-cart"></i>
+        Cart (<span id="cart-count">0</span>)
+    </a>
+
+    <h1>🧪 Test Cart Functionality</h1>
+
+    <div class="status">
+        ✅ <strong>Stripe Integration Complete!</strong><br>
+        Add products to cart and test the complete checkout flow.
+    </div>
+
+    <h2>Test Products</h2>
+
+    <div class="test-product">
+        <img src="/cdn/shop/files/1-min_c5eba0f1-88aa-46cb-8dbc-21c0860fa0e4_1024x1024.png" alt="Test Book 1">
+        <div class="product-info">
+            <h3>The Great Gatsby</h3>
+            <p>F. Scott Fitzgerald</p>
+            <p style="font-size: 24px; font-weight: bold; color: #28a745;">AED 20.00</p>
+        </div>
+        <button class="add-to-cart-btn" 
+                data-product-id="test-1"
+                data-product-title="The Great Gatsby"
+                data-product-price="20.00"
+                data-product-image="/cdn/shop/files/1-min_c5eba0f1-88aa-46cb-8dbc-21c0860fa0e4_1024x1024.png">
+            <i class="fa fa-shopping-cart"></i> Add to Cart
+        </button>
+    </div>
+
+    <div class="test-product">
+        <img src="/cdn/shop/files/2-min_4c2c2f72-51c8-4e52-8d43-e28d151780d6_1024x1024.png" alt="Test Book 2">
+        <div class="product-info">
+            <h3>1984</h3>
+            <p>George Orwell</p>
+            <p style="font-size: 24px; font-weight: bold; color: #28a745;">AED 25.00</p>
+        </div>
+        <button class="add-to-cart-btn"
+                data-product-id="test-2"
+                data-product-title="1984"
+                data-product-price="25.00"
+                data-product-image="/cdn/shop/files/2-min_4c2c2f72-51c8-4e52-8d43-e28d151780d6_1024x1024.png">
+            <i class="fa fa-shopping-cart"></i> Add to Cart
+        </button>
+    </div>
+
+    <div class="test-product">
+        <img src="/cdn/shop/files/3-min_5f78c698-3c96-4b7c-b1de-4cc449c67e68_1024x1024.png" alt="Test Book 3">
+        <div class="product-info">
+            <h3>To Kill a Mockingbird</h3>
+            <p>Harper Lee</p>
+            <p style="font-size: 24px; font-weight: bold; color: #28a745;">AED 22.00</p>
+        </div>
+        <button class="add-to-cart-btn"
+                data-product-id="test-3"
+                data-product-title="To Kill a Mockingbird"
+                data-product-price="22.00"
+                data-product-image="/cdn/shop/files/3-min_5f78c698-3c96-4b7c-b1de-4cc449c67e68_1024x1024.png">
+            <i class="fa fa-shopping-cart"></i> Add to Cart
+        </button>
+    </div>
+
+    <div style="margin-top: 40px; padding: 20px; background: #f8f9fa; border-radius: 5px;">
+        <h3>📝 Testing Instructions:</h3>
+        <ol>
+            <li>Click "Add to Cart" buttons above</li>
+            <li>Watch for green success notification</li>
+            <li>See cart count update in top-right corner</li>
+            <li>Click cart icon to view cart</li>
+            <li>Update quantities, remove items</li>
+            <li>Fill billing form</li>
+            <li>Use test card: <code>4242 4242 4242 4242</code></li>
+            <li>Complete checkout</li>
+            <li>View order confirmation</li>
+        </ol>
+    </div>
+
+    <script src="cdn/shop/t/146/assets/jquery.js"></script>
+    <script src="cdn/shop/t/146/assets/cart-integration.js"></script>
+    <script>
+        // Additional test-specific handlers
+        $('.add-to-cart-btn').on('click', function() {
+            const product = {
+                id: $(this).data('product-id'),
+                title: $(this).data('product-title'),
+                price: parseFloat($(this).data('product-price')),
+                image: $(this).data('product-image'),
+                quantity: 1
+            };
+
+            BookLoopCart.add(product);
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,19 @@
+{
+  "name": "bookloop-book-store",
+  "version": "1.0.0",
+  "description": "Book Loop Book - Online Bookstore with Stripe Integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
