@@ -21,7 +21,7 @@ Disallow: /.well-known/shopify/monorail
 Disallow: /recommendations/products
 Disallow: /*/recommendations/products
 
-Sitemap: https://bookhero.ae/sitemap.xml
+Sitemap: /sitemap.xml
 
 User-agent: adsbot-google
 Disallow: /checkouts/
