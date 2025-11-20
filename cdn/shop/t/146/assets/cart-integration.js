@@ -41,6 +41,29 @@
       
       add(product) {
         console.log('Adding product to cart:', product);
+        
+        // Validate product before adding
+        const price = parseFloat(product.price);
+        const title = String(product.title || '').trim();
+        
+        // Reject invalid products
+        if (!price || isNaN(price) || price <= 0) {
+          console.error('Cannot add product: invalid price', product);
+          return false;
+        }
+        
+        if (!title || title === '' || title === 'Unknown Product') {
+          console.error('Cannot add product: invalid title', product);
+          return false;
+        }
+        
+        // Reject menu items, category headers, etc.
+        const invalidTitles = ['SHOP BY CATEGORY', 'CATEGORY', 'MENU', 'NAVIGATION'];
+        if (invalidTitles.some(invalid => title.toUpperCase().includes(invalid))) {
+          console.error('Cannot add product: appears to be a menu/category item', product);
+          return false;
+        }
+        
         const items = this.get();
         const existing = items.find(item => String(item.id) === String(product.id));
         
@@ -49,8 +72,8 @@
         } else {
           items.push({
             id: String(product.id || Date.now().toString()),
-            title: product.title,
-            price: parseFloat(product.price) || 0,
+            title: title,
+            price: price,
             image: product.image || '/cdn/shop/files/placeholder.jpg',
             quantity: parseInt(product.quantity) || 1
           });
@@ -59,6 +82,7 @@
         this.save(items);
         this.showNotification('Added to cart!');
         console.log('Cart after add:', this.get());
+        return true;
       },
       
       updateQuantity(id, quantity) {
@@ -82,7 +106,11 @@
       },
       
       getTotal() {
-        return this.get().reduce((sum, item) => sum + (parseFloat(item.price) * parseInt(item.quantity)), 0);
+        return this.get().reduce((sum, item) => {
+          const price = parseFloat(item.price) || 0;
+          const qty = parseInt(item.quantity) || 1;
+          return sum + (price * qty);
+        }, 0);
       },
       
       getCount() {
@@ -114,9 +142,37 @@
           return;
         }
         
-        console.log('Updating sidebar cart with', items.length, 'items');
+        // Filter out invalid items (null price, invalid titles, etc.)
+        const validItems = items.filter(item => {
+          const price = parseFloat(item.price);
+          const title = String(item.title || '').trim();
+          
+          // Reject items with null/invalid price
+          if (!price || isNaN(price) || price <= 0) {
+            console.warn('Removing invalid item from cart (invalid price):', item);
+            return false;
+          }
+          
+          // Reject items with invalid titles (menu items, category headers, etc.)
+          const invalidTitles = ['SHOP BY CATEGORY', 'CATEGORY', 'MENU', 'NAVIGATION', 'Unknown Product'];
+          if (!title || title === '' || invalidTitles.some(invalid => title.toUpperCase().includes(invalid))) {
+            console.warn('Removing invalid item from cart (invalid title):', item);
+            return false;
+          }
+          
+          return true;
+        });
         
-        if (items.length === 0) {
+        // If we filtered out items, save the cleaned cart
+        if (validItems.length !== items.length) {
+          console.log('Cleaned cart: removed', items.length - validItems.length, 'invalid items');
+          this.save(validItems);
+          return; // Will be called again after save
+        }
+        
+        console.log('Updating sidebar cart with', validItems.length, 'items');
+        
+        if (validItems.length === 0) {
           $sidebarContainer.html('<p style="padding: 20px; text-align: center;">Your cart is empty</p>');
           return;
         }
@@ -124,19 +180,23 @@
         let html = '<div class="cart-items">';
         let total = 0;
         
-        items.forEach(item => {
+        validItems.forEach(item => {
           const itemPrice = parseFloat(item.price) || 0;
           const itemQty = parseInt(item.quantity) || 1;
           const itemTotal = itemPrice * itemQty;
           total += itemTotal;
           
+          // Ensure we have valid numbers before calling toFixed
+          const priceStr = (itemPrice && !isNaN(itemPrice)) ? itemPrice.toFixed(2) : '0.00';
+          const totalStr = (itemTotal && !isNaN(itemTotal)) ? itemTotal.toFixed(2) : '0.00';
+          
           html += `
             <div class="cart-item" style="display: flex; padding: 15px; border-bottom: 1px solid #eee; align-items: center;">
-              <img src="${item.image}" alt="${item.title}" style="width: 60px; height: 80px; object-fit: cover; margin-right: 15px;" onerror="this.src='/cdn/shop/files/placeholder.jpg'">
+              <img src="${item.image || '/cdn/shop/files/placeholder.jpg'}" alt="${item.title}" style="width: 60px; height: 80px; object-fit: cover; margin-right: 15px;" onerror="this.src='/cdn/shop/files/placeholder.jpg'">
               <div style="flex: 1;">
-                <h6 style="margin: 0 0 5px 0; font-size: 14px;">${item.title}</h6>
-                <p style="margin: 0; font-size: 12px; color: #666;">Qty: ${itemQty} × $${itemPrice.toFixed(2)}</p>
-                <p style="margin: 5px 0 0 0; font-weight: bold;">$${itemTotal.toFixed(2)}</p>
+                <h6 style="margin: 0 0 5px 0; font-size: 14px;">${item.title || 'Unknown Product'}</h6>
+                <p style="margin: 0; font-size: 12px; color: #666;">Qty: ${itemQty} × $${priceStr}</p>
+                <p style="margin: 5px 0 0 0; font-weight: bold;">$${totalStr}</p>
               </div>
             </div>
           `;
@@ -328,28 +388,137 @@
         return;
       }
       
-      // Add to cart
-      BookLoopCart.add(product);
+      // Additional validation: reject menu items and category headers
+      const invalidTitles = ['SHOP BY CATEGORY', 'CATEGORY', 'MENU', 'NAVIGATION'];
+      if (invalidTitles.some(invalid => product.title.toUpperCase().includes(invalid))) {
+        console.error('Rejecting non-product item:', product);
+        return; // Silently reject, don't show alert
+      }
       
-      // Update and open sidebar
-      BookLoopCart.updateSidebarCart();
-      setTimeout(function() {
-        const $cartSide = $('#cart_side');
-        if ($cartSide.length) {
-          BookLoopCart.updateSidebarCart();
-          $cartSide.addClass('open-side');
-          console.log('Cart sidebar opened');
+      // Add to cart
+      const added = BookLoopCart.add(product);
+      if (!added) {
+        console.error('Failed to add product to cart');
+        return;
+      }
+      
+      // Update and open sidebar - ALWAYS open after adding item, NEVER auto-close
+      const $cartSide = $('#cart_side');
+      if ($cartSide.length) {
+        // Set flag to prevent closing during add-to-cart operation
+        window._cartAddingItem = true;
+        
+        // Update cart data first
+        BookLoopCart.updateSidebarCart();
+        
+        // Set up a watcher to immediately re-open if something closes it
+        const cartElement = $cartSide[0];
+        let closeWatcher = null;
+        if (cartElement) {
+          closeWatcher = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+              if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+                if (window._cartAddingItem && !cartElement.classList.contains('open-side')) {
+                  console.log('Detected cart close attempt, forcing it back open');
+                  $cartSide.addClass('open-side');
+                }
+              }
+            });
+          });
+          closeWatcher.observe(cartElement, {
+            attributes: true,
+            attributeFilter: ['class']
+          });
         }
-      }, 100);
+        
+        // Always ensure sidebar is open after adding item (never toggle, always open)
+        // Cart will stay open until user manually closes it via close button
+        setTimeout(function() {
+          // Force open - add class multiple times to ensure it sticks
+          $cartSide.addClass('open-side');
+          
+          // Refresh content to show new item
+          BookLoopCart.updateSidebarCart();
+          
+          // Continuously check and re-open if something closes it (for 2 seconds)
+          let checkCount = 0;
+          const maxChecks = 20; // Check 20 times over 2 seconds
+          const checkInterval = setInterval(function() {
+            checkCount++;
+            if (!$cartSide.hasClass('open-side')) {
+              console.log('Cart was closed, forcing it back open');
+              $cartSide.addClass('open-side');
+            }
+            if (checkCount >= maxChecks) {
+              clearInterval(checkInterval);
+              window._cartAddingItem = false;
+              // Disconnect watcher after we're done
+              if (closeWatcher) {
+                closeWatcher.disconnect();
+              }
+            }
+          }, 100);
+          
+          console.log('Cart sidebar opened/refreshed after adding item - will stay open until user closes');
+        }, 100);
+      }
+    }
+
+    // Intercept any attempts to close cart during add-to-cart operations
+    // This prevents other scripts from closing the cart
+    function preventCartCloseDuringAdd() {
+      const $cartSide = $('#cart_side');
+      if ($cartSide.length) {
+        // Monitor for class changes that remove open-side
+        const cartElement = $cartSide[0];
+        if (cartElement) {
+          const originalRemoveAttribute = cartElement.removeAttribute;
+          cartElement.removeAttribute = function(name) {
+            if (name === 'class' && window._cartAddingItem) {
+              console.log('Blocked removeAttribute on cart during add-to-cart');
+              return; // Don't remove class during add-to-cart
+            }
+            return originalRemoveAttribute.apply(this, arguments);
+          };
+        }
+      }
     }
 
     // Initialize when DOM is ready
     $(document).ready(function() {
       overrideThemeHandlers();
+      preventCartCloseDuringAdd();
       
-      // Initialize cart
+      // Initialize cart and clean up any invalid items
       setTimeout(function() {
         console.log('BookLoopCart initialized');
+        
+        // Clean up invalid items from cart
+        const items = BookLoopCart.get();
+        const validItems = items.filter(item => {
+          const price = parseFloat(item.price);
+          const title = String(item.title || '').trim();
+          
+          // Reject items with null/invalid price
+          if (!price || isNaN(price) || price <= 0) {
+            return false;
+          }
+          
+          // Reject items with invalid titles
+          const invalidTitles = ['SHOP BY CATEGORY', 'CATEGORY', 'MENU', 'NAVIGATION', 'Unknown Product'];
+          if (!title || title === '' || invalidTitles.some(invalid => title.toUpperCase().includes(invalid))) {
+            return false;
+          }
+          
+          return true;
+        });
+        
+        // If we found invalid items, clean them up
+        if (validItems.length !== items.length) {
+          console.log('Cleaning cart: removing', items.length - validItems.length, 'invalid items');
+          BookLoopCart.save(validItems);
+        }
+        
         BookLoopCart.updateCount();
         BookLoopCart.updateSidebarCart();
       }, 100);
@@ -427,23 +596,45 @@
         }
       });
 
-      // Sidebar close
-      $(document).on('click', '.close-cart a, #cart_side .overlay', function(e) {
+      // Sidebar close - ONLY via close button, NOT via overlay
+      // Disabled auto-close on overlay click - user must use close button
+      // Also prevent closing if we're in the middle of adding an item
+      $(document).on('click', '.close-cart a, .close-cart, .close-cart button', function(e) {
+        // Don't allow closing if we're adding an item
+        if (window._cartAddingItem) {
+          console.log('Prevented cart close during add-to-cart operation');
+          return;
+        }
         e.preventDefault();
+        e.stopPropagation();
         $('#cart_side').removeClass('open-side');
+        console.log('Cart closed via close button');
+      });
+      
+      // Prevent overlay from closing cart - user wants manual control only
+      $(document).on('click', '#cart_side .overlay', function(e) {
+        e.stopPropagation(); // Prevent any default close behavior
+        // Don't close - let user use close button
       });
 
-      // MutationObserver for sidebar
+      // MutationObserver for sidebar - refresh content when opened (but don't interfere with our add-to-cart)
       if ($('#cart_side').length) {
         const cartSidebar = document.getElementById('cart_side');
         if (cartSidebar) {
+          let lastUpdateTime = 0;
+          
           const observer = new MutationObserver(function(mutations) {
             mutations.forEach(function(mutation) {
               if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
                 if (cartSidebar.classList.contains('open-side')) {
-                  setTimeout(function() {
-                    BookLoopCart.updateSidebarCart();
-                  }, 50);
+                  // Only update if it's been more than 200ms since last update (prevents rapid updates)
+                  const now = Date.now();
+                  if (now - lastUpdateTime > 200) {
+                    lastUpdateTime = now;
+                    setTimeout(function() {
+                      BookLoopCart.updateSidebarCart();
+                    }, 50);
+                  }
                 }
               }
             });
