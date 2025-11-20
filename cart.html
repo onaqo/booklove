@@ -285,7 +285,8 @@
             },
             
             remove(id) {
-                const items = this.get().filter(item => item.id !== id);
+                id = String(id);
+                const items = this.get().filter(item => String(item.id) !== id);
                 this.save(items);
             },
             
