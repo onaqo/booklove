@@ -156,7 +156,7 @@ Creates a Stripe Payment Intent
 ```json
 {
   "amount": 4000,
-  "currency": "aed",
+  "currency": "$",
   "cart": [...],
   "billing": {...}
 }
@@ -229,7 +229,7 @@ $('.add-to-cart-btn').on('click', function(e) {
 ## Customization
 
 ### Currency
-To change from AED to another currency:
+To change from $ to another currency:
 
 1. Update `checkout.html` line 120:
 ```javascript
@@ -238,7 +238,7 @@ currency: 'usd', // Change to your currency
 
 2. Update display in all HTML files:
 ```javascript
-// Replace: AED ${price}
+// Replace: $ ${price}
 // With: $${price} or £${price}
 ```
 
@@ -251,7 +251,7 @@ function calculateShipping(billing) {
   if (billing.country === 'AE') {
     return 0; // Free shipping in UAE
   }
-  return 10; // AED 10 for international
+  return 10; // $ 10 for international
 }
 ```
 

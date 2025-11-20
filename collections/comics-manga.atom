@@ -51,7 +51,7 @@ Pages: 368</p></td>
     <s:variant>
       <id>/products/8574794301593</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>14RB9780826429384</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -95,7 +95,7 @@ Pages: 368</p></td>
     <s:variant>
       <id>/products/8570850967705</id>
       <title>Default Title</title>
-      <s:price currency="AED">220.00</s:price>
+      <s:price currency="$">220.00</s:price>
       <s:sku>11RA313132</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -142,7 +142,7 @@ Pages: 160</p></td>
     <s:variant>
       <id>/products/8569917374617</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>13RA9781421584423</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -185,7 +185,7 @@ Pages: 200</p></td>
     <s:variant>
       <id>/products/8559942238361</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421576923</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -228,7 +228,7 @@ Pages: 224</p></td>
     <s:variant>
       <id>/products/8559942205593</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781591169987</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -271,7 +271,7 @@ Pages: 190</p></td>
     <s:variant>
       <id>/products/8559942172825</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39780007320899</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -314,7 +314,7 @@ Pages: 200</p></td>
     <s:variant>
       <id>/products/8559942107289</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421551494</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -357,7 +357,7 @@ Pages: 210</p></td>
     <s:variant>
       <id>/products/8559942074521</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781974700370</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -400,7 +400,7 @@ Pages: 200</p></td>
     <s:variant>
       <id>/products/8559942041753</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421580449</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -443,7 +443,7 @@ Pages: 216</p></td>
     <s:variant>
       <id>/products/8559942008985</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421590424</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -486,7 +486,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941943449</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632367341</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -529,7 +529,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941910681</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632366849</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -572,7 +572,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941877913</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632365729</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -615,7 +615,7 @@ Pages: 191</p></td>
     <s:variant>
       <id>/products/8559941812377</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39780007320882</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -658,7 +658,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941779609</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421597126</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -701,7 +701,7 @@ Pages: 160</p></td>
     <s:variant>
       <id>/products/8559941746841</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781646510696</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -744,7 +744,7 @@ Pages: 184</p></td>
     <s:variant>
       <id>/products/8559941681305</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781421551371</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -787,7 +787,7 @@ Pages: 176</p></td>
     <s:variant>
       <id>/products/8559941615769</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632361622</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -830,7 +830,7 @@ Pages: 176</p></td>
     <s:variant>
       <id>/products/8559941550233</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632361639</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -873,7 +873,7 @@ Pages: 152</p></td>
     <s:variant>
       <id>/products/8559941517465</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781427818768</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -916,7 +916,7 @@ Pages: 376</p></td>
     <s:variant>
       <id>/products/8559941451929</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39780316360180</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -959,7 +959,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941419161</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632363152</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1002,7 +1002,7 @@ Pages: 176</p></td>
     <s:variant>
       <id>/products/8559941386393</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632363145</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1045,7 +1045,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941320857</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632363138</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1088,7 +1088,7 @@ Pages: 192</p></td>
     <s:variant>
       <id>/products/8559941288089</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>Manga-A-39781632362810</s:sku>
       <s:grams>0</s:grams>
     </s:variant>

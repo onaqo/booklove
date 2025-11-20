@@ -47,7 +47,7 @@
     <s:variant>
       <id>/products/8570850967705</id>
       <title>Default Title</title>
-      <s:price currency="AED">220.00</s:price>
+      <s:price currency="$">220.00</s:price>
       <s:sku>11RA313132</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -88,7 +88,7 @@
     <s:variant>
       <id>/products/8559360540825</id>
       <title>Default Title</title>
-      <s:price currency="AED">60.00</s:price>
+      <s:price currency="$">60.00</s:price>
       <s:sku>12RA32323</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -132,7 +132,7 @@
     <s:variant>
       <id>/products/8554821451929</id>
       <title>Default Title</title>
-      <s:price currency="AED">50.00</s:price>
+      <s:price currency="$">50.00</s:price>
       <s:sku>14RA34324</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -175,7 +175,7 @@
     <s:variant>
       <id>/products/8551699218585</id>
       <title>Default Title</title>
-      <s:price currency="AED">300.00</s:price>
+      <s:price currency="$">300.00</s:price>
       <s:sku>3RA235</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -233,7 +233,7 @@
     <s:variant>
       <id>/products/8551697481881</id>
       <title>Default Title</title>
-      <s:price currency="AED">450.00</s:price>
+      <s:price currency="$">450.00</s:price>
       <s:sku>9RA98765</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -278,7 +278,7 @@
     <s:variant>
       <id>/products/8551692402841</id>
       <title>Default Title</title>
-      <s:price currency="AED">200.00</s:price>
+      <s:price currency="$">200.00</s:price>
       <s:sku>3RA398762</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -324,7 +324,7 @@
     <s:variant>
       <id>/products/8551691223193</id>
       <title>Default Title</title>
-      <s:price currency="AED">200.00</s:price>
+      <s:price currency="$">200.00</s:price>
       <s:sku>3RA456</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -382,7 +382,7 @@
     <s:variant>
       <id>/products/8551689420953</id>
       <title>Default Title</title>
-      <s:price currency="AED">300.00</s:price>
+      <s:price currency="$">300.00</s:price>
       <s:sku>3RA324568</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -458,7 +458,7 @@
     <s:variant>
       <id>/products/8549468143769</id>
       <title>Default Title</title>
-      <s:price currency="AED">180.00</s:price>
+      <s:price currency="$">180.00</s:price>
       <s:sku>13RA8765432</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -497,7 +497,7 @@
     <s:variant>
       <id>/products/8548992057497</id>
       <title>Default Title</title>
-      <s:price currency="AED">150.00</s:price>
+      <s:price currency="$">150.00</s:price>
       <s:sku>10RA09876543</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -564,7 +564,7 @@
     <s:variant>
       <id>/products/8546078818457</id>
       <title>Default Title</title>
-      <s:price currency="AED">70.00</s:price>
+      <s:price currency="$">70.00</s:price>
       <s:sku>11RA230987423</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -657,7 +657,7 @@
     <s:variant>
       <id>/products/8546065842329</id>
       <title>Default Title</title>
-      <s:price currency="AED">160.00</s:price>
+      <s:price currency="$">160.00</s:price>
       <s:sku>11RA230987423</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -728,7 +728,7 @@
     <s:variant>
       <id>/products/8546057617561</id>
       <title>Default Title</title>
-      <s:price currency="AED">80.00</s:price>
+      <s:price currency="$">80.00</s:price>
       <s:sku>11RA230987423E3</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -821,7 +821,7 @@
     <s:variant>
       <id>/products/8546045001881</id>
       <title>Default Title</title>
-      <s:price currency="AED">150.00</s:price>
+      <s:price currency="$">150.00</s:price>
       <s:sku>11RA98765756</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -862,7 +862,7 @@
     <s:variant>
       <id>/products/8525655081113</id>
       <title>Default Title</title>
-      <s:price currency="AED">60.00</s:price>
+      <s:price currency="$">60.00</s:price>
       <s:sku>4RA9781612680156</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -939,7 +939,7 @@
     <s:variant>
       <id>/products/8506533413017</id>
       <title>Default Title</title>
-      <s:price currency="AED">80.00</s:price>
+      <s:price currency="$">80.00</s:price>
       <s:sku>14RA9780843198355</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -977,7 +977,7 @@
     <s:variant>
       <id>/products/8443474182297</id>
       <title>Default Title</title>
-      <s:price currency="AED">800.00</s:price>
+      <s:price currency="$">800.00</s:price>
       <s:sku>6RA34647</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1026,7 +1026,7 @@ Pages: 640</p></td>
     <s:variant>
       <id>/products/8402572148889</id>
       <title>Default Title</title>
-      <s:price currency="AED">100.00</s:price>
+      <s:price currency="$">100.00</s:price>
       <s:sku>5RB9780603564703</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1068,7 +1068,7 @@ Pages: 640</p></td>
     <s:variant>
       <id>/products/8380500541593</id>
       <title>Default Title</title>
-      <s:price currency="AED">30.00</s:price>
+      <s:price currency="$">30.00</s:price>
       <s:sku>8RC9781338299175</s:sku>
       <s:grams>0</s:grams>
     </s:variant>

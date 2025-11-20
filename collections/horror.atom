@@ -50,7 +50,7 @@ Pages: 400</p></td>
     <s:variant>
       <id>/products/8579109847193</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>12RD9780007386970</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -98,7 +98,7 @@ Pages: 400</p></td>
     <s:variant>
       <id>/products/8579094118553</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>11RC9781529398366</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -145,7 +145,7 @@ Pages: 400</p></td>
     <s:variant>
       <id>/products/8579094085785</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>11RC9781789544268</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -194,7 +194,7 @@ Pages: 336</p></td>
     <s:variant>
       <id>/products/8575990431897</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>17RD-4-9781529402674</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -243,7 +243,7 @@ Pages: 272</p></td>
     <s:variant>
       <id>/products/8574776311961</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>14RD9781982105150</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -294,7 +294,7 @@ Pages: 352</p></td>
     <s:variant>
       <id>/products/8574775984281</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>14RD9780062351821</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -346,7 +346,7 @@ Pages: 416</p></td>
     <s:variant>
       <id>/products/8574772871321</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>14RE9780061450549</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -394,7 +394,7 @@ Pages: 69</p></td>
     <s:variant>
       <id>/products/8574265327769</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>13RD9780582418080</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -441,7 +441,7 @@ Pages: 276</p></td>
     <s:variant>
       <id>/products/8574254350489</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>13RG9780143068099</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -488,7 +488,7 @@ Pages: 451</p></td>
     <s:variant>
       <id>/products/8569767657625</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>12RC9780007157761</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -537,7 +537,7 @@ Pages: 141</p></td>
     <s:variant>
       <id>/products/8558619132057</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RD-39781406320602</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -585,7 +585,7 @@ Pages: 392</p></td>
     <s:variant>
       <id>/products/8558617723033</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RD-39781444704693</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -635,7 +635,7 @@ Pages: 378</p></td>
     <s:variant>
       <id>/products/8558588264601</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RD-29780007257058</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -684,7 +684,7 @@ Pages: 231</p></td>
     <s:variant>
       <id>/products/8558587805849</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RD-29780545417976</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -732,7 +732,7 @@ Pages: 224</p></td>
     <s:variant>
       <id>/products/8551207141529</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RB-29781406337181</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -783,7 +783,7 @@ Pages: 224</p></td>
     <s:variant>
       <id>/products/8549458116761</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RA-59780007260416</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -833,7 +833,7 @@ Pages: 496</p></td>
     <s:variant>
       <id>/products/8549458051225</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RA-59780007179596</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -887,7 +887,7 @@ Pages: 320</p></td>
     <s:variant>
       <id>/products/8546222375065</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>17RA-19781492615743</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -935,7 +935,7 @@ Pages: 480</p></td>
     <s:variant>
       <id>/products/8545366474905</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>16RD-19780141325033</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -983,7 +983,7 @@ Pages: 384</p></td>
     <s:variant>
       <id>/products/8545366147225</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>16RD-19781501166112</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1032,7 +1032,7 @@ Pages: 208</p></td>
     <s:variant>
       <id>/products/8545350221977</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>10RB9781846471322</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1081,7 +1081,7 @@ Pages: 150</p></td>
     <s:variant>
       <id>/products/8533660696729</id>
       <title>Default Title</title>
-      <s:price currency="AED">30.00</s:price>
+      <s:price currency="$">30.00</s:price>
       <s:sku>16RC-19789189143173</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1130,7 +1130,7 @@ Pages: 288</p></td>
     <s:variant>
       <id>/products/8530554257561</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>16RA-2-9781501168369</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1179,7 +1179,7 @@ Pages: 246</p></td>
     <s:variant>
       <id>/products/8530554060953</id>
       <title>Default Title</title>
-      <s:price currency="AED">20.00</s:price>
+      <s:price currency="$">20.00</s:price>
       <s:sku>16RA-2-9780099594659</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
@@ -1226,7 +1226,7 @@ Pages: 96</p></td>
     <s:variant>
       <id>/products/8528697720985</id>
       <title>Default Title</title>
-      <s:price currency="AED">10.00</s:price>
+      <s:price currency="$">10.00</s:price>
       <s:sku>15RE-3-9780679810476</s:sku>
       <s:grams>0</s:grams>
     </s:variant>
