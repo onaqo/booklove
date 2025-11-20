@@ -114,6 +114,8 @@
         `;
       });
       
+      const cartUrl = '/cart.html';
+      
       html += `
         </div>
         <div class="cart-total" style="padding: 20px; border-top: 2px solid #333;">
@@ -121,12 +123,9 @@
             <strong>Total:</strong>
             <strong>$${total.toFixed(2)}</strong>
           </div>
-          <a href="cart.html" class="btn btn-solid" style="display: block; text-align: center; padding: 12px; background: #333; color: white; text-decoration: none; border-radius: 4px; margin-bottom: 10px;">
+          <a href="${cartUrl}" class="btn btn-solid view-cart-checkout" style="display: block; text-align: center; padding: 12px; background: #333; color: white; text-decoration: none; border-radius: 4px;">
             View Cart & Checkout
           </a>
-          <button onclick="window.location.href='cart.html'" class="btn btn-outline" style="display: block; width: 100%; text-align: center; padding: 12px; background: white; color: #333; border: 1px solid #333; text-decoration: none; border-radius: 4px; cursor: pointer;">
-            Continue Shopping
-          </button>
         </div>
       `;
       
@@ -176,6 +175,13 @@
       BookLoopCart.updateCount();
       BookLoopCart.updateSidebarCart(); // Update sidebar cart on page load
     }, 100);
+    
+    // Ensure "View Cart & Checkout" always redirects without triggering other handlers
+    $(document).on('click', '.view-cart-checkout', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      window.location.href = '/cart.html';
+    });
     
     // Handle "Add to Cart" button clicks (no delay needed for event handlers)
     $(document).on('click', '.add-to-cart, .add_to_cart, .ajax_addtocart, .add_to_cart_detail, .fly_addtocart, .add_to_cart_btn_cls, button[name="add"]', function(e) {
