@@ -2,31 +2,31 @@
 ║                     ✅ CURRENCY CHANGED TO USD (COMPLETE)                    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-All pricing has been updated from AED to USD across the entire checkout system.
+All pricing has been updated from $ to USD across the entire checkout system.
 
 📋 FILES UPDATED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ✅ cart.html
-   - Cart item prices: AED → $
-   - Cart totals: AED → $
-   - Summary display: AED → $
+   - Cart item prices: $ → $
+   - Cart totals: $ → $
+   - Summary display: $ → $
 
 ✅ checkout.html
-   - Order item prices: AED → $
-   - Order summary: AED → $
-   - Payment intent currency: 'aed' → 'usd'
+   - Order item prices: $ → $
+   - Order summary: $ → $
+   - Payment intent currency: '$' → 'usd'
 
 ✅ order-confirmation.html
-   - Order item prices: AED → $
-   - Order summary: AED → $
-   - Total paid: AED → $
+   - Order item prices: $ → $
+   - Order summary: $ → $
+   - Total paid: $ → $
 
 ✅ test-cart.html
-   - All test product prices: AED → $
+   - All test product prices: $ → $
 
 ✅ api/send-confirmation-email.js
-   - Email confirmation amounts: AED → $
+   - Email confirmation amounts: $ → $
 
 🔄 WHAT THIS MEANS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

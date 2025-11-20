@@ -372,7 +372,7 @@ Add order tracking:
 gtag('event', 'purchase', {
   transaction_id: orderId,
   value: total,
-  currency: 'AED',
+  currency: '$',
   items: cart
 });
 ```
